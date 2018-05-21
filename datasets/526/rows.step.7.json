@@ -1,0 +1,3187 @@
+[
+  {
+    "global_id": 477012417,
+    "Number": 1,
+    "Cells": {
+      "global_id": 477012417,
+      "NumOfVisitors": null,
+      "CommonName": "Библиотека №33 им. Д. А. Фурманова",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система Северного административного округа», Библиотека №33 им. Д.А. Фурманова",
+      "ShortName":
+        "ГБУК г. Москвы «ЦБС САО», Библиотека №33 им. Д.А. Фурманова",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Северного административного округа»",
+      "OrgInfo": [
+        {
+          "OGRN": "1127746035394",
+          "ChiefName": "Шапкина Наталья Владимировна",
+          "ChiefPhone": [{ "ChiefPhone": "(499) 159-90-88" }],
+          "INN": "7743842112",
+          "KPP": "774301001",
+          "LegalAddress":
+            "127299, г. Москва, улица Клары Цеткин, дом 11, корпус 2",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Северного административного округа»",
+          "ChiefPosition": "генеральный директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "125284",
+          "District": "район Беговой",
+          "Address": "город Москва, 1-й Боткинский проезд, дом 4",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "тактильное обозначение санузла",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживании с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "тактильная полоса перед входной лестницей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживания с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "ширина дверей в кабинеты",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "обслуживание через окно/прилавок",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "пандус с поручнями и его уклон (отношение высоты к длине)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                }
+              ],
+              "available_o": "частично",
+              "available_z": "частично",
+              "available_s": "полностью",
+              "available_k": "частично"
+            }
+          ],
+          "AdmArea": "Северный административный округ"
+        },
+        {
+          "PostalCode": "125284",
+          "District": "район Беговой",
+          "Address": "город Москва, Беговая улица, дом 13",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживании с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "обслуживание через окно/прилавок",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживания с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn":
+                    "платформа подъемная (мобильный лестничный подъемник)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "ширина дверей в кабинеты",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                }
+              ],
+              "available_o": "частично",
+              "available_z": "частично",
+              "available_s": "полностью",
+              "available_k": "частично"
+            }
+          ],
+          "AdmArea": "Северный административный округ"
+        }
+      ],
+      "ChiefName": "Прохорова Елизавета Федоровна",
+      "ChiefPosition": "Заведующий",
+      "PublicPhone": [
+        { "PublicPhone": ["(495) 945-80-50"] },
+        { "PublicPhone": ["(495) 946-03-62"] },
+        { "PublicPhone": ["(495) 945-37-31"] }
+      ],
+      "Fax": [{ "Fax": ["(495) 945-80-50"] }],
+      "Email": [{ "Email": ["bib33@cbssao.ru"] }],
+      "WorkingHours": [
+        { "WorkHours": "выходной", "DayWeek": "понедельник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "вторник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "среда" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "четверг" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "пятница" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "суббота" },
+        { "WorkHours": "12:00-20:00", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours":
+        "Последний рабочий день месяца - санитарный день",
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [37.557402548155, 55.783232312624],
+          [37.558679478055, 55.780936986484]
+        ]
+      }
+    }
+  },
+  {
+    "global_id": 477012418,
+    "Number": 2,
+    "Cells": {
+      "global_id": 477012418,
+      "NumOfVisitors": null,
+      "CommonName": "Библиотека №230",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система Северо-Западного административного округа», Библиотека №230",
+      "ShortName": "ГБУК г. Москвы «ЦБС СЗАО», Библиотека №230",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы Централизованная библиотечная система «Северо-Западного административного округа»",
+      "OrgInfo": [
+        {
+          "OGRN": "1037739737420",
+          "ChiefName": "Смирнова Елена Викторовна",
+          "ChiefPhone": [{ "ChiefPhone": "(495) 948-81-91" }],
+          "INN": "7733100217",
+          "KPP": "773301001",
+          "LegalAddress": "125363, г. Москва, бульвар Яна Райниса, дом 1",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Северо-Западного административного округа»",
+          "ChiefPosition": "генеральный директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "125364",
+          "District": "район Южное Тушино",
+          "Address": "Парусный проезд, дом 15",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживания с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживании с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "ширина дверей в кабинеты",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лифты",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "платформа подъемная (мобильный лестничный подъемник)",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "тактильная полоса перед входной лестницей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "места для инвалидов по слуху в зале",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "указатели направления движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "пандус с поручнями и его уклон (отношение высоты к длине)",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "тактильное обозначение санузла",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона рядом с унитазом",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "обслуживание через окно/прилавок",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn":
+                    "платформа подъемная (мобильный лестничный подъемник)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "тактильная полоса перед лестницей",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "места для инвалидов-колясочников в зале",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                }
+              ],
+              "available_o": "частично",
+              "available_z": "частично",
+              "available_s": "частично",
+              "available_k": "недоступно"
+            }
+          ],
+          "AdmArea": "Северо-Западный административный округ"
+        }
+      ],
+      "ChiefName": "Гнатюк Маргарита Робертовна",
+      "ChiefPosition": "Заведующий",
+      "PublicPhone": [{ "PublicPhone": ["(499) 493-53-29"] }],
+      "Fax": [{ "Fax": ["(499) 493-53-29"] }],
+      "Email": [{ "Email": ["cbs1szao@gmail.com"] }],
+      "WorkingHours": [
+        { "WorkHours": "выходной", "DayWeek": "понедельник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "вторник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "среда" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "четверг" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "пятница" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "суббота" },
+        { "WorkHours": "12:00-20:00", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours":
+        "Первое воскресенье месяца санитарный день",
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [[37.446882368479, 55.846320758438]]
+      }
+    }
+  },
+  {
+    "global_id": 477012425,
+    "Number": 3,
+    "Cells": {
+      "global_id": 477012425,
+      "NumOfVisitors": null,
+      "CommonName": "Библиотека №229",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система Северо-Западного административного округа», Библиотека №229",
+      "ShortName": "ГБУК г. Москвы «ЦБС СЗАО», Библиотека №229",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Северо-Западного административного округа»",
+      "OrgInfo": [
+        {
+          "OGRN": "1037739737420",
+          "ChiefName": "Смирнова Елена Викторовна",
+          "ChiefPhone": [{ "ChiefPhone": "(495) 948-81-91" }],
+          "INN": "7733100217",
+          "KPP": "773301001",
+          "LegalAddress": "125363, г. Москва, бульвар Яна Райниса, дом 1",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Северо-Западного административного округа»",
+          "ChiefPosition": "генеральный директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "125480",
+          "District": "район Северное Тушино",
+          "Address": "Туристская улица, дом 31, корпус 1",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "обслуживание через окно/прилавок",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "пандус с поручнями и его уклон (отношение высоты к длине)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона у раковины для кресла-коляски",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "платформа подъемная (мобильный лестничный подъемник)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "места для инвалидов по слуху в зале",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "тактильное обозначение санузла",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "тактильная полоса перед входной лестницей",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживании с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона рядом с унитазом",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживания с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "указатели направления движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "ширина дверей в кабинеты",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                }
+              ],
+              "available_o": "полностью",
+              "available_z": "полностью",
+              "available_s": "полностью",
+              "available_k": "полностью"
+            }
+          ],
+          "AdmArea": "Северо-Западный административный округ"
+        }
+      ],
+      "ChiefName": "Щербакова Раиса Николаевна",
+      "ChiefPosition": "Заведующий",
+      "PublicPhone": [{ "PublicPhone": ["(495) 495-63-77"] }],
+      "Fax": [{ "Fax": ["(495) 495-63-77"] }],
+      "Email": [{ "Email": ["cbs1szao@gmail.com"] }],
+      "WorkingHours": [
+        { "WorkHours": "выходной", "DayWeek": "понедельник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "вторник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "среда" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "четверг" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "пятница" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "суббота" },
+        { "WorkHours": "12:00-20:00", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours":
+        "Первое воскресенье месяца санитарный день",
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [[37.419539140488, 55.857336307723]]
+      }
+    }
+  },
+  {
+    "global_id": 477012432,
+    "Number": 4,
+    "Cells": {
+      "global_id": 477012432,
+      "NumOfVisitors": null,
+      "CommonName": "Библиотека №262",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система «Новомосковская», Библиотека №262",
+      "ShortName": "ГБУК г. Москвы «ЦБС «Новомосковская», Библиотека №262",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система «Новомосковская»",
+      "OrgInfo": [
+        {
+          "OGRN": "1127746557487",
+          "ChiefName": "Смирнов Артем Сергеевич",
+          "ChiefPhone": [{ "ChiefPhone": "(495) 444-50-24" }],
+          "INN": "7728813942",
+          "KPP": "773101001",
+          "LegalAddress": "121108, г. Москва, шоссе Рублевское, д. 9",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система «Новомосковская»",
+          "ChiefPosition": "директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "142762",
+          "District": "поселение Филимонковское",
+          "Address": "посёлок Марьино, дом 3",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn":
+                    "платформа подъемная (мобильный лестничный подъемник)",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "ширина дверей в кабинеты",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "контрастная маркировка ступеней",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "обслуживание через окно/прилавок",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие лифта",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "тактильная полоса перед входной лестницей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "тактильное обозначение санузла",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лифты",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "пандус с поручнями и его уклон (отношение высоты к длине)",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "платформа подъемная (мобильный лестничный подъемник)",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                }
+              ],
+              "available_o": "частично",
+              "available_z": "частично",
+              "available_s": "частично",
+              "available_k": "недоступно"
+            }
+          ],
+          "AdmArea": "Новомосковский административный округ"
+        }
+      ],
+      "ChiefName": "Смирнов Артем Сергеевич",
+      "ChiefPosition": "директор",
+      "PublicPhone": [{ "PublicPhone": ["(926) 338-06-98"] }],
+      "Fax": [],
+      "Email": [{ "Email": ["smirnow.a.s@gmail.com"] }],
+      "WorkingHours": [
+        { "WorkHours": "выходной", "DayWeek": "понедельник" },
+        { "WorkHours": "11:00-19:00", "DayWeek": "вторник" },
+        { "WorkHours": "11:00-19:00", "DayWeek": "среда" },
+        { "WorkHours": "11:00-19:00", "DayWeek": "четверг" },
+        { "WorkHours": "11:00-19:00", "DayWeek": "пятница" },
+        { "WorkHours": "11:00-19:00", "DayWeek": "суббота" },
+        { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours":
+        "Последняя пятница каждого месяца - санитарный день",
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [[37.332707800195, 55.556578208431]]
+      }
+    }
+  },
+  {
+    "global_id": 477012436,
+    "Number": 5,
+    "Cells": {
+      "global_id": 477012436,
+      "NumOfVisitors": null,
+      "CommonName": "Библиотека №134",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система Юго-Восточного административного округа», Библиотека №134",
+      "ShortName": "ГБУК г. Москвы «ЦБС ЮВАО», Библиотека №134",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Юго-Восточного административного округа»",
+      "OrgInfo": [
+        {
+          "OGRN": "1027700159695",
+          "ChiefName": "Гиряева Любовь Анатольевна",
+          "ChiefPhone": [
+            { "ChiefPhone": "(499) 170-61-97" },
+            { "ChiefPhone": "(499) 170-84-10" }
+          ],
+          "INN": "7721062542",
+          "KPP": "772101001",
+          "LegalAddress": "109428, г. Москва, улица Зарайская, дом 56А",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Юго-Восточного административного округа»",
+          "ChiefPosition": "генеральный директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "109429",
+          "District": "район Капотня",
+          "Address": "3-й квартал Капотня, дом 13",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "тактильная полоса перед входной лестницей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "тактильное обозначение санузла",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "пандус с поручнями и его уклон (отношение высоты к длине)",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "ширина дверей в кабинеты",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживании с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "платформа подъемная (мобильный лестничный подъемник)",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "обслуживание через окно/прилавок",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "места для инвалидов-колясочников в зале",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "указатели направления движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "места для инвалидов по слуху в зале",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона рядом с унитазом",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона у раковины для кресла-коляски",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "тактильная полоса перед лестницей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                }
+              ],
+              "available_o": "частично",
+              "available_z": "частично",
+              "available_s": "частично",
+              "available_k": "частично"
+            }
+          ],
+          "AdmArea": "Юго-Восточный административный округ"
+        },
+        {
+          "PostalCode": "109649",
+          "District": "район Капотня",
+          "Address": "5-й квартал Капотня, дом 17",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "ширина дверей в кабинеты",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "обслуживание через окно/прилавок",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "тактильное обозначение санузла",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживании с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона рядом с унитазом",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживания с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "места для инвалидов-колясочников в зале",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "указатели направления движения",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "тактильная полоса перед лестницей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона у раковины для кресла-коляски",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "места для инвалидов по слуху в зале",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                }
+              ],
+              "available_o": "недоступно",
+              "available_z": "частично",
+              "available_s": "недоступно",
+              "available_k": "недоступно"
+            }
+          ],
+          "AdmArea": "Юго-Восточный административный округ"
+        }
+      ],
+      "ChiefName": "Панферова Светлана Владимировна",
+      "ChiefPosition": "Заведующий",
+      "PublicPhone": [
+        { "PublicPhone": ["(495) 355-74-56"] },
+        { "PublicPhone": ["(495) 657-46-40"] }
+      ],
+      "Fax": [{ "Fax": ["(495) 657-46-40"] }],
+      "Email": [{ "Email": ["134a@cbsuvao.ru"] }],
+      "WorkingHours": [
+        { "WorkHours": "выходной", "DayWeek": "понедельник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "вторник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "среда" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "четверг" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "пятница" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "суббота" },
+        { "WorkHours": "12:00-20:00", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours":
+        "Последний вторник месяца - с 9:30 до 18:00",
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [37.80266784364, 55.633007228346],
+          [37.795943279003, 55.635215973594]
+        ]
+      }
+    }
+  },
+  {
+    "global_id": 477012437,
+    "Number": 6,
+    "Cells": {
+      "global_id": 477012437,
+      "NumOfVisitors": null,
+      "CommonName": "Библиотека №116",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система Юго-Восточного административного округа», Библиотека №116",
+      "ShortName": "ГБУК г. Москвы «ЦБС ЮВАО», Библиотека №116",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Юго-Восточного административного округа»",
+      "OrgInfo": [
+        {
+          "OGRN": "1027700159695",
+          "ChiefName": "Гиряева Любовь Анатольевна",
+          "ChiefPhone": [
+            { "ChiefPhone": "(499) 170-61-97" },
+            { "ChiefPhone": "(499) 170-84-10" }
+          ],
+          "INN": "7721062542",
+          "KPP": "772101001",
+          "LegalAddress": "109428, г. Москва, улица Зарайская, дом 56А",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Юго-Восточного административного округа»",
+          "ChiefPosition": "генеральный директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "109052",
+          "District": "Нижегородский район",
+          "Address": "Нижегородская улица, дом 70, корпус 1",
+          "Availability": [],
+          "AdmArea": "Юго-Восточный административный округ"
+        }
+      ],
+      "ChiefName": "Юлгушова Юлия Александровна",
+      "ChiefPosition": "Заведующий",
+      "PublicPhone": [{ "PublicPhone": ["(495) 671-28-94"] }],
+      "Fax": [{ "Fax": ["(495) 671-28-94"] }],
+      "Email": [{ "Email": ["116a@cbsuvao.ru"] }],
+      "WorkingHours": [
+        { "WorkHours": "выходной", "DayWeek": "понедельник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "вторник" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "среда" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "четверг" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "пятница" },
+        { "WorkHours": "12:00-22:00", "DayWeek": "суббота" },
+        { "WorkHours": "12:00-20:00", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours":
+        "Последний вторник месяца - с 9:30 до 18:00",
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [[37.709733764302, 55.733339069233]]
+      }
+    }
+  },
+  {
+    "global_id": 477012440,
+    "Number": 7,
+    "Cells": {
+      "global_id": 477012440,
+      "NumOfVisitors": null,
+      "CommonName": "Библиотека №102",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система Восточного административного округа», Библиотека №102",
+      "ShortName": "ГБУК г. Москвы «ЦБС ВАО», Библиотека №102",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Восточного административного округа»",
+      "OrgInfo": [
+        {
+          "OGRN": "1037739145751",
+          "ChiefName": "Жадёнов Олег Михайлович",
+          "ChiefPhone": [{ "ChiefPhone": "(499) 162-97-57" }],
+          "INN": "7718106782",
+          "KPP": "771801001",
+          "LegalAddress": "107392, г. Москва, улица Халтуринская, дом 18",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Восточного административного округа»",
+          "ChiefPosition": "генеральный директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "111398",
+          "District": "район Перово",
+          "Address": "улица Плеханова, дом 26, корпус 4",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживании с перемещением)",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn":
+                    "платформа подъемная (мобильный лестничный подъемник)",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона рядом с унитазом",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "контрастная маркировка ступеней",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "тактильное обозначение санузла",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "места для инвалидов-колясочников в зале",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона у раковины для кресла-коляски",
+                  "available_degree": "недоступно",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лифты",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "указатели направления движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживания с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие лифта",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                }
+              ],
+              "available_o": "частично",
+              "available_z": "частично",
+              "available_s": "частично",
+              "available_k": "частично"
+            }
+          ],
+          "AdmArea": "Восточный административный округ"
+        }
+      ],
+      "ChiefName": "Овчинникова Юлия Владимировна",
+      "ChiefPosition": "директор",
+      "PublicPhone": [{ "PublicPhone": ["(495) 309-07-39"] }],
+      "Fax": [{ "Fax": ["(495) 309-07-39"] }],
+      "Email": [{ "Email": ["biblioteka126@mail.ru"] }],
+      "WorkingHours": [
+        { "WorkHours": "выходной", "DayWeek": "понедельник" },
+        { "WorkHours": "11:00-18:00", "DayWeek": "вторник" },
+        { "WorkHours": "11:00-18:00", "DayWeek": "среда" },
+        { "WorkHours": "11:00-18:00", "DayWeek": "четверг" },
+        { "WorkHours": "11:00-18:00", "DayWeek": "пятница" },
+        { "WorkHours": "11:00-17:00", "DayWeek": "суббота" },
+        { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours": null,
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [[37.768016249207, 55.740506974397]]
+      }
+    }
+  },
+  {
+    "global_id": 477012448,
+    "Number": 8,
+    "Cells": {
+      "global_id": 477012448,
+      "NumOfVisitors": null,
+      "CommonName": "Библиотека №145",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система Южного административного округа», Библиотека №145",
+      "ShortName": "ГБУК г. Москвы «ЦБС ЮАО», Библиотека №145",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Южного административного округа»",
+      "OrgInfo": [
+        {
+          "OGRN": "1037739667888",
+          "ChiefName": "Краснова Татьяна Павловна",
+          "ChiefPhone": [{ "ChiefPhone": "(499) 612-72-98" }],
+          "INN": "7724078460",
+          "KPP": "772601001",
+          "LegalAddress": "115201, г. Москва, Каширское шоссе, дом 16",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Южного административного округа»",
+          "ChiefPosition": "генеральный директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "115573",
+          "District": "район Зябликово",
+          "Address": "улица Мусы Джалиля, дом 34, корпус 4",
+          "Availability": [],
+          "AdmArea": "Южный административный округ"
+        }
+      ],
+      "ChiefName": "Карымова Елена Николаевна",
+      "ChiefPosition": "директор",
+      "PublicPhone": [{ "PublicPhone": ["(495) 393-01-00"] }],
+      "Fax": [{ "Fax": ["(495) 393-01-00"] }],
+      "Email": [{ "Email": ["ekarimova.inbox@ru"] }],
+      "WorkingHours": [
+        { "WorkHours": "13:00-20:00", "DayWeek": "понедельник" },
+        { "WorkHours": "13:00-20:00", "DayWeek": "вторник" },
+        { "WorkHours": "13:00-20:00", "DayWeek": "среда" },
+        { "WorkHours": "13:00-20:00", "DayWeek": "четверг" },
+        { "WorkHours": "13:00-20:00", "DayWeek": "пятница" },
+        { "WorkHours": "выходной", "DayWeek": "суббота" },
+        { "WorkHours": "12:00-18:00", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours":
+        "Последний рабочий день месяца - санитарный.",
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [[37.737478852818, 55.617296509762]]
+      }
+    }
+  },
+  {
+    "global_id": 477012449,
+    "Number": 9,
+    "Cells": {
+      "global_id": 477012449,
+      "NumOfVisitors": null,
+      "CommonName": "Детская библиотека №238",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система Северо-Западного административного округа», Детская библиотека №238",
+      "ShortName": "ГБУК г. Москвы «ЦБС СЗАО», Детская библиотека №238",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Северо-Западного административного округа»",
+      "OrgInfo": [
+        {
+          "OGRN": "1037739737420",
+          "ChiefName": "Смирнова Елена Викторовна",
+          "ChiefPhone": [{ "ChiefPhone": "(495) 948-81-91" }],
+          "INN": "7733100217",
+          "KPP": "773301001",
+          "LegalAddress": "125363, г. Москва, бульвар Яна Райниса, дом 1",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Северо-Западного административного округа»",
+          "ChiefPosition": "генеральный директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "125368",
+          "District": "район Митино",
+          "Address": "улица Барышиха, дом 21",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "тактильная полоса перед входной лестницей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "платформа подъемная (мобильный лестничный подъемник)",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживании с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживания с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "места для инвалидов-колясочников в зале",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "тактильное обозначение санузла",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "не соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "пандус с поручнями и его уклон (отношение высоты к длине)",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "ширина дверей в кабинеты",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "обслуживание через окно/прилавок",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "указатели направления движения",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона рядом с унитазом",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона у раковины для кресла-коляски",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "тактильная полоса перед лестницей",
+                  "available_degree": null,
+                  "Group_mgn": "инвалиды по зрению"
+                }
+              ],
+              "available_o": "полностью",
+              "available_z": "частично",
+              "available_s": "полностью",
+              "available_k": "частично"
+            }
+          ],
+          "AdmArea": "Северо-Западный административный округ"
+        }
+      ],
+      "ChiefName": "Гусенкова Валентина Владимировна",
+      "ChiefPosition": "Заведующий",
+      "PublicPhone": [{ "PublicPhone": ["(495) 794-40-93"] }],
+      "Fax": [{ "Fax": ["(495) 794-40-93"] }],
+      "Email": [{ "Email": ["cbs1szao@gmail.com"] }],
+      "WorkingHours": [
+        { "WorkHours": "выходной", "DayWeek": "понедельник" },
+        { "WorkHours": "12:00-21:00", "DayWeek": "вторник" },
+        { "WorkHours": "12:00-21:00", "DayWeek": "среда" },
+        { "WorkHours": "12:00-21:00", "DayWeek": "четверг" },
+        { "WorkHours": "12:00-21:00", "DayWeek": "пятница" },
+        { "WorkHours": "12:00-21:00", "DayWeek": "суббота" },
+        { "WorkHours": "12:00-20:00", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours":
+        "Первое воскресенье месяца санитарный день",
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [[37.34704322057, 55.844674408559]]
+      }
+    }
+  },
+  {
+    "global_id": 477012458,
+    "Number": 10,
+    "Cells": {
+      "global_id": 477012458,
+      "NumOfVisitors": null,
+      "CommonName": "Библиотека №95",
+      "FullName":
+        "Государственное бюджетное учреждение культуры города Москвы «Центральная библиотечная система Восточного административного округа», Библиотека №95",
+      "ShortName": "ГБУК г. Москвы «ЦБС ВАО», Библиотека №95",
+      "ChiefOrg":
+        "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Восточного административного округа»",
+      "OrgInfo": [
+        {
+          "OGRN": "1037739145751",
+          "ChiefName": "Жадёнов Олег Михайлович",
+          "ChiefPhone": [{ "ChiefPhone": "(499) 162-97-57" }],
+          "INN": "7718106782",
+          "KPP": "771801001",
+          "LegalAddress": "107392, г. Москва, улица Халтуринская, дом 18",
+          "FullName":
+            "Государственное бюджетное учреждение культуры города Москвы «Централизованная библиотечная система Восточного административного округа»",
+          "ChiefPosition": "генеральный директор"
+        }
+      ],
+      "ObjectAddress": [
+        {
+          "PostalCode": "111394",
+          "District": "район Новогиреево",
+          "Address": "Полимерная улица, дом 7, строение 2",
+          "Availability": [
+            {
+              "available_element": [
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживании с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "визуальные средства информации о предоставлении услуги",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "ширина входной двери",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "информационные указатели",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "тактильное обозначение санузла",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручни у унитаза",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона у раковины для кресла-коляски",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "указатели направления движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "зона рядом с унитазом",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn":
+                    "ширина полосы движения (при обслуживания с перемещением)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "габариты зоны сидения (глубина)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие надписей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие указателей, пиктограмм",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по слуху"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "контрастная маркировка ступеней",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "поручень у раковины",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "ширина двери",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "ширина полосы движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "поручни на имеющейся лестнице",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "машино-место для инвалидов",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "санитарный узел",
+                  "Element_mgn": "габариты кабины",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn":
+                    "пандус с поручнями и его уклон (отношение высоты к длине)",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "тактильная полоса перед входной лестницей",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "зона оказания услуги",
+                  "Element_mgn": "тактильные средства информации",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лифты",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "соответствует",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "наличие пандуса на пути движения",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "пути движения и эвакуации",
+                  "Element_mgn": "лестницы на пути движения",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                },
+                {
+                  "available_index": "есть",
+                  "Area_mgn": "территория объекта",
+                  "Element_mgn": "безбарьерный путь до главного входа",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-колясочники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "полностью",
+                  "Group_mgn": "инвалиды-опорники"
+                },
+                {
+                  "available_index": "нет",
+                  "Area_mgn": "входная группа",
+                  "Element_mgn": "нулевой вход",
+                  "available_degree": "частично",
+                  "Group_mgn": "инвалиды по зрению"
+                }
+              ],
+              "available_o": "частично",
+              "available_z": "частично",
+              "available_s": "частично",
+              "available_k": "полностью"
+            }
+          ],
+          "AdmArea": "Восточный административный округ"
+        }
+      ],
+      "ChiefName": "Овчинникова Юлия Владимировна",
+      "ChiefPosition": "директор",
+      "PublicPhone": [
+        { "PublicPhone": ["(495) 301-35-14"] },
+        { "PublicPhone": ["(495) 303-11-39"] }
+      ],
+      "Fax": [{ "Fax": ["(495) 303-11-39"] }],
+      "Email": [{ "Email": ["biblioteka126@mail.ru"] }],
+      "WorkingHours": [
+        { "WorkHours": "выходной", "DayWeek": "понедельник" },
+        { "WorkHours": "12:00-19:00", "DayWeek": "вторник" },
+        { "WorkHours": "выходной", "DayWeek": "среда" },
+        { "WorkHours": "12:00-19:00", "DayWeek": "четверг" },
+        { "WorkHours": "12:00-19:00", "DayWeek": "пятница" },
+        { "WorkHours": "12:00-18:00", "DayWeek": "суббота" },
+        { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+      ],
+      "ClarificationOfWorkingHours": null,
+      "NumOfSeats": null,
+      "NumOfReaders": null,
+      "geoData": {
+        "type": "MultiPoint",
+        "coordinates": [[37.800045459502, 55.747076846594]]
+      }
+    }
+  }
+]

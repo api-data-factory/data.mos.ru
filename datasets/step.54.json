@@ -1,0 +1,240 @@
+[
+  {
+    "Id": 2239,
+    "VersionNumber": 2,
+    "ReleaseNumber": 22,
+    "Caption":
+      "График приема граждан: Комитет государственных услуг города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 19,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "В наборе данных представлена информация о графике приема населения руководством Комитета с указанием времени и места приема<br>",
+    "Keywords": "график работы, прием граждан, прием населения",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "17.10.2016",
+    "SefUrl":
+      "7704697398-grafik-priema-grajdan-komitet-gosudarstvennyh-uslug-goroda-moskvy",
+    "IdentificationNumber": "7704697398-ScheduleKGU"
+  },
+  {
+    "Id": 2240,
+    "VersionNumber": 1,
+    "ReleaseNumber": 26,
+    "Caption":
+      "Справочник персоналий: Комитет по архитектуре и градостроительству города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 20,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "<p><span style=\"font-size: 14.4px; line-height: 24px; text-align: justify;\">В справочнике представлены данные о руководстве </span><span style=\"font-size: 14.4px; line-height: 24px; text-align: justify;\"><span style=\"font-size: 14.4px; line-height: 24px; text-align: justify;\">Комитета по архитектуре и градостроительству города Москва</span>, с указанием занимаемой должности, телефона и адреса электронной почты.</span></p>\n",
+    "Keywords": "сотрудники",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "29.12.2015",
+    "SefUrl":
+      "7710145589-spravochnik-personaliy-komitet-po-arhitekture-i-gradostroitelstvu-goroda-moskvy",
+    "IdentificationNumber": "7710145589-PersonaDirectionMKA"
+  },
+  {
+    "Id": 2241,
+    "VersionNumber": 2,
+    "ReleaseNumber": 20,
+    "Caption":
+      "График приема граждан: Комитет по архитектуре и градостроительству города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 20,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "<p><span style=\"font-size: 14.4px; line-height: 24px; text-align: justify;\">В наборе данных представлена информация о графике приема населения руководителями </span><span style=\"font-size: 14.4px; line-height: 24px; text-align: justify;\"><span style=\"font-size: 14.4px; line-height: 24px; text-align: justify;\">Комитета по архитектуре и градостроительству города Москва</span>, с указанием времени и места приема. &nbsp;</span></p>\n",
+    "Keywords": "график работы, прием населения, прием граждан",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "12.10.2016",
+    "SefUrl":
+      "7710145589-grafik-priema-grajdan-komitet-po-arhitekture-i-gradostroitelstvu-goroda-moskvy",
+    "IdentificationNumber": "7710145589-ScheduleMKA"
+  },
+  {
+    "Id": 2242,
+    "VersionNumber": 2,
+    "ReleaseNumber": 19,
+    "Caption": "График приема граждан: Департамент строительства города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 342,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "<p class=\"MsoNormal\"><span style=\"font-size: 9pt; line-height: 107%; font-family: Tahoma, sans-serif;\">В наборе данных представлена информация о\nграфике приема населения руководителями департамента, с указанием времени и\nместа приема. &nbsp;</span><span style=\"font-size:9.0pt;line-height:\n107%;font-family:&quot;Tahoma&quot;,sans-serif\"><o:p></o:p></span></p>\n",
+    "Keywords": "график работы, прием населения, прием граждан",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "20.12.2016",
+    "SefUrl":
+      "7707639796-grafik-priema-grajdan-departament-stroitelstva-goroda-moskvy",
+    "IdentificationNumber": "7707639796-ScheduleDS"
+  },
+  {
+    "Id": 2243,
+    "VersionNumber": 1,
+    "ReleaseNumber": 21,
+    "Caption": "Справочник персоналий: Департамент строительства города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 342,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "<p class=\"MsoNormal\"><span style=\"font-size: 9pt; line-height: 107%; font-family: Tahoma, sans-serif;\">В справочнике\nпредставлены данные о руководстве департамента, с указанием занимаемой\nдолжности, телефона и адреса электронной почты.</span><span style=\"font-size:7.0pt;mso-bidi-font-size:9.0pt;line-height:107%;font-family:\n&quot;Tahoma&quot;,sans-serif\"><o:p></o:p></span></p>\n",
+    "Keywords": "сотрудники, строительство",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "29.12.2015",
+    "SefUrl":
+      "7707639796-spravochnik-personaliy-departament-stroitelstva-goroda-moskvy",
+    "IdentificationNumber": "7707639796-PersonalDirectionDS"
+  },
+  {
+    "Id": 2244,
+    "VersionNumber": 2,
+    "ReleaseNumber": 11,
+    "Caption":
+      "График приема граждан: Департамент территориальных органов исполнительной власти города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 12,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "<p class=\"MsoNormal\"><span style=\"font-size: 9pt; line-height: 115%; font-family: Tahoma, sans-serif;\">В наборе данных представлена информация о\nграфике приема населения руководителями департамента, с указанием времени и\nместа приема. &nbsp;</span><span style=\"font-size:9.0pt;line-height:\n115%;font-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;\"><o:p></o:p></span></p>\n",
+    "Keywords": "график работы, прием населения, прием граждан",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "17.11.2016",
+    "SefUrl":
+      "7710461175-grafik-priema-grajdan-departament-territorialnyh-organov-ispolnitelnoy-vlasti-goroda-moskvy",
+    "IdentificationNumber": "7710461175-ScheduleDTOIV"
+  },
+  {
+    "Id": 2245,
+    "VersionNumber": 1,
+    "ReleaseNumber": 13,
+    "Caption":
+      "Справочник персоналий: Департамент территориальных органов исполнительной власти города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 12,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "<p class=\"MsoNormal\"><span style=\"font-size: 9pt; line-height: 115%; font-family: Tahoma, sans-serif;\">В справочнике представлены данные о\nруководстве департамента, с указанием занимаемой должности, телефона и адреса\nэлектронной почты.</span><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;\"><o:p></o:p></span></p>\n",
+    "Keywords": "сотрудники",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "29.12.2015",
+    "SefUrl":
+      "7710461175-spravochnik-personaliy-departament-territorialnyh-organov-ispolnitelnoy-vlasti-goroda-moskvy",
+    "IdentificationNumber": "7710461175-PersonalSheduleDTOIV"
+  },
+  {
+    "Id": 2246,
+    "VersionNumber": 1,
+    "ReleaseNumber": 42,
+    "Caption":
+      "Справочник персоналий: Департамент здравоохранения города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 3,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "<div style=\"text-align: justify;\"><p class=\"MsoNormal\"><span style=\"font-size: 9pt; line-height: 115%; font-family: Tahoma, sans-serif;\">В справочнике представлены данные о\nруководстве департамента, с указанием занимаемой должности, телефона и адреса\nэлектронной почты.</span><span style=\"font-size:9.0pt;line-height:115%;\nfont-family:&quot;Tahoma&quot;,&quot;sans-serif&quot;\"><o:p></o:p></span></p></div>",
+    "Keywords": "сотрудники",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "29.12.2015",
+    "SefUrl":
+      "7707089084-spravochnik-personaliy-departament-zdravoohraneniya-goroda-moskvy",
+    "IdentificationNumber": "7707089084-PersonaDirectionDZM"
+  },
+  {
+    "Id": 2247,
+    "VersionNumber": 2,
+    "ReleaseNumber": 10,
+    "Caption":
+      "Справочник персоналий: Департамент внешнеэкономических и международных связей города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 343,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "<p><span style=\"font-size: 14.4px; line-height: 24px; text-align: justify;\">В справочнике представлены данные о руководстве департамента, с указанием занимаемой должности, телефона и адреса электронной почты.</span></p>\n",
+    "Keywords": "сотрудники",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "26.12.2016",
+    "SefUrl":
+      "7710695744-spravochnik-personaliy-departament-vneshneekonomicheskih-i-mejdunarodnyh-svyazey-goroda-moskvy",
+    "IdentificationNumber": "7710695744-PersonalDirectionDVMS"
+  },
+  {
+    "Id": 2248,
+    "VersionNumber": 1,
+    "ReleaseNumber": 26,
+    "Caption":
+      "Справочник персоналий: Департамент национальной политики, межрегиональных связей и туризма города Москвы",
+    "CategoryId": 21,
+    "DepartmentId": 322,
+    "PublishDate": "29.12.2015",
+    "FullDescription":
+      "<p class=\"MsoNormal\" style=\"margin-bottom:0cm;margin-bottom:.0001pt;line-height:\nnormal\"><span style=\"font-size: 9pt; font-family: Tahoma, sans-serif;\">В справочнике представлены данные о руководстве департамента, с\nуказанием занимаемой должности, телефона и адреса электронной почты.</span><span style=\"font-size:9.0pt;font-family:&quot;Tahoma&quot;,sans-serif\"><o:p></o:p></span></p>",
+    "Keywords": "сотрудники",
+    "ContainsGeodata": false,
+    "ContainsAccEnvData": false,
+    "IsForeign": false,
+    "IsSeasonal": false,
+    "Season": "0",
+    "IsArchive": false,
+    "IsNew": false,
+    "LastUpdateDate": "29.12.2015",
+    "SefUrl":
+      "7704253498-spravochnik-personaliy-departament-natsionalnoy-politiki-mejregionalnyh-svyazey-i-turizma",
+    "IdentificationNumber": "7704253498-PersonaDirectionDNPMSiT"
+  }
+]

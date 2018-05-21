@@ -1,0 +1,572 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [37.51987058477, 55.770341232215],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное бюджетное учреждение «Автомобильные дороги»",
+          "global_id": 1699185,
+          "ShortName": "ГБУ «Автомобильные дороги»",
+          "AdmArea": "Северный административный округ",
+          "District": "Хорошёвский район",
+          "Address": "1-я Магистральная улица, дом 23",
+          "Phone": [{ "Phone": "(495) 940-09-37" }],
+          "Email": "avt.dor@yandex.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.680921516444, 55.750538121966],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное бюджетное учреждение по эксплуатации и ремонту инженерных сооружений «Гормост»",
+          "global_id": 1699186,
+          "ShortName": "ГБУ «Гормост»",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Лефортово",
+          "Address": "Верхний Золоторожский переулок, дом 5, корпус 3",
+          "Phone": [
+            { "Phone": "(495) 632-58-03" },
+            { "Phone": "(495) 632-58-07" },
+            { "Phone": "(495) 632-58-32" },
+            { "Phone": "(495) 361-38-79" }
+          ],
+          "Email": "gormost@dom.mos.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.687146489101913, 55.741378277545586],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное казенное учреждение «Центр координации деятельности государственных учреждений инженерных служб административных округов и районов города Москвы»",
+          "global_id": 1699188,
+          "ShortName": "ГКУ «Центр координации ГУ ИС»",
+          "AdmArea": "Центральный административный округ",
+          "District": "Таганский район",
+          "Address": "Рабочая улица, дом 37",
+          "Phone": [
+            { "Phone": "(495) 664-62-91" },
+            { "Phone": "(499) 921-02-01" },
+            { "Phone": "(495) 726-80-49" },
+            { "Phone": "(495) 539-53-53" },
+            { "Phone": "(495) 539-25-25" }
+          ],
+          "Email": "info@gu-is.info"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.62823778912, 55.772705295298],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное казенное учреждение города Москвы «Городской центр жилищных субсидий»",
+          "global_id": 1699189,
+          "ShortName": "ГКУ «ГЦЖС»",
+          "AdmArea": "Центральный административный округ",
+          "District": "Мещанский район",
+          "Address": "Малая Сухаревская площадь, дом 2-4, строение 1",
+          "Phone": [
+            { "Phone": "(495) 530-20-81" },
+            { "Phone": "(495) 608-22-64" }
+          ],
+          "Email": "info@subsident.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.596595362456, 55.770687118345],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное бюджетное учреждение города Москвы «Доринвест»",
+          "global_id": 1699190,
+          "ShortName": "ГБУ «Доринвест»",
+          "AdmArea": "Центральный административный округ",
+          "District": "Тверской район",
+          "Address": "2-я Тверская-Ямская улица, дом 2",
+          "Phone": [{ "Phone": "(499) 250-06-30" }],
+          "Email": "Gbudorinvest@dom.mos.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.591615319056, 55.753104675794],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное бюджетное учреждение города Москвы «Московский аналитический центр в сфере городского хозяйства»",
+          "global_id": 1699192,
+          "ShortName": "ГБУ «МАЦ»",
+          "AdmArea": "Центральный административный округ",
+          "District": "Басманный район",
+          "Address": "Малый Златоустинский переулок, дом 6, строение 3",
+          "Phone": [{ "Phone": "(495) 411-56-98" }],
+          "Email": "gbumac-secr@dom.mos.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.494670526258, 55.838640352768],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName": "Государственное бюджетное учреждение «Промотходы»",
+          "global_id": 1699199,
+          "ShortName": "ГБУ «Промотходы»",
+          "AdmArea": "Северный административный округ",
+          "District": "Войковский район",
+          "Address": "Головинское шоссе, дом 10",
+          "Phone": [{ "Phone": "(495) 215-05-06" }],
+          "Email": "info@prom-centr.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.660843518835, 55.769519495779],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное казенное учреждение города Москвы «Центр информационного обеспечения и содействия реформе в жилищно-коммунальном хозяйстве города Москвы»",
+          "global_id": 1699201,
+          "ShortName": "ГКУ «Центр реформы в ЖКХ»",
+          "AdmArea": "Центральный административный округ",
+          "District": "Басманный район",
+          "Address": "Новая Басманная улица, дом 18, строение 1",
+          "Phone": [{ "Phone": "(499) 267-40-90" }],
+          "Email": "center@kgh.mos.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.567128101544, 55.748371787771],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное бюджетное учреждение города Москвы по эксплуатации высотных административных и жилых домов",
+          "global_id": 1699202,
+          "ShortName": "ГБУ ЭВАЖД",
+          "AdmArea": "Западный административный округ",
+          "District": "район Дорогомилово",
+          "Address": "2-я Бородинская улица, дом 17",
+          "Phone": [{ "Phone": "(499) 243-07-27" }],
+          "Email": "orgotdel@evagd.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.619103617098, 55.733009568695],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName": "Государственное унитарное предприятие «Экотехпром»",
+          "global_id": 1699203,
+          "ShortName": "ГУП «Экотехпром»",
+          "AdmArea": "Центральный административный округ",
+          "District": "район Якиманка",
+          "Address": "улица Большая Полянка, дом 42, строение 1",
+          "Phone": [{ "Phone": "(499) 238-49-34" }],
+          "Email": "company@eco-pro.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.714241622132, 55.75834098716],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное казённое учреждение города Москвы «Московское городское специализированное управление по экспертизе, ремонту и содержанию объектов дорожного хозяйства»",
+          "global_id": 1699204,
+          "ShortName": "ГКУ «Экспертавтодор»",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Лефортово",
+          "Address": "Авиамоторная улица, дом 6",
+          "Phone": [
+            { "Phone": "(495) 632-58-85" },
+            { "Phone": "(495) 918-18-91" }
+          ],
+          "Email": "expertavtodor@dom.mos.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.674354940224, 55.771354777413],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName": "Акционерное общество «Мосводоканал»",
+          "global_id": 1699206,
+          "ShortName": "АО «Мосводоканал»",
+          "AdmArea": "Центральный административный округ",
+          "District": "Басманный район",
+          "Address": "Плетешковский переулок, дом 2",
+          "Phone": [{ "Phone": "(499) 763-34-34" }],
+          "Email": "post@mosvodokanal.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.531774709514, 55.743804306965],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName": "Государственное унитарное предприятие «Мосводосток»",
+          "global_id": 1699207,
+          "ShortName": "ГУП «Мосводосток»",
+          "AdmArea": "Западный административный округ",
+          "District": "район Дорогомилово",
+          "Address": "набережная Тараса Шевченко, дом 31",
+          "Phone": [
+            { "Phone": "(495) 657-87-03" },
+            { "Phone": "(495) 657-87-21" },
+            { "Phone": "(495) 953-29-01" },
+            { "Phone": "(495) 657-87-01" }
+          ],
+          "Email": "cancel@mosvodostok.info"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.614045816129, 55.817903438745],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное бюджетное учреждение города Москвы Озеленение",
+          "global_id": 1699208,
+          "ShortName": "ГБУ Озеленение",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "Останкинский район",
+          "Address": "Прудовой проезд, дом 13, строение 8",
+          "Phone": [{ "Phone": "(495) 615-31-39" }],
+          "Email": "info@zelenhoz.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.572666578367, 55.783242310589],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName": "Акционерное общество «Мослифт»",
+          "global_id": 1699209,
+          "ShortName": "АО «Мослифт»",
+          "AdmArea": "Северный административный округ",
+          "District": "район Беговой",
+          "Address": "Ленинградский проспект, дом 26, корпус 1",
+          "Phone": [{ "Phone": "(499) 755-22-00" }],
+          "Email": "info@moslift.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.598684853333, 55.74249978739],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное казенное учреждение города Москвы по организации обращения с отходами производства и потребления «Мосэкопром»",
+          "global_id": 1699211,
+          "ShortName": "ГКУ «Мосэкопром»",
+          "AdmArea": "Центральный административный округ",
+          "District": "район Хамовники",
+          "Address": "Всеволожский переулок, дом 3",
+          "Phone": [{ "Phone": "(495) 637-70-10" }],
+          "Email": "mosecoprom@mail.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.354294925658, 55.603178033953],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное унитарное предприятие города Москвы «Московское производственно-техническое объединение городского хозяйства»",
+          "global_id": 14043525,
+          "ShortName": "ГУП «Московское ПТО ГХ»",
+          "AdmArea": "Новомосковский административный округ",
+          "District": "поселение Московский",
+          "Address": "1-й микрорайон, дом 23Д",
+          "Phone": [{ "Phone": "(495) 357-04-55" }],
+          "Email": "ptomoskovsky@mail.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.429510149897, 55.84121522694],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное бюджетное учреждение города Москвы «Мосзеленхоз»",
+          "global_id": 14043532,
+          "ShortName": "ГБУ «Мосзеленхоз»",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Южное Тушино",
+          "Address": "Цветочный проезд, дом 17",
+          "Phone": [{ "Phone": "(495) 621-88-68" }],
+          "Email": "gbu-moszelenhoz@dom.mos.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.638789544457, 55.803929350511],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName": "Государственное унитарное предприятие МОССВЕТ",
+          "global_id": 409948400,
+          "ShortName": "ГУП Моссвет",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "Алексеевский район",
+          "Address": "Кучин пер.дом 8",
+          "Phone": [{ "Phone": "(495) 686-09-71" }],
+          "Email": "mossvet@mossvet.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.639144755286, 55.773931328603],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное унитарное предприятие города Москвы по эксплуатации коммуникационных коллекторов Москоллектор",
+          "global_id": 409958177,
+          "ShortName": "ГУП Москоллектор",
+          "AdmArea": "Центральный административный округ",
+          "District": "Красносельский район",
+          "Address": "1-й Коптельский пер., 14-16, стр. 4",
+          "Phone": [{ "Phone": "(499) 222-22-01" }],
+          "Email": "kancler@moscollector.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.356080567246, 55.603084539389],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственное Унитарное Предприятие города Москвы Московское производственно-техническое объединение городского хозяйства",
+          "global_id": 409963766,
+          "ShortName": "ГУП Московское ПТО ГХ",
+          "AdmArea": "Западный административный округ",
+          "District": "район Ново-Переделкино",
+          "Address": "поселение Московский, 1-й микрорайон, д. 23Д",
+          "Phone": [{ "Phone": "(495) 357-04-55" }],
+          "Email": "pto@ptogh.ru"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.61888099855, 55.772964013222],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Государственного казенного учреждения города Москвы Энергетика",
+          "global_id": 409965680,
+          "ShortName": "ГКУ Энергетика",
+          "AdmArea": "Центральный административный округ",
+          "District": "Тверской район",
+          "Address": "Цветной бульвар, дом 25, строение 4",
+          "Phone": [{ "Phone": "(495) 694-61-50" }],
+          "Email": null
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.785208275362, 55.794693966654],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 499,
+        "VersionNumber": 3,
+        "ReleaseNumber": 6,
+        "RowId": null,
+        "Attributes": {
+          "FullName": "Казенное предприятие Московская энергетическая дирекция",
+          "global_id": 409967840,
+          "ShortName": "КП МЭД",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Измайлово",
+          "Address": "4-я Парковая ул., д. 27",
+          "Phone": [{ "Phone": "(495) 662-18-66" }],
+          "Email": "info@kpmed.ru"
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
