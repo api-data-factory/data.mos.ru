@@ -1,0 +1,4593 @@
+{
+  "features": [
+    {
+      "geometry": { "coordinates": [37.728587, 55.795602], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "5ac33d79-d945-44f9-8e14-bbab572603da",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1505 \"Московская городская педагогическая  гимназия-лаборатория\"",
+          "adress": "107061, г. Москва, улица  2-я Пугачевская, дом 6А",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Преображенское",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "963-76-77",
+          "web_site": "gymg1505.mskobr.ru",
+          "e_mail": "gym1505@mail.ru",
+          "X": "37,728587",
+          "Y": "55,795602",
+          "global_id": "86660640"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.505496, 55.673368], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0c2979c4-7b63-43ca-92fa-a4eb16a83261",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1541",
+          "adress": "119415 г. Москва, пр. Вернадского, д. 55",
+          "okrug": "Западный административный округ",
+          "rayon": "район Проспект Вернадского",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "431-46-76",
+          "web_site": "http:/gym1541.mskzapad.ru/",
+          "e_mail": "gym1541@mail.ru",
+          "X": "37,505496",
+          "Y": "55,673368",
+          "global_id": "86660719"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.399572, 55.646767], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "70903195-ee05-421b-8317-7b406d0faf76",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1542",
+          "adress": "119620, г. Москва, ул. Авиаторов, дом 8, корпус 2",
+          "okrug": "Западный административный округ",
+          "rayon": "район Солнцево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "934-87-32",
+          "web_site": "gym1542.mskzapad.ru/",
+          "e_mail": "1542@inbox.ru",
+          "X": "37,399572",
+          "Y": "55,646767",
+          "global_id": "86660720"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.486343, 55.65606], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9078209c-afbf-4b6e-b4e7-025b5af38109",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московская гимназия на Юго-Западе № 1543",
+          "adress": "119571 г.Москва, 26 Бакинских комиссаров, д. 3, корпус 5",
+          "okrug": "Западный административный округ",
+          "rayon": "район Тропарёво-Никулино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "434-26-44",
+          "web_site": null,
+          "e_mail": "adm1543@yandex.ru",
+          "X": "37,486343",
+          "Y": "55,65606",
+          "global_id": "86660721"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.523368, 55.741435], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "e479853b-1668-470b-a7f0-59e056d01e51",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1567",
+          "adress": "121170 г.Москва, Кутузовский проезд, д.10, стр.1",
+          "okrug": "Западный административный округ",
+          "rayon": "район Дорогомилово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 148-15-32",
+          "web_site": null,
+          "e_mail": "gimn1567@mail.ru",
+          "X": "37,523368",
+          "Y": "55,741435",
+          "global_id": "86660722"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.603496, 55.741492], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "3caec5b8-f29f-4451-9a33-ff6697da2505",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1529 имени А.С.Грибоедова",
+          "adress": "119034 г.Москва, 2-ой Обыденский пер, д.9",
+          "okrug": "Центральный административный округ",
+          "rayon": "район Хамовники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 766-98-42",
+          "web_site": "gymc1529.mskobr.ru",
+          "e_mail": "info@sch1529.ru",
+          "X": "37,603496",
+          "Y": "55,741492",
+          "global_id": "86887488"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.746598, 55.619719], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "5a6e61ca-ab81-4c67-9512-419caff8c721",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1552",
+          "adress": "115580 г. Москва, ул. М.Джалиля, д. 25",
+          "okrug": "Южный административный округ",
+          "rayon": "район Зябликово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "396-32-19",
+          "web_site": "gymu1552.mskobr.ru",
+          "e_mail": "sch1552@sinergi.ru",
+          "X": "37,746598",
+          "Y": "55,619719",
+          "global_id": "86887559"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.650765, 55.751058], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d29e382f-81f2-43ca-8eb0-d9e570671135",
+        "Attributes": {
+          "name":
+            "Негосударственное образовательное учреждение Православная Свято-Петровская школа",
+          "adress": null,
+          "okrug": "Центральный административный округ",
+          "rayon": "Таганский район",
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 916-34-94",
+          "web_site": "noupspsch.mskobr.ru",
+          "e_mail": "info@tgym.ru",
+          "X": "37,650765",
+          "Y": "55,751058",
+          "global_id": "86887590"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.671671, 55.643193], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "4bba5689-881c-4187-a3c7-56da8bc03d63",
+        "Attributes": {
+          "name":
+            "Негосударственное образовательное учреждение Гимназия \"Эллада\"",
+          "adress": "115409, Москва, ул. Кошкина, д. 6",
+          "okrug": "Южный административный округ",
+          "rayon": "район Москворечье-Сабурово",
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 324-83-28,(499) 324-83-29",
+          "web_site": "nouellada.mskobr.ru",
+          "e_mail": "info@ellada.ru",
+          "X": "37,671671",
+          "Y": "55,643193",
+          "global_id": "86887622"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.68392, 55.786494], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "e2b6851c-5f26-408c-8be2-baac8e7d7c7d",
+        "Attributes": {
+          "name": "Частное учреждение Центр образования «Европейская гимназия»",
+          "adress": "107014, г. Москва, ул.3-я Сокольническая, дом 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "269-07-10,268-44-04",
+          "web_site": null,
+          "e_mail": "info@eurogym.ru",
+          "X": "37,68392",
+          "Y": "55,786494",
+          "global_id": "86887646"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.76794, 55.635519], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "541426d4-9236-462e-88b5-ddb7134f0a05",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1587",
+          "adress": "115408 г. Москва, ул. Братеевская, д. 18",
+          "okrug": "Южный административный округ",
+          "rayon": "район Братеево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "341-00-07",
+          "web_site": "gymu1587.mskobr.ru",
+          "e_mail": "sch1587@sinergi.ru",
+          "X": "37,76794",
+          "Y": "55,635519",
+          "global_id": "86887776"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.640304, 55.783894], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2b9f2a01-5739-436f-938e-2f4e8862274b",
+        "Attributes": {
+          "name":
+            "Негосударственное образовательное учреждение \"Классическая гимназия при Греко-латинском кабинете Ю.А. Шичалина\"",
+          "adress": null,
+          "okrug": "Центральный административный округ",
+          "rayon": "Мещанский район",
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 680-92-41",
+          "web_site": "noukggk.mskobr.ru",
+          "e_mail": "info@mgl.ru",
+          "X": "37,640304",
+          "Y": "55,783894",
+          "global_id": "86887783"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.600396, 55.723321], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "6a5d2205-d123-42d2-a9a4-dcce7a0e7b7e",
+        "Attributes": {
+          "name":
+            "Негосударственное образовательное учреждение гимназия \"Первая Московская гимназия\"",
+          "adress": null,
+          "okrug": null,
+          "rayon": null,
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": null,
+          "web_site": null,
+          "e_mail": null,
+          "X": "37,600396",
+          "Y": "55,723321",
+          "global_id": "86887793"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.430137, 55.744966], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c0e681fb-b800-453d-91e5-1929c28b8bba",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1584",
+          "adress": "121615 г.Москва, Рублевское шоссе, д. 24, корпус 3",
+          "okrug": "Западный административный округ",
+          "rayon": "район Кунцево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 413-34-67; (495) 413-34-91",
+          "web_site": "ds1334.mskzapad.ru/",
+          "e_mail": "school1131@mail.ru",
+          "X": "37,430137",
+          "Y": "55,744966",
+          "global_id": "86887795"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.461107, 55.716544], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "22e73127-b31a-480a-88cc-f63970d2fd9c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1588",
+          "adress": "121357 г. Москва, ул. Инициативная, д. 1",
+          "okrug": "Западный административный округ",
+          "rayon": "район Фили-Давыдково",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "444-25-71",
+          "web_site": "gym1588.mskzapad.ru",
+          "e_mail": "sch803@mail.ru",
+          "X": "37,461107",
+          "Y": "55,716544",
+          "global_id": "86890225"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.371638, 55.641567], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "a3ff9244-e3ba-48a2-8db7-5b21a715bf2d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1596",
+          "adress": "119633 г.Москва, ул. Приречная,д.1",
+          "okrug": "Западный административный округ",
+          "rayon": "район Ново-Переделкино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(495) 733-54-10; (495) 733-54-13; (495) 731-10-01; (495) 733-56-72; (495) 733-86-04",
+          "web_site": "gym1596.mskzapad.ru/",
+          "e_mail": "school1016@mail.ru",
+          "X": "37,371638",
+          "Y": "55,641567",
+          "global_id": "86890252"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.414652, 55.764904], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d81e279e-7eb1-47c1-a2a8-fa1b881d3dc1",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1593",
+          "adress": "121614 г.Москва, ул. Крылатские холмы, д. 28, корпус 1",
+          "okrug": "Западный административный округ",
+          "rayon": "район Крылатское",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 413-85-55; (495) 413-77-75; (495) 415-50-04",
+          "web_site": "gym1593mskzapad.ru",
+          "e_mail": "school1128@mail.ru",
+          "X": "37,414652",
+          "Y": "55,764904",
+          "global_id": "86890270"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.642074, 55.810397], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ec3f5aa1-2400-481e-8348-91dbbe201ef1",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1539",
+          "adress": "129626, г. Москва, ул. Староалексеевская, дом 1",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Алексеевский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 686-29-80",
+          "web_site": "gum1539sv.mskobr.ru/",
+          "e_mail": "gimnazia1539@yandex.ru",
+          "X": "37,642074",
+          "Y": "55,810397",
+          "global_id": "86890293"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.65592, 55.868529], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "60842047-0fc9-4a79-ba48-2acaa7af9487",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1558 имени Росалии де Кастро",
+          "adress": "129327,  Москва, Чукотский проезд, д. 6",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Бабушкинский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "471-23-54",
+          "web_site": "gymsv1558.mskobr.ru/",
+          "e_mail": "colrosaliacastro@mail.ru",
+          "X": "37,65592",
+          "Y": "55,868529",
+          "global_id": "86890294"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.509049, 55.698245], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "a7e8f1c9-f8d7-457d-8570-b1d822be02d9",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1306",
+          "adress":
+            "119192, г. Москва, Мичуринский проспект, д. 15, корп. 2, 3",
+          "okrug": "Западный административный округ",
+          "rayon": "район Раменки",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "932-89-42",
+          "web_site": "gymg1306.mskobr.ru",
+          "e_mail": "administration@sch1306.ru",
+          "X": "37,509049",
+          "Y": "55,698245",
+          "global_id": "86890295"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.592162, 55.786896], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "8f56117c-ec8d-473d-9130-714ed85b035b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1540",
+          "adress": "103055 г. Москва, Новослободская ул., д.57, стр.1",
+          "okrug": "Центральный административный округ",
+          "rayon": "Тверской район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 978-35-84",
+          "web_site": "gymc1540.mskobr.ru",
+          "e_mail": "school@msk.ort.ru",
+          "X": "37,592162",
+          "Y": "55,786896",
+          "global_id": "86890296"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.838039, 55.762339], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "177d3856-18c0-4dfe-9e94-e424b720c89a",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия №1504",
+          "adress": "111555, город Москва, улица Сталеваров, дом 10 А",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Ивановское",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "307-59-30",
+          "web_site": "gymg1504.mskobr.ru",
+          "e_mail": "goy1504@mail.ru",
+          "X": "37,838039",
+          "Y": "55,762339",
+          "global_id": "86890310"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.651042, 55.889751], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9333f66e-da02-4839-a00e-a6b48c3bcb0f",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1506",
+          "adress": "127282, г. Москва, ул. Широкая, д.1А",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Северное Медведково",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 476-00-89; (499) 476-38-56",
+          "web_site": "gym1506sv.mskobr.ru",
+          "e_mail": "sch1506@yandex.ru",
+          "X": "37,651042",
+          "Y": "55,889751",
+          "global_id": "86890312"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.635144, 55.802929], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2f4cd73c-3a2c-46ab-95ed-dec236b59d1a",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия №1518",
+          "adress": "129085, г. Москва, проспект Мира, д. 87",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Останкинский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 687-66-66",
+          "web_site": "gum1518.svao.mskobr.ru",
+          "e_mail": "gou1518@mail.ru",
+          "X": "37,635144",
+          "Y": "55,802929",
+          "global_id": "86890313"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.92317, 55.688164], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "5150c402-ee4a-4c8d-9de4-521f9147d073",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1595",
+          "adress": "140008, город Москва, 2-я Вольская улица, дом 7, корпус 2",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Некрасовка",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 211-26-10; (499) 211-26-12; (499) 211-26-15",
+          "web_site": "gymuv1595.mskobr.ru",
+          "e_mail": "mail@gbou1595.ru",
+          "X": "37,92317",
+          "Y": "55,688164",
+          "global_id": "86890325"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.601139, 55.617914], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "7c480da2-bc2a-4bf6-a7b2-f59e226d6ac1",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1582",
+          "adress": "117587 г. Москва,ул. Кировоградская,д.18,к.4",
+          "okrug": "Южный административный округ",
+          "rayon": "район Чертаново Центральное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "311-82-72",
+          "web_site": "gymu1582.mskobr.ru",
+          "e_mail": "sch1582@sinergi.ru",
+          "X": "37,601139",
+          "Y": "55,617914",
+          "global_id": "86890330"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.659254, 55.646582], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ac0e4268-8ae9-43fd-adc0-8bc770a9ead8",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1579",
+          "adress": "115409 г. Москва, Пролетарский пр-кт, д.7 к.3",
+          "okrug": "Южный административный округ",
+          "rayon": "район Москворечье-Сабурово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "324-78-51",
+          "web_site": "gymu1579.mskobr.ru",
+          "e_mail": "sch1579@sinergi.ru",
+          "X": "37,659254",
+          "Y": "55,646582",
+          "global_id": "86890331"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.738816, 55.617254], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2e6b2853-35c6-41fa-bb35-c6ab586c8807",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1569 \"Созвездие\"",
+          "adress": "115573 г. Москва, ул. Мусы Джалиля, д.36,к.2",
+          "okrug": "Южный административный округ",
+          "rayon": "район Зябликово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 396-43-50",
+          "web_site": "gymu1569.mskobr.ru",
+          "e_mail": "sch1569@sinergi.ru",
+          "X": "37,738816",
+          "Y": "55,617254",
+          "global_id": "86890332"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.620987, 55.602584], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "215eb642-a68e-4767-8216-c19c9fba59a5",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1526",
+          "adress": "117535 г. Москва, ул. Дорожная д. 20А",
+          "okrug": "Южный административный округ",
+          "rayon": "район Чертаново Южное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "382-04-65",
+          "web_site": "gymu1526.mskobr.ru",
+          "e_mail": "sch1526@sinergi.ru",
+          "X": "37,620987",
+          "Y": "55,602584",
+          "global_id": "86890334"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.668219, 55.681931], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1b0ae511-310f-4090-b011-467ca414a957",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1527",
+          "adress": "115470 г. Москва, проспект Андропова,д.17,к.5",
+          "okrug": "Южный административный округ",
+          "rayon": "район Нагатинский Затон",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(499) 618-70-05; (499) 618-80-96; (499) 725-16-42; (499) 618-70-40; (499) 618-70-30; (499) 618-70-51",
+          "web_site": "gym1527u.mskobr.ru",
+          "e_mail": "sch1527@sinergi.ru",
+          "X": "37,668219",
+          "Y": "55,681931",
+          "global_id": "86890335"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.831778, 55.816787], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "fb2ed6ab-b35f-40cb-ba96-297c166910b9",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия №1516",
+          "adress": "107589, г. Москва, ул. Хабаровская, д. 4а",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Гольяново",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "460-43-77",
+          "web_site": "gymv1516.mskobr.ru",
+          "e_mail": "info@gogi1516.ru",
+          "X": "37,831778",
+          "Y": "55,816787",
+          "global_id": "86890346"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.766758, 55.711657], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "105ec119-9222-4342-8b35-37de0ee454d3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1599",
+          "adress": "109457, г. Москва, ул. Зеленодольская, д. 32, корп. 6",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Кузьминки",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 172-06-05",
+          "web_site": "gymuv1599.mskobr.ru",
+          "e_mail": "info@gym1599.ru",
+          "X": "37,766758",
+          "Y": "55,711657",
+          "global_id": "86890363"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.816312, 55.709001], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "98c96fcd-6b56-43db-90bc-0747cebb419d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1597",
+          "adress": "109444, г. Москва, ул. Ташкентская, д. 6",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Выхино-Жулебино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "376-43-59",
+          "web_site": "gymuv1597.mskobr.ru",
+          "e_mail": "gim1597@mail.ru",
+          "X": "37,816312",
+          "Y": "55,709001",
+          "global_id": "86890364"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.793137, 55.793755], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "708e41b2-7877-42d2-ab76-e0fdbdb06101",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное  учреждение города Москвы гимназия  №1290",
+          "adress": "105043, г. Москва, ул. Первомайская, д.59, строение 1",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "165-52-42",
+          "web_site": "gymv1290.mskobr.ru",
+          "e_mail": "gym1290@yandex.ru",
+          "X": "37,793137",
+          "Y": "55,793755",
+          "global_id": "86893865"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.539295, 55.680074], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "304ceaf8-111c-4903-abc8-8b96315fd2f0",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1536",
+          "adress": "119261, г.Москва, Ленинский проспект, дом 83 А",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "Ломоносовский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "134-34-12",
+          "web_site": null,
+          "e_mail": "gimn1536@mosuzedu.ru",
+          "X": "37,539295",
+          "Y": "55,680074",
+          "global_id": "86893886"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.626721, 55.714332], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ffc1f2d0-85e2-42e4-8357-fe1afc57c385",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1257",
+          "adress":
+            "115093 г. Москва, ул. Павловская, дом 8-а, 115093, г. Москва, ул. Павловская д.8А корпус 1",
+          "okrug": "Южный административный округ",
+          "rayon": "Даниловский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "952-63-70",
+          "web_site": "gymu1257.mskobr.ru",
+          "e_mail": "dou1234@sinergi.ru",
+          "X": "37,626721",
+          "Y": "55,714332",
+          "global_id": "86893887"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.616216, 55.895605], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b58f4621-b7c3-4e00-9e18-3b943226740c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Государственная столичная гимназия",
+          "adress": "127543 Белозерская улица, д. 12",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Бибирево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 901-22-18; (499) 745-33-23",
+          "web_site": "gymssv1.mskobr.ru",
+          "e_mail": "fertmanv@gmail.com",
+          "X": "37,616216",
+          "Y": "55,895605",
+          "global_id": "86893893"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.750711, 55.662993], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "63827961-840f-4007-b313-65282fb81d9b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1562 имени Артема Боровика",
+          "adress": "109341, г.Москва, ул. Братиславская, дом 4",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Марьино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "349-00-11",
+          "web_site": "gymuv1562.mskobr.ru",
+          "e_mail": "gimn1562@uvuo.ru",
+          "X": "37,750711",
+          "Y": "55,662993",
+          "global_id": "86899722"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.754603, 55.65117], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c9f641f1-62d1-45fc-a94c-e0994de2aeca",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1566",
+          "adress": "109652, г. Москва, Мячковский бульвар, дом 14, к. 3",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Марьино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 784-88-69",
+          "web_site": "gymuv1566.mskobr.ru/",
+          "e_mail": "gymnasium_1566@mail.ru",
+          "X": "37,754603",
+          "Y": "55,65117",
+          "global_id": "86899724"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.477321, 55.780555], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2b5909eb-56e1-479a-84b6-d2577254d7b5",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1515",
+          "adress":
+            "123154, г. Москва, ул. Народного Ополчения, д. 27, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 197-44-52",
+          "web_site": "gym1515.mskobr.ru",
+          "e_mail": "gym1515@szouo.ru",
+          "X": "37,477321",
+          "Y": "55,780555",
+          "global_id": "86904012"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.458346, 55.779906], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "989e7dc7-95b2-465a-b559-fe3e166af54c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1517",
+          "adress": "123103, г. Москва, ул. Живописная, д. 11, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 720-25-67",
+          "web_site": "gymsz1517.mskobr.ru",
+          "e_mail": "gym1517@szouo.ru",
+          "X": "37,458346",
+          "Y": "55,779906",
+          "global_id": "86904013"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.408695, 55.811139], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "3f983041-ebcc-468f-abdb-16f3ce6003d2",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1519",
+          "adress": "123181, г. Москва, ул. Маршала Катукова, д. 21, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Строгино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(495) 757-37-15; (495) 757-37-16; (495) 757-37-17; (495) 757-37-18; (495) 757-91-84; (495) 750-99-90",
+          "web_site": "ds1519.mskobr.ru",
+          "e_mail": "gym1519@szouo.ru",
+          "X": "37,408695",
+          "Y": "55,811139",
+          "global_id": "86904014"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.482165, 55.772831], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b22fdb77-492f-4928-9b75-d1123b0e30b8",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1522",
+          "adress":
+            "123423, г. Москва, ул. Народного Ополчения, д. 16, корп. 4",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(499) 191-25-94; (499) 191-65-04; (499) 946-24-31; (499) 191-93-89",
+          "web_site": "g1522.mskobr.ru",
+          "e_mail": "gym1522@szouo.ru",
+          "X": "37,482165",
+          "Y": "55,772831",
+          "global_id": "86904015"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.388657, 55.841565], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "3553d183-5972-4050-976e-89b6f11d654a",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1538",
+          "adress":
+            "125464, г. Москва, здание 1:Новотушинский проезд, д. 8, корп. 2;",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "751-14-91",
+          "web_site": "gym1538.mskobr.ru/",
+          "e_mail": "gym1538@szouo.ru",
+          "X": "37,388657",
+          "Y": "55,841565",
+          "global_id": "86904016"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.35941, 55.836253], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "878c58e6-d2e9-45f6-b7a8-ec9b76c06f24",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1544",
+          "adress": "125222, г. Москва, ул. Пенягинская, д. 14",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 752-61-11; (495) 753-19-03; (495) 794-35-11",
+          "web_site": "gymsz1544.mskobr.ru",
+          "e_mail": "gym1544@szouo.ru",
+          "X": "37,35941",
+          "Y": "55,836253",
+          "global_id": "86904017"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.456187, 55.846654], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "33cb52a5-4d5e-4d9e-9b17-c5fee1767a5a",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1551",
+          "adress": "125364, г. Москва, ул. Свободы, д. 42, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "492-95-75",
+          "web_site": "gym1551.mskobr.ru",
+          "e_mail": "gym1551@szouo.ru",
+          "X": "37,456187",
+          "Y": "55,846654",
+          "global_id": "86904018"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.67135, 55.723389], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c4f34cba-e0e8-4834-8426-210e81c7afd9",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1274 имени В.В.Маяковского",
+          "adress": "115088, г. Москва, ул. 1-я Дубровская, д. 16",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "Южнопортовый район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 674-20-47; (495) 674-20-40",
+          "web_site": "gymg1274.mskobr.ru",
+          "e_mail": "1274@gymnasium1274.msk.ru",
+          "X": "37,67135",
+          "Y": "55,723389",
+          "global_id": "86904170"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.606217, 55.869329], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "52db2e5e-5ad7-4b7d-83b0-fc82e7ca603c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное  образовательное учреждение города Москвы гимназия № 1554",
+          "adress": "127490, г. Москва, ул. Пестеля, д.5,9А",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Отрадное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 203-17-90",
+          "web_site": "gum1554sv.mskobr.ru",
+          "e_mail": "Gymn-1554@yandex.ru",
+          "X": "37,606217",
+          "Y": "55,869329",
+          "global_id": "86907930"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.642182, 55.852872], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "f3c75e5d-b178-48b3-a216-658ff18dbfd3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1565 \"Свиблово\"",
+          "adress": "129323, г. Москва, ул. Седова, д. 4, корп. 1",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Свиблово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 656-60-81",
+          "web_site": "gum1565sv.mskobr.ru/",
+          "e_mail": "edu1565@mail.ru",
+          "X": "37,642182",
+          "Y": "55,852872",
+          "global_id": "86907931"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.610008, 55.786661], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "97589bac-67c7-48bd-a347-aa229080d57d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1572",
+          "adress": "127018, г.Москва, Октябрьский пер., д.11",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Марьина Роща",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "681-67-58",
+          "web_site": "gum1572sv.mskobr.ru/",
+          "e_mail": "gimnaz1572@mail.ru",
+          "X": "37,610008",
+          "Y": "55,786661",
+          "global_id": "86907932"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.552777, 55.906675], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0f9312af-2d8c-4793-b169-1a285d39c7a7",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1573",
+          "adress": "127253, г. Москва, ул. Псковская, д.11",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Лианозово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 501-13-27",
+          "web_site": "http://gum1573.svao.mskobr.ru/",
+          "e_mail": "Gym1573@yandex.ru",
+          "X": "37,552777",
+          "Y": "55,906675",
+          "global_id": "86907933"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.690459, 55.852786], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d4276185-fe99-4d68-a8fd-1a609084658f",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1577",
+          "adress":
+            "129337, г. Москва, Ярославское шоссе, дом ( владение) 8, корп. 6",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Ярославский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 188-47-47",
+          "web_site": "gym1577sv.mskobr.ru/",
+          "e_mail": "gym1577@yandex.ru",
+          "X": "37,690459",
+          "Y": "55,852786",
+          "global_id": "86907934"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.486776, 55.538661], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2eaf21b9-2793-456a-8b47-40f04eaabeda",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1786",
+          "adress": "117041, г.Москва, ул. Адмирала Лазарева, д. 77",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "район Южное Бутово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 793-77-09",
+          "web_site": "http://gymuz1786.mskobr.ru/",
+          "e_mail": "potapovo1786@mail.ru",
+          "X": "37,486776",
+          "Y": "55,538661",
+          "global_id": "86911350"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.795689, 55.793866], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "32b48371-c2bc-4656-8571-54127d4318ae",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Измайловская гимназия №1508",
+          "adress": "105043, Первомайская улица, 65",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 465-58-22; (495) 465-08-43; (495) 465-38-76",
+          "web_site": "gymv1508.mskobr.ru",
+          "e_mail": "ooig1508@yandex.ru",
+          "X": "37,795689",
+          "Y": "55,793866",
+          "global_id": "86914886"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.830356, 55.718465], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d6051b38-d2d0-4656-904e-5d0a826c6f4d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1512",
+          "adress": "111538, г. Москва, ул. Косинская, д.24А",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Вешняки",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "374-77-44",
+          "web_site": "gymv1512.mskobr.ru/",
+          "e_mail": "gym 1512@mail.ru",
+          "X": "37,830356",
+          "Y": "55,718465",
+          "global_id": "86914887"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.683637, 55.788006], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9d3a7bd8-fb18-4253-96e6-58b33634e79e",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1530 \"Школа Ломоносова\"",
+          "adress": "107014, Москва, ул. Егерская, д. 4",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "603-09-62",
+          "web_site": "gymv1530.mskobr.ru",
+          "e_mail": "gym1530@yandex.ru",
+          "X": "37,683637",
+          "Y": "55,788006",
+          "global_id": "86914888"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.872467, 55.741779], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "5a546f12-a1a0-4e7a-9d0d-da71cbc2d416",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1591",
+          "adress": "111672, Москва, ул.Новокосинская, д. 40 А",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Новокосино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 702-32-39; (495) 702-32-40; (495) 702-40-01",
+          "web_site": "gymv1591.mskobr.ru",
+          "e_mail": "vagsch1591@yandex.ru",
+          "X": "37,872467",
+          "Y": "55,741779",
+          "global_id": "86914889"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.593372, 55.692118], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "66824380-eed9-4f88-99bf-84e6f6cf2a31",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 625",
+          "adress": "117449, г. Москва, ул. Шверника, д. 17, корп. 2",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "Академический район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "126-45-06",
+          "web_site": "gymg625.mskobr.ru",
+          "e_mail": "gimnaziya_625@mail.ru",
+          "X": "37,593372",
+          "Y": "55,692118",
+          "global_id": "86914930"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.810385, 55.807575], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2461815f-acb5-4da3-9ae2-4cfd8a0e466f",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1563",
+          "adress": "105215,  Москва, ул. 13-я  Парковая,  д. 33",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Северное Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "468-09-44",
+          "web_site": "gym1563.mskobr.ru/",
+          "e_mail": "gymn1563@rambler.ru",
+          "X": "37,810385",
+          "Y": "55,807575",
+          "global_id": "86930407"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.580536, 55.741919], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "847eb962-9c9f-40f0-96a5-b937b204b46a",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1521",
+          "adress": "119034, г. Москва, ул. Пречистенка, д. 12/2, стр. 8",
+          "okrug": "Центральный административный округ",
+          "rayon": "район Хамовники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 766-93-31",
+          "web_site": "gymc1521.mskobr.ru",
+          "e_mail": "direktor1768@mail.ru",
+          "X": "37,580536",
+          "Y": "55,741919",
+          "global_id": "86930429"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.604886, 55.760892], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "430fb456-23b6-443f-9ae5-efa42c2f6101",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1520 имени Капцовых",
+          "adress": "125009 г.Москва, Леонтьевский пер., д.19/2, стр.1",
+          "okrug": "Центральный административный округ",
+          "rayon": "Пресненский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(495) 629-60-71; (495) 629-08-78; (495) 629-01-18; (495) 629-06-98; (495) 629-42-31; (495) 629-50-22; (495) 629-38-77",
+          "web_site": "gymc1520.mskobr.ru",
+          "e_mail": "1520gym@bk.ru",
+          "X": "37,604886",
+          "Y": "55,760892",
+          "global_id": "86930432"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.580993, 55.751274], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "83db8b02-56cc-40f6-b8a9-eb0b296c5434",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1513 \"Московская городская лингвистическая гимназия\"",
+          "adress": "121099 г. Москва, Новинский б-р, д.3, стр.2",
+          "okrug": "Центральный административный округ",
+          "rayon": "район Арбат",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 254-08-29",
+          "web_site": "gymc1513.mskobr.ru",
+          "e_mail": "bubman13@yandex.ru",
+          "X": "37,580993",
+          "Y": "55,751274",
+          "global_id": "86930433"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.658285, 55.817286], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "8e3054bc-7f45-4865-ad9e-31c0bd23e238",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1503",
+          "adress": "129626, г.Москва, ул.П.Корчагина, д.18",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Алексеевский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 683-77-12",
+          "web_site": "gymsv1503.mskobr.ru",
+          "e_mail": "sch_1503@gor.educom.ru",
+          "X": "37,658285",
+          "Y": "55,817286",
+          "global_id": "86930434"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.631801, 55.803952], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "7aef28be-9aee-424f-974c-1eab1f3f9562",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1531 \"Лингвистическая\"",
+          "adress": "129085, г. Москва, ул. Годовикова, д.4, стр.3",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Останкинский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 687-01-07",
+          "web_site": "gym1531sv.mskobr.ru",
+          "e_mail": "Sch1531edu@yandex.ru",
+          "X": "37,631801",
+          "Y": "55,803952",
+          "global_id": "86930446"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.504292, 55.821397], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "34798889-d61c-4555-bb63-670a58b24022",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 201 ордена Трудового Красного Знамени имени Героев Советского Союза Зои и Александра Космодемьянских",
+          "adress":
+            "125130, г. Москва, улица Зои и Александра Космодемьянских, дом 3",
+          "okrug": "Северный административный округ",
+          "rayon": "Войковский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 450-95-37; (499) 159-92-65",
+          "web_site": "schsg201.mskobr.ru/",
+          "e_mail": "gymnasia201@yandex.ru",
+          "X": "37,504292",
+          "Y": "55,821397",
+          "global_id": "86930475"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.57703, 55.789295], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0ba87554-f1aa-4c39-86e6-46c85464f6e3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1570",
+          "adress": "125040, г. Москва, 5-я улица Ямского поля, д. 28/32",
+          "okrug": "Северный административный округ",
+          "rayon": "район Беговой",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "612-71-81",
+          "web_site": "gyms1570.mskobr.ru",
+          "e_mail": "gimnasia1570@yandex.ru",
+          "X": "37,57703",
+          "Y": "55,789295",
+          "global_id": "86930555"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.529302, 55.822928], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "f584159f-323e-49ba-a049-b9b967cf99e0",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1576",
+          "adress": "125299, г. Москва, ул. Большая Академическая, д.22-А",
+          "okrug": "Северный административный округ",
+          "rayon": "район Коптево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "450-77-07",
+          "web_site": "http://gyms1576.mskobr.ru",
+          "e_mail": "school@ultranet.ru",
+          "X": "37,529302",
+          "Y": "55,822928",
+          "global_id": "86930557"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.494518, 55.849902], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "688e8f5a-57c4-448d-8611-89744d0a1737",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1583",
+          "adress": "125493, г. Москва, улица Смольная, дом 25",
+          "okrug": "Северный административный округ",
+          "rayon": "Головинский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "458-02-57",
+          "web_site": "gym1583s.mskobr.ru",
+          "e_mail": "1583gi@gmail.com",
+          "X": "37,494518",
+          "Y": "55,849902",
+          "global_id": "86930558"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.497294, 55.859659], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "dae5ee51-81fe-4f84-b798-71d6363dec63",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1590",
+          "adress": "125581, г. Москва, ул. Фестивальная, д. 16",
+          "okrug": "Северный административный округ",
+          "rayon": "район Ховрино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 454-02-80; (495) 454-31-31",
+          "web_site": "gyms1590.mskobr.ru",
+          "e_mail": "gymn1590@mail.ru",
+          "X": "37,497294",
+          "Y": "55,859659",
+          "global_id": "86930559"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.555452, 55.875192], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "8f2bae19-ab06-4d20-af98-d215dd6c3584",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1592",
+          "adress": "127247, г. Москва, Бескудниковский проезд, дом 4 Б",
+          "okrug": "Северный административный округ",
+          "rayon": "Бескудниковский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "489-73-25",
+          "web_site": "gyms1592.mskobr.ru",
+          "e_mail": "1592@inbox.ru",
+          "X": "37,555452",
+          "Y": "55,875192",
+          "global_id": "86930560"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.728366, 55.610787], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "fb11a05e-28ad-4df2-9309-e0fa4d5b201e",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1636 \"Ника\"",
+          "adress": "115583 г. Москва, ул. Воронежская, д.7,к. 2",
+          "okrug": "Южный административный округ",
+          "rayon": "район Орехово-Борисово Южное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "399-23-18",
+          "web_site": "gymu1636.mskobr.ru",
+          "e_mail": "sch1636@sinergi.ru",
+          "X": "37,728366",
+          "Y": "55,610787",
+          "global_id": "86930607"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.58267, 55.688575], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "89790c88-5a16-455a-9674-b5ebaa596a51",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 45 имени Л.И.Мильграма",
+          "adress": "117036, г. Москва, ул. Гримау, д.8",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "Академический район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "779-77-69",
+          "web_site": null,
+          "e_mail": "po@ms45.edu.ru",
+          "X": "37,58267",
+          "Y": "55,688575",
+          "global_id": "86930649"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.786712, 55.76233], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1aad6a54-8bd7-49c7-8533-baea75b6b106",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Московская международная гимназия",
+          "adress": "111123, Москва,  3-я Владимирская улица  дом 5",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Перово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "304-37-94",
+          "web_site": "gymmg.mskobr.ru",
+          "e_mail": "mmg@goummg.ru",
+          "X": "37,786712",
+          "Y": "55,76233",
+          "global_id": "86930651"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.721068, 55.781355], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "17a0dd3d-a5b4-4bce-94cd-7d4e6b87d81a",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1788",
+          "adress": "105318, Москва Город, Семеновская Площадь, 4",
+          "okrug": null,
+          "rayon": null,
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Троицкое и новомосковское окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495)436-25-57",
+          "web_site": "gym1788tn.mskobr.ru",
+          "e_mail": null,
+          "X": "37,721068",
+          "Y": "55,781355",
+          "global_id": "86930989"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.182054, 55.980081], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9c56e4c3-c135-4c59-bab2-28f0013d2434",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1528",
+          "adress": "124527, г. Москва, Зеленоград, корп. 817",
+          "okrug": "Зеленоградский административный округ",
+          "rayon": "район Старое Крюково",
+          "form_of_incorporation": "Государственное",
+          "submission": "Зеленоградское окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 710-33-02; (499) 710-47-20",
+          "web_site": "http://gymzg1528.mskobr.ru",
+          "e_mail": "s1528@zou.ru",
+          "X": "37,182054",
+          "Y": "55,980081",
+          "global_id": "86931025"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.663861, 55.708116], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d8244b3f-2232-428d-b528-721fa9772a9c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1272",
+          "adress": "115280, г. Москва, 1-й Кожуховский проезд, д.17",
+          "okrug": "Южный административный округ",
+          "rayon": "Даниловский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "710-36-43",
+          "web_site": "cou1272.mskobr.ru",
+          "e_mail": "sch1272@sinergi.ru",
+          "X": "37,663861",
+          "Y": "55,708116",
+          "global_id": "86931036"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.686971, 55.807906], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "8e894cc6-3983-4f28-98a4-d56feaafe60d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,686971",
+          "Y": "55,807906",
+          "global_id": "86931061"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.507002, 55.630804], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9d162f9c-3f00-4529-b0ab-faa965f27d46",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1507",
+          "adress": "117321,  г. Москва, ул. Профсоюзная, дом 132, корп.9",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "район Тёплый Стан",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "420-70-44",
+          "web_site": "http://www.gumuz1507.mskobr.ru",
+          "e_mail": "gym1507@mosuzedu.ru",
+          "X": "37,507002",
+          "Y": "55,630804",
+          "global_id": "86931067"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.526833, 55.685077], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "253dfd25-2d29-430a-89f8-77de4209fee9",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1514",
+          "adress": "119311, г.Москва, ул.Крупской, д.12",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "Ломоносовский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "131-80-38",
+          "web_site": "http://gumuz1514.mskobr.ru/",
+          "e_mail": "gum52@yandex.ru",
+          "X": "37,526833",
+          "Y": "55,685077",
+          "global_id": "86931069"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.491549, 55.622449], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b516808e-775b-4be9-b316-e9acea2efeeb",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1532",
+          "adress": "117465, г. Москва, ул. Теплый Стан, дом 13, корпус 3",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "район Тёплый Стан",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "338-76-55",
+          "web_site": null,
+          "e_mail": null,
+          "X": "37,491549",
+          "Y": "55,622449",
+          "global_id": "86931070"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.574192, 55.684899], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c6021cbe-d4af-4195-b7bd-aaeaaaee2a8c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1534",
+          "adress": "117036, г.Москва, ул.Кедрова, д.11",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "Академический район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "125-59-82",
+          "web_site": "http://gumuz1534.mskobr.ru/",
+          "e_mail": "gym1534@mail.ru",
+          "X": "37,574192",
+          "Y": "55,684899",
+          "global_id": "86931071"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.827347, 55.810362], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "a48156fe-f639-46da-b030-bd45e9564379",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1748 \"Вертикаль\"",
+          "adress": "105484, г. Москва, Сиреневый бульвар, д. 73, корп. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Северное Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 461-75-73; (499) 461-82-07",
+          "web_site": "co1748.mskobr.ru",
+          "e_mail": "center_vertikal@mail.ru",
+          "X": "37,827347",
+          "Y": "55,810362",
+          "global_id": "86931112"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.375658, 55.519175], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "f478083c-8e6a-4304-b866-51e1561118db",
+        "Attributes": {
+          "name":
+            "Муниципальное автономное общеобразовательное учреждение \"Гимназия г. Троицка\"",
+          "adress":
+            "142190, Москва Город, Троицк Город, Октябрьский Проспект, 6",
+          "okrug": null,
+          "rayon": null,
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Троицкое и новомосковское окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(4967)51-23-89,(4967) 51-23-89",
+          "web_site": null,
+          "e_mail": null,
+          "X": "37,375658",
+          "Y": "55,519175",
+          "global_id": "86931137"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.371758, 55.517403], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9305bc46-2591-4200-a20d-597b61ad67e0",
+        "Attributes": {
+          "name":
+            "Муниципальное автономное общеобразовательное учреждение \"Гимназия имени Н.В. Пушкова\"",
+          "adress": "142190, Москва Город, Троицк Город, Школьная Улица, 10",
+          "okrug": null,
+          "rayon": null,
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Троицкое и новомосковское окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495)851-03-11,(495) 851-03-11",
+          "web_site": "http://gympushkova.mskobr.ru",
+          "e_mail": null,
+          "X": "37,371758",
+          "Y": "55,517403",
+          "global_id": "86931138"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.61441, 55.870966], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "6124174e-8e37-4e68-8c80-3ff13eafbd2a",
+        "Attributes": {
+          "name":
+            "Негосударственное образовательное учреждение Гуманитарная гимназия \"Альтаир\"",
+          "adress": null,
+          "okrug": "Центральный административный округ",
+          "rayon": "Пресненский район",
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "202-76-39",
+          "web_site": null,
+          "e_mail": "all-ng@yandex.ru",
+          "X": "37,61441",
+          "Y": "55,870966",
+          "global_id": "86931187"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.614486, 55.870823], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c3df1559-aeec-44ad-b3de-23be4154591e",
+        "Attributes": {
+          "name":
+            "Негосударственное образовательное учреждение средняя общеобразовательная школа Гимназия \"УТРО\"",
+          "adress": null,
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "район Ясенево",
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 423-36-55,421-90-00",
+          "web_site": null,
+          "e_mail": "ankudryakova@mail.ru",
+          "X": "37,614486",
+          "Y": "55,870823",
+          "global_id": "86931193"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.347763, 55.857906], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "bacf7cf9-bc3d-42b6-b4f7-c551863bd9ee",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1358",
+          "adress": "125310, г. Москва, Пятницкое шоссе, д. 45, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 751-69-72; (495) 751-69-73",
+          "web_site": null,
+          "e_mail": " sch1358@szouo.ru",
+          "X": "37,347763",
+          "Y": "55,857906",
+          "global_id": "86931210"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.857971, 55.732117], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "05b645b3-8a1c-4c0c-9ba0-d1e71df22d58",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1926",
+          "adress": "111672, г. Москва, ул. Салтыковская, д. 5А",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Новокосино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "702-75-40",
+          "web_site": "cov1926.mskobr.ru",
+          "e_mail": "ds2351@yandex.ru",
+          "X": "37,857971",
+          "Y": "55,732117",
+          "global_id": "86931222"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.709005, 55.807256], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1a544875-c5ed-45ee-9460-ca4f19cb7899",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1452 \"Богородская\"",
+          "adress": "107564, г. Москва, ул. 1-я Гражданская, д.96",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Богородское",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 964-88-01",
+          "web_site": "co1452.mskobr.ru",
+          "e_mail": "co1452@mail.ru",
+          "X": "37,709005",
+          "Y": "55,807256",
+          "global_id": "86931223"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.654054, 55.868199], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "056cd330-da3a-4b8c-9803-39fb54ce66aa",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1558 имени Росалии де Кастро",
+          "adress": "129327,  Москва, Чукотский проезд, д. 6",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Бабушкинский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "471-23-54",
+          "web_site": "gymsv1558.mskobr.ru/",
+          "e_mail": "colrosaliacastro@mail.ru",
+          "X": "37,654054",
+          "Y": "55,868199",
+          "global_id": "87013748"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.597088, 55.619924], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "97841b1b-c330-434c-8e6c-1f554313d762",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1582",
+          "adress": "117587 г. Москва,ул. Кировоградская,д.18,к.4",
+          "okrug": "Южный административный округ",
+          "rayon": "район Чертаново Центральное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "311-82-72",
+          "web_site": "gymu1582.mskobr.ru",
+          "e_mail": "sch1582@sinergi.ru",
+          "X": "37,597088",
+          "Y": "55,619924",
+          "global_id": "87013749"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.474327, 55.778721], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9aad21d2-c8cf-4aa0-b837-1216ace3a26d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1515",
+          "adress":
+            "123154, г. Москва, ул. Народного Ополчения, д. 27, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 197-44-52",
+          "web_site": "gym1515.mskobr.ru",
+          "e_mail": "gym1515@szouo.ru",
+          "X": "37,474327",
+          "Y": "55,778721",
+          "global_id": "87013760"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.407942, 55.80978], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "cd668a74-d416-4200-9f0d-d034c434c522",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1519",
+          "adress": "123181, г. Москва, ул. Маршала Катукова, д. 21, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Строгино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(495) 757-37-15; (495) 757-37-16; (495) 757-37-17; (495) 757-37-18; (495) 757-91-84; (495) 750-99-90",
+          "web_site": "ds1519.mskobr.ru",
+          "e_mail": "gym1519@szouo.ru",
+          "X": "37,407942",
+          "Y": "55,80978",
+          "global_id": "87013761"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.414061, 55.808603], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "42b4b4f3-9415-4c61-a9a6-c7fd01fd5f17",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1519",
+          "adress": "123181, г. Москва, ул. Маршала Катукова, д. 21, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Строгино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(495) 757-37-15; (495) 757-37-16; (495) 757-37-17; (495) 757-37-18; (495) 757-91-84; (495) 750-99-90",
+          "web_site": "ds1519.mskobr.ru",
+          "e_mail": "gym1519@szouo.ru",
+          "X": "37,414061",
+          "Y": "55,808603",
+          "global_id": "87013762"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.401533, 55.80674], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "99e5bc9a-7307-478b-903e-2245f955b8c9",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1519",
+          "adress": "123181, г. Москва, ул. Маршала Катукова, д. 21, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Строгино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(495) 757-37-15; (495) 757-37-16; (495) 757-37-17; (495) 757-37-18; (495) 757-91-84; (495) 750-99-90",
+          "web_site": "ds1519.mskobr.ru",
+          "e_mail": "gym1519@szouo.ru",
+          "X": "37,401533",
+          "Y": "55,80674",
+          "global_id": "87013763"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.410689, 55.809379], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ba59701d-02cd-458c-b733-d8d90ad02373",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1519",
+          "adress": "123181, г. Москва, ул. Маршала Катукова, д. 21, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Строгино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(495) 757-37-15; (495) 757-37-16; (495) 757-37-17; (495) 757-37-18; (495) 757-91-84; (495) 750-99-90",
+          "web_site": "ds1519.mskobr.ru",
+          "e_mail": "gym1519@szouo.ru",
+          "X": "37,410689",
+          "Y": "55,809379",
+          "global_id": "87013764"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.412406, 55.807634], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "8f6884e9-4f00-434d-8497-ff33f325948c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1519",
+          "adress": "123181, г. Москва, ул. Маршала Катукова, д. 21, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Строгино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(495) 757-37-15; (495) 757-37-16; (495) 757-37-17; (495) 757-37-18; (495) 757-91-84; (495) 750-99-90",
+          "web_site": "ds1519.mskobr.ru",
+          "e_mail": "gym1519@szouo.ru",
+          "X": "37,412406",
+          "Y": "55,807634",
+          "global_id": "87013765"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.597756, 55.744062], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d89a893e-a994-45ca-8ba8-5efa17cbe33c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1521",
+          "adress": "119034, г. Москва, ул. Пречистенка, д. 12/2, стр. 8",
+          "okrug": "Центральный административный округ",
+          "rayon": "район Хамовники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 766-93-31",
+          "web_site": "gymc1521.mskobr.ru",
+          "e_mail": "direktor1768@mail.ru",
+          "X": "37,597756",
+          "Y": "55,744062",
+          "global_id": "87028625"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.801074, 55.756373], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "bc7c341d-a5a0-4d0d-bf52-397600fbcc0e",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Московская международная гимназия",
+          "adress": "111123, Москва,  3-я Владимирская улица  дом 5",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Перово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "304-37-94",
+          "web_site": "gymmg.mskobr.ru",
+          "e_mail": "mmg@goummg.ru",
+          "X": "37,801074",
+          "Y": "55,756373",
+          "global_id": "87028628"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.801192, 55.756024], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "fd1dd4ba-8d61-4718-b1bd-6577a110e961",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Московская международная гимназия",
+          "adress": "111123, Москва,  3-я Владимирская улица  дом 5",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Перово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "304-37-94",
+          "web_site": "gymmg.mskobr.ru",
+          "e_mail": "mmg@goummg.ru",
+          "X": "37,801192",
+          "Y": "55,756024",
+          "global_id": "87028629"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.457523, 55.84515], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "6f969f3a-8aea-46b9-b5bb-005524bf0b69",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1551",
+          "adress": "125364, г. Москва, ул. Свободы, д. 42, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "492-95-75",
+          "web_site": "gym1551.mskobr.ru",
+          "e_mail": "gym1551@szouo.ru",
+          "X": "37,457523",
+          "Y": "55,84515",
+          "global_id": "87028738"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.456495, 55.847785], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "3f3d498b-261c-48e7-a22c-bf2661bea759",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1551",
+          "adress": "125364, г. Москва, ул. Свободы, д. 42, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "492-95-75",
+          "web_site": "gym1551.mskobr.ru",
+          "e_mail": "gym1551@szouo.ru",
+          "X": "37,456495",
+          "Y": "55,847785",
+          "global_id": "87028739"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.452052, 55.848961], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2351a76e-54eb-402d-b795-78fb79f3fa44",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1551",
+          "adress": "125364, г. Москва, ул. Свободы, д. 42, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "492-95-75",
+          "web_site": "gym1551.mskobr.ru",
+          "e_mail": "gym1551@szouo.ru",
+          "X": "37,452052",
+          "Y": "55,848961",
+          "global_id": "87028740"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.449794, 55.84866], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b62c5859-651f-420c-bc2f-35c268f3de38",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1551",
+          "adress": "125364, г. Москва, ул. Свободы, д. 42, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "492-95-75",
+          "web_site": "gym1551.mskobr.ru",
+          "e_mail": "gym1551@szouo.ru",
+          "X": "37,449794",
+          "Y": "55,84866",
+          "global_id": "87028741"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.450594, 55.846009], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "7da53169-7e5f-4c71-91b1-01dd4bebf789",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1551",
+          "adress": "125364, г. Москва, ул. Свободы, д. 42, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "492-95-75",
+          "web_site": "gym1551.mskobr.ru",
+          "e_mail": "gym1551@szouo.ru",
+          "X": "37,450594",
+          "Y": "55,846009",
+          "global_id": "87028742"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.449226, 55.845371], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "51a5fc94-dcc6-4132-9307-593ab3696f1b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1551",
+          "adress": "125364, г. Москва, ул. Свободы, д. 42, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "492-95-75",
+          "web_site": "gym1551.mskobr.ru",
+          "e_mail": "gym1551@szouo.ru",
+          "X": "37,449226",
+          "Y": "55,845371",
+          "global_id": "87028743"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.35103, 55.855794], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "3bf3b192-91c2-4f7b-b636-d1a9cbb65c90",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1358",
+          "adress": "125310, г. Москва, Пятницкое шоссе, д. 45, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 751-69-72; (495) 751-69-73",
+          "web_site": null,
+          "e_mail": " sch1358@szouo.ru",
+          "X": "37,35103",
+          "Y": "55,855794",
+          "global_id": "87028855"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.346736, 55.856738], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "dc9f954f-0b80-438f-8d61-08f1a3f411e9",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1358",
+          "adress": "125310, г. Москва, Пятницкое шоссе, д. 45, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 751-69-72; (495) 751-69-73",
+          "web_site": null,
+          "e_mail": " sch1358@szouo.ru",
+          "X": "37,346736",
+          "Y": "55,856738",
+          "global_id": "87028856"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.345821, 55.854661], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "cd5bff2b-2e15-47ae-9fec-982b27d17aa7",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1358",
+          "adress": "125310, г. Москва, Пятницкое шоссе, д. 45, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 751-69-72; (495) 751-69-73",
+          "web_site": null,
+          "e_mail": " sch1358@szouo.ru",
+          "X": "37,345821",
+          "Y": "55,854661",
+          "global_id": "87028857"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.344862, 55.853953], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "bde8499b-b9af-4bff-88ab-87331f65d6c9",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1358",
+          "adress": "125310, г. Москва, Пятницкое шоссе, д. 45, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 751-69-72; (495) 751-69-73",
+          "web_site": null,
+          "e_mail": " sch1358@szouo.ru",
+          "X": "37,344862",
+          "Y": "55,853953",
+          "global_id": "87028858"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.345754, 55.855403], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "36e785ea-6be0-47a3-84d6-23fbfd9df1d2",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1358",
+          "adress": "125310, г. Москва, Пятницкое шоссе, д. 45, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 751-69-72; (495) 751-69-73",
+          "web_site": null,
+          "e_mail": " sch1358@szouo.ru",
+          "X": "37,345754",
+          "Y": "55,855403",
+          "global_id": "87028859"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.348944, 55.855769], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "a17f2f37-6391-47b7-b2ce-8da71cc435b3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1358",
+          "adress": "125310, г. Москва, Пятницкое шоссе, д. 45, корп. 2",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 751-69-72; (495) 751-69-73",
+          "web_site": null,
+          "e_mail": " sch1358@szouo.ru",
+          "X": "37,348944",
+          "Y": "55,855769",
+          "global_id": "87028860"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.668217, 55.681802], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "bfcb39dd-29b6-47af-a94b-2f8515693556",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1527",
+          "adress": "115470 г. Москва, проспект Андропова,д.17,к.5",
+          "okrug": "Южный административный округ",
+          "rayon": "район Нагатинский Затон",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone":
+            "(499) 618-70-05; (499) 618-80-96; (499) 725-16-42; (499) 618-70-40; (499) 618-70-30; (499) 618-70-51",
+          "web_site": "gym1527u.mskobr.ru",
+          "e_mail": "sch1527@sinergi.ru",
+          "X": "37,668217",
+          "Y": "55,681802",
+          "global_id": "87028909"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.382309, 55.839297], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "3dbed719-505c-4d9f-8a8e-15df8391b7dd",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1538",
+          "adress":
+            "125464, г. Москва, здание 1:Новотушинский проезд, д. 8, корп. 2;",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "751-14-91",
+          "web_site": "gym1538.mskobr.ru/",
+          "e_mail": "gym1538@szouo.ru",
+          "X": "37,382309",
+          "Y": "55,839297",
+          "global_id": "87028933"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.833479, 55.802589], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "598f4fb6-fc15-43b9-97e4-77297ee90f43",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1748 \"Вертикаль\"",
+          "adress": "105484, г. Москва, Сиреневый бульвар, д. 73, корп. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Северное Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 461-75-73; (499) 461-82-07",
+          "web_site": "co1748.mskobr.ru",
+          "e_mail": "center_vertikal@mail.ru",
+          "X": "37,833479",
+          "Y": "55,802589",
+          "global_id": "87029013"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.825843, 55.799273], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "23f8c007-4f89-4e8e-8ee9-bf2465be3751",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1748 \"Вертикаль\"",
+          "adress": "105484, г. Москва, Сиреневый бульвар, д. 73, корп. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Северное Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 461-75-73; (499) 461-82-07",
+          "web_site": "co1748.mskobr.ru",
+          "e_mail": "center_vertikal@mail.ru",
+          "X": "37,825843",
+          "Y": "55,799273",
+          "global_id": "87029014"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.82785, 55.804892], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "7e3537d9-6b3c-4326-9859-66c7f4c4f356",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1748 \"Вертикаль\"",
+          "adress": "105484, г. Москва, Сиреневый бульвар, д. 73, корп. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Северное Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 461-75-73; (499) 461-82-07",
+          "web_site": "co1748.mskobr.ru",
+          "e_mail": "center_vertikal@mail.ru",
+          "X": "37,82785",
+          "Y": "55,804892",
+          "global_id": "87029015"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.66792, 55.791102], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "aade78b6-8e64-4f48-869b-4d27c1ca2dac",
+        "Attributes": {
+          "name": "Частное учреждение Центр образования «Европейская гимназия»",
+          "adress": "107014, г. Москва, ул.3-я Сокольническая, дом 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "269-07-10,268-44-04",
+          "web_site": null,
+          "e_mail": "info@eurogym.ru",
+          "X": "37,66792",
+          "Y": "55,791102",
+          "global_id": "87029035"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.747851, 55.623705], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d769aac5-3327-4c8f-9bc8-45ce08f1c84b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1569 \"Созвездие\"",
+          "adress": "115573 г. Москва, ул. Мусы Джалиля, д.36,к.2",
+          "okrug": "Южный административный округ",
+          "rayon": "район Зябликово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 396-43-50",
+          "web_site": "gymu1569.mskobr.ru",
+          "e_mail": "sch1569@sinergi.ru",
+          "X": "37,747851",
+          "Y": "55,623705",
+          "global_id": "87029052"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.751241, 55.665443], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "85133a03-507e-412f-b09b-c680cdcda2ab",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1562 имени Артема Боровика",
+          "adress": "109341, г.Москва, ул. Братиславская, дом 4",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Марьино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "349-00-11",
+          "web_site": "gymuv1562.mskobr.ru",
+          "e_mail": "gimn1562@uvuo.ru",
+          "X": "37,751241",
+          "Y": "55,665443",
+          "global_id": "87029074"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.508133, 55.699035], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "fce2661f-e9da-471e-9f80-ee5ebba9bb0d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1306",
+          "adress":
+            "119192, г. Москва, Мичуринский проспект, д. 15, корп. 2, 3",
+          "okrug": "Западный административный округ",
+          "rayon": "район Раменки",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "932-89-42",
+          "web_site": "gymg1306.mskobr.ru",
+          "e_mail": "administration@sch1306.ru",
+          "X": "37,508133",
+          "Y": "55,699035",
+          "global_id": "87029147"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.634879, 55.803707], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "94f4f499-ff6d-40a1-ae80-4a8c9356a283",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия №1518",
+          "adress": "129085, г. Москва, проспект Мира, д. 87",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Останкинский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 687-66-66",
+          "web_site": "gum1518.svao.mskobr.ru",
+          "e_mail": "gou1518@mail.ru",
+          "X": "37,634879",
+          "Y": "55,803707",
+          "global_id": "87029148"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.451556, 55.783956], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "a3fa0bcc-11f2-458a-adfa-3e6a8d7c0d1d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1517",
+          "adress": "123103, г. Москва, ул. Живописная, д. 11, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 720-25-67",
+          "web_site": "gymsz1517.mskobr.ru",
+          "e_mail": "gym1517@szouo.ru",
+          "X": "37,451556",
+          "Y": "55,783956",
+          "global_id": "87029162"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.453195, 55.785184], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "086e8f8f-1a3a-46e7-ad84-9617068961da",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1517",
+          "adress": "123103, г. Москва, ул. Живописная, д. 11, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 720-25-67",
+          "web_site": "gymsz1517.mskobr.ru",
+          "e_mail": "gym1517@szouo.ru",
+          "X": "37,453195",
+          "Y": "55,785184",
+          "global_id": "87029163"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.457623, 55.785694], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "11faf498-8555-4c8f-8b59-aede1f5741cd",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1517",
+          "adress": "123103, г. Москва, ул. Живописная, д. 11, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 720-25-67",
+          "web_site": "gymsz1517.mskobr.ru",
+          "e_mail": "gym1517@szouo.ru",
+          "X": "37,457623",
+          "Y": "55,785694",
+          "global_id": "87029164"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.463004, 55.77515], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "bf7eaa9c-918d-4bbb-83f6-fad54fd10986",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1517",
+          "adress": "123103, г. Москва, ул. Живописная, д. 11, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 720-25-67",
+          "web_site": "gymsz1517.mskobr.ru",
+          "e_mail": "gym1517@szouo.ru",
+          "X": "37,463004",
+          "Y": "55,77515",
+          "global_id": "87029165"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.451917, 55.786387], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "503e43b5-171e-458c-a415-b0c43990acb0",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1517",
+          "adress": "123103, г. Москва, ул. Живописная, д. 11, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 720-25-67",
+          "web_site": "gymsz1517.mskobr.ru",
+          "e_mail": "gym1517@szouo.ru",
+          "X": "37,451917",
+          "Y": "55,786387",
+          "global_id": "87029166"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.459303, 55.783048], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "7f5a8ee7-8171-4a6f-b919-04e672676128",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1517",
+          "adress": "123103, г. Москва, ул. Живописная, д. 11, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 720-25-67",
+          "web_site": "gymsz1517.mskobr.ru",
+          "e_mail": "gym1517@szouo.ru",
+          "X": "37,459303",
+          "Y": "55,783048",
+          "global_id": "87029167"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.457267, 55.780484], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b07c0419-a977-4b9c-9c48-5876a10d6796",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1517",
+          "adress": "123103, г. Москва, ул. Живописная, д. 11, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 720-25-67",
+          "web_site": "gymsz1517.mskobr.ru",
+          "e_mail": "gym1517@szouo.ru",
+          "X": "37,457267",
+          "Y": "55,780484",
+          "global_id": "87029168"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.451711, 55.785034], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "92e61281-7107-4ecb-8df9-735f086b1bab",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1517",
+          "adress": "123103, г. Москва, ул. Живописная, д. 11, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Хорошёво-Мнёвники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 720-25-67",
+          "web_site": "gymsz1517.mskobr.ru",
+          "e_mail": "gym1517@szouo.ru",
+          "X": "37,451711",
+          "Y": "55,785034",
+          "global_id": "87029169"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.662884, 55.707598], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b23f52f1-30be-44e4-a202-a2f8aeae0698",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1272",
+          "adress": "115280, г. Москва, 1-й Кожуховский проезд, д.17",
+          "okrug": "Южный административный округ",
+          "rayon": "Даниловский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "710-36-43",
+          "web_site": "cou1272.mskobr.ru",
+          "e_mail": "sch1272@sinergi.ru",
+          "X": "37,662884",
+          "Y": "55,707598",
+          "global_id": "87029233"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.662222, 55.70854], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "743df664-ffab-4e79-9720-2fcf90b28531",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1272",
+          "adress": "115280, г. Москва, 1-й Кожуховский проезд, д.17",
+          "okrug": "Южный административный округ",
+          "rayon": "Даниловский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "710-36-43",
+          "web_site": "cou1272.mskobr.ru",
+          "e_mail": "sch1272@sinergi.ru",
+          "X": "37,662222",
+          "Y": "55,70854",
+          "global_id": "87029234"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.708281, 55.807815], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0ed18bc1-20ea-4722-b325-50e6851308d0",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия №1452 \"Богородская\"",
+          "adress": "107564, г. Москва, ул. 1-я Гражданская, д.96",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Богородское",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 964-88-01",
+          "web_site": "co1452.mskobr.ru",
+          "e_mail": "co1452@mail.ru",
+          "X": "37,708281",
+          "Y": "55,807815",
+          "global_id": "87029282"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.190778, 55.976398], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d5c71f57-b4bf-41ae-8559-734b59436a28",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1528",
+          "adress": "124527, г. Москва, Зеленоград, корп. 817",
+          "okrug": "Зеленоградский административный округ",
+          "rayon": "район Старое Крюково",
+          "form_of_incorporation": "Государственное",
+          "submission": "Зеленоградское окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 710-33-02; (499) 710-47-20",
+          "web_site": "http://gymzg1528.mskobr.ru",
+          "e_mail": "s1528@zou.ru",
+          "X": "37,190778",
+          "Y": "55,976398",
+          "global_id": "87029295"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.178956, 55.995564], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "8372014c-e67d-4805-8d40-9e484035607a",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1528",
+          "adress": "124527, г. Москва, Зеленоград, корп. 817",
+          "okrug": "Зеленоградский административный округ",
+          "rayon": "район Старое Крюково",
+          "form_of_incorporation": "Государственное",
+          "submission": "Зеленоградское окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 710-33-02; (499) 710-47-20",
+          "web_site": "http://gymzg1528.mskobr.ru",
+          "e_mail": "s1528@zou.ru",
+          "X": "37,178956",
+          "Y": "55,995564",
+          "global_id": "87029296"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.611873, 55.865627], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ea223f30-d4c5-482d-97b5-4aca02a78789",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное  образовательное учреждение города Москвы гимназия № 1554",
+          "adress": "127490, г. Москва, ул. Пестеля, д.5,9А",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Отрадное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 203-17-90",
+          "web_site": "gum1554sv.mskobr.ru",
+          "e_mail": "Gymn-1554@yandex.ru",
+          "X": "37,611873",
+          "Y": "55,865627",
+          "global_id": "87029346"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.613411, 55.864558], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "36b2b53d-99b6-4b0e-af9f-e29685e30b63",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное  образовательное учреждение города Москвы гимназия № 1554",
+          "adress": "127490, г. Москва, ул. Пестеля, д.5,9А",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Отрадное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 203-17-90",
+          "web_site": "gum1554sv.mskobr.ru",
+          "e_mail": "Gymn-1554@yandex.ru",
+          "X": "37,613411",
+          "Y": "55,864558",
+          "global_id": "87029347"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.802662, 55.792062], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9615b6cf-96bf-4757-a60c-29afe8993318",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Измайловская гимназия №1508",
+          "adress": "105043, Первомайская улица, 65",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 465-58-22; (495) 465-08-43; (495) 465-38-76",
+          "web_site": "gymv1508.mskobr.ru",
+          "e_mail": "ooig1508@yandex.ru",
+          "X": "37,802662",
+          "Y": "55,792062",
+          "global_id": "87029380"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.684761, 55.793388], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "70328630-3481-406b-b370-00d34b688ab3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1530 \"Школа Ломоносова\"",
+          "adress": "107014, Москва, ул. Егерская, д. 4",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "603-09-62",
+          "web_site": "gymv1530.mskobr.ru",
+          "e_mail": "gym1530@yandex.ru",
+          "X": "37,684761",
+          "Y": "55,793388",
+          "global_id": "87029381"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.823299, 55.695092], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "feceed6d-01b5-4f68-8031-7fc052de24de",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1597",
+          "adress": "109444, г. Москва, ул. Ташкентская, д. 6",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Выхино-Жулебино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "376-43-59",
+          "web_site": "gymuv1597.mskobr.ru",
+          "e_mail": "gim1597@mail.ru",
+          "X": "37,823299",
+          "Y": "55,695092",
+          "global_id": "87029405"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.632215, 55.803672], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "41c5349c-ef4d-4cc5-97c4-44be73c327f3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1531 \"Лингвистическая\"",
+          "adress": "129085, г. Москва, ул. Годовикова, д.4, стр.3",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Останкинский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 687-01-07",
+          "web_site": "gym1531sv.mskobr.ru",
+          "e_mail": "Sch1531edu@yandex.ru",
+          "X": "37,632215",
+          "Y": "55,803672",
+          "global_id": "87029441"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.632907, 55.803713], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "44299106-da01-4249-adc9-6d794c80e992",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1531 \"Лингвистическая\"",
+          "adress": "129085, г. Москва, ул. Годовикова, д.4, стр.3",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Останкинский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 687-01-07",
+          "web_site": "gym1531sv.mskobr.ru",
+          "e_mail": "Sch1531edu@yandex.ru",
+          "X": "37,632907",
+          "Y": "55,803713",
+          "global_id": "87029442"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.633271, 55.803998], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d3a3a76d-7084-4c2d-9aa1-0a9c8b2600b8",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1531 \"Лингвистическая\"",
+          "adress": "129085, г. Москва, ул. Годовикова, д.4, стр.3",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Останкинский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 687-01-07",
+          "web_site": "gym1531sv.mskobr.ru",
+          "e_mail": "Sch1531edu@yandex.ru",
+          "X": "37,633271",
+          "Y": "55,803998",
+          "global_id": "87029443"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.579678, 55.691641], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "69b2d0a3-6bea-42d8-b5cd-d8e2bb945291",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 45 имени Л.И.Мильграма",
+          "adress": "117036, г. Москва, ул. Гримау, д.8",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "Академический район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "779-77-69",
+          "web_site": null,
+          "e_mail": "po@ms45.edu.ru",
+          "X": "37,579678",
+          "Y": "55,691641",
+          "global_id": "87029455"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.579726, 55.691], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "7d21eec7-2a17-4970-9a86-df205f2a9294",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 45 имени Л.И.Мильграма",
+          "adress": "117036, г. Москва, ул. Гримау, д.8",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "Академический район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "779-77-69",
+          "web_site": null,
+          "e_mail": "po@ms45.edu.ru",
+          "X": "37,579726",
+          "Y": "55,691",
+          "global_id": "87029456"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.62569, 55.714479], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d8f004f0-a878-4000-9f06-f87bd11d08b4",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1257",
+          "adress":
+            "115093 г. Москва, ул. Павловская, дом 8-а, 115093, г. Москва, ул. Павловская д.8А корпус 1",
+          "okrug": "Южный административный округ",
+          "rayon": "Даниловский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "952-63-70",
+          "web_site": "gymu1257.mskobr.ru",
+          "e_mail": "dou1234@sinergi.ru",
+          "X": "37,62569",
+          "Y": "55,714479",
+          "global_id": "87029498"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.629083, 55.717536], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "411bbdcf-8429-4abe-84a0-0193e6edb370",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1257",
+          "adress":
+            "115093 г. Москва, ул. Павловская, дом 8-а, 115093, г. Москва, ул. Павловская д.8А корпус 1",
+          "okrug": "Южный административный округ",
+          "rayon": "Даниловский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "952-63-70",
+          "web_site": "gymu1257.mskobr.ru",
+          "e_mail": "dou1234@sinergi.ru",
+          "X": "37,629083",
+          "Y": "55,717536",
+          "global_id": "87029499"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.685853, 55.798076], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9ea2027b-d575-4c07-aa32-7b840ffff53d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,685853",
+          "Y": "55,798076",
+          "global_id": "87029570"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.686195, 55.798441], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "eb40e4cc-70dd-48ac-8314-68204f9b59b4",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,686195",
+          "Y": "55,798441",
+          "global_id": "87029571"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.685886, 55.798762], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "5d0e6936-8d43-4745-bce7-27bf31503855",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,685886",
+          "Y": "55,798762",
+          "global_id": "87029572"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.685802, 55.798502], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "19cf8f39-e341-4c5c-a315-45847cc7439e",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,685802",
+          "Y": "55,798502",
+          "global_id": "87029573"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.685243, 55.798052], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "49863e2c-483a-4ab7-96c0-0dc8bdfea238",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,685243",
+          "Y": "55,798052",
+          "global_id": "87029574"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.685586, 55.797879], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "cbce302b-4da9-4e61-976e-74300b08667b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,685586",
+          "Y": "55,797879",
+          "global_id": "87029575"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.688124, 55.803762], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "cdcbda52-f8e8-43c2-a890-895ac5d09173",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,688124",
+          "Y": "55,803762",
+          "global_id": "87029576"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.68471, 55.797678], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "8c201c0b-0a74-4d63-bb5b-735fa65b0743",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,68471",
+          "Y": "55,797678",
+          "global_id": "87029577"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.686941, 55.798492], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "bf849e36-6990-4850-b11d-a5a83eb4633c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,686941",
+          "Y": "55,798492",
+          "global_id": "87029578"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.686366, 55.798842], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "51767057-38b0-4b05-b1b6-3003c3ca2faa",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,686366",
+          "Y": "55,798842",
+          "global_id": "87029579"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.686659, 55.798676], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "64afb0d8-1f09-4d72-ae7b-bdf886c48ca5",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,686659",
+          "Y": "55,798676",
+          "global_id": "87029580"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.686097, 55.799], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "a2b70355-30a6-4d05-be96-713cb98eca4b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,686097",
+          "Y": "55,799",
+          "global_id": "87029581"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.687488, 55.798323], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "10226682-1460-47bd-a282-703681d47cac",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,687488",
+          "Y": "55,798323",
+          "global_id": "87029582"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.685012, 55.797859], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b34271a9-21c6-46de-b0a4-8b0c0ec731e2",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,685012",
+          "Y": "55,797859",
+          "global_id": "87029583"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.687265, 55.798141], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "15105473-bc31-4348-bef4-17164bd8fa73",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,687265",
+          "Y": "55,798141",
+          "global_id": "87029584"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.82756, 55.715998], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "30cda411-ba7f-472b-bc3a-a8f79fe2df8c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,82756",
+          "Y": "55,715998",
+          "global_id": "87029585"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.825446, 55.717098], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "dc535afe-b158-44a4-aa18-ff1810cc5750",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,825446",
+          "Y": "55,717098",
+          "global_id": "87029586"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.685506, 55.798197], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "f02defb1-6625-4a7a-8b10-b0febb85cfd3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1404 \"Гамма\"",
+          "adress": "107014, Москва,  ул. Большая Оленья,  д. 3",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 269-02-19; (499) 268-46-80; (499) 269-02-96",
+          "web_site": "cov1404.mskobr.ru",
+          "e_mail": "gamma1404@list.ru",
+          "X": "37,685506",
+          "Y": "55,798197",
+          "global_id": "87029587"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.495755, 55.534522], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "dd085bf8-59e9-402a-bfda-87fd6df4b06d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Гимназия № 1786",
+          "adress": "117041, г.Москва, ул. Адмирала Лазарева, д. 77",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "район Южное Бутово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(499) 793-77-09",
+          "web_site": "http://gymuz1786.mskobr.ru/",
+          "e_mail": "potapovo1786@mail.ru",
+          "X": "37,495755",
+          "Y": "55,534522",
+          "global_id": "87029640"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.428105, 55.739341], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "6e6e3725-38ac-40e6-a03c-56a9d5277b20",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1584",
+          "adress": "121615 г.Москва, Рублевское шоссе, д. 24, корпус 3",
+          "okrug": "Западный административный округ",
+          "rayon": "район Кунцево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 413-34-67; (495) 413-34-91",
+          "web_site": "ds1334.mskzapad.ru/",
+          "e_mail": "school1131@mail.ru",
+          "X": "37,428105",
+          "Y": "55,739341",
+          "global_id": "87029924"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.428899, 55.745363], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "cf1aed72-f9c8-4db8-8927-af50ce533c76",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1584",
+          "adress": "121615 г.Москва, Рублевское шоссе, д. 24, корпус 3",
+          "okrug": "Западный административный округ",
+          "rayon": "район Кунцево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 413-34-67; (495) 413-34-91",
+          "web_site": "ds1334.mskzapad.ru/",
+          "e_mail": "school1131@mail.ru",
+          "X": "37,428899",
+          "Y": "55,745363",
+          "global_id": "87029925"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.662647, 55.818178], "type": "Point" },
+      "properties": {
+        "DatasetId": 538,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "e5a0712e-5d99-4987-9fac-10ec59ed42c3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы гимназия № 1503",
+          "adress": "129626, г.Москва, ул.П.Корчагина, д.18",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "Алексеевский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya": "Общеобразовательное учреждение",
+          "vid_uchrezhdeniya": "Гимназия",
+          "telephone": "(495) 683-77-12",
+          "web_site": "gymsv1503.mskobr.ru",
+          "e_mail": "sch_1503@gor.educom.ru",
+          "X": "37,662647",
+          "Y": "55,818178",
+          "global_id": "87029998"
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

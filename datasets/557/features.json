@@ -1,0 +1,791 @@
+{
+  "features": [
+    {
+      "geometry": { "coordinates": [37.810634, 55.806269], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2de88020-a4ab-4f16-8017-76c9a55d2ac7",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия №1749",
+          "adress": "105215, г. Москва, улица 13-я Парковая, дом 29",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Северное Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "468-22-46",
+          "web_site": "pgym1749.vao.mskobr.ru",
+          "e_mail": "profgim1749@mail.ru",
+          "X": "37,810634",
+          "Y": "55,806269",
+          "global_id": "86911281"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.574642, 55.904738], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ec4a8d21-8e45-4e43-9223-49e8d2bdf9c6",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1819",
+          "adress": "127572, г. Москва, ул. Абрамцевская, д. 24, корп. 2",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Лианозово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(499) 200-73-44",
+          "web_site": "pgymsv1819.mskobr.ru",
+          "e_mail": "Pro1819@mail.ru",
+          "X": "37,574642",
+          "Y": "55,904738",
+          "global_id": "86921069"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.345821, 55.854661], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "30ac9743-b8e1-41f0-89b1-7afb2105de0d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1782",
+          "adress": "125310, г. Москва, ул. Барышиха, д. 42, корп. 1",
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(495) 794-89-32; (495) 794-89-37",
+          "web_site": "pgym1782.mskobr.ru",
+          "e_mail": "sch1782@szouo.ru",
+          "X": "37,345821",
+          "Y": "55,854661",
+          "global_id": "86904041"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.52835, 55.686308], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "e34b4f46-ff18-4e66-894f-f0bb24709a7d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1733",
+          "adress": "119311, Москва, ул. Крупской, д.10",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "Ломоносовский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "432-67-92",
+          "web_site": null,
+          "e_mail": "progimnaziya1733@mail.ru",
+          "X": "37,52835",
+          "Y": "55,686308",
+          "global_id": "86904201"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.796661, 55.806174], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "32c0834d-1896-4ca2-9f9c-e21b6374c76d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия  №1718",
+          "adress": "105425, г. Москва, ул. Константина Федина, д.14",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Северное Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "163-12-46",
+          "web_site": "pgym1718.mskobr.ru",
+          "e_mail": "scool1718@mail.ru",
+          "X": "37,796661",
+          "Y": "55,806174",
+          "global_id": "86911280"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.395649, 55.886611], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "70e8d14d-bcd5-4469-82ec-dac32d165be0",
+        "Attributes": {
+          "name":
+            "Негосударственное образовательное учреждение Прогимназия \"Белоснежка\"",
+          "adress": null,
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Куркино",
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(495) 744-15-52",
+          "web_site": null,
+          "e_mail": "pgbelosnezhka@mail.ru",
+          "X": "37,395649",
+          "Y": "55,886611",
+          "global_id": "86890358"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.643393, 55.854546], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "eb79314e-c1e1-41d8-8d6a-616b92b83c47",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1779",
+          "adress": "129323, г. Москва, ул. Седова, д.12",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Свиблово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(499) 180-43-90; (499) 180-01-96",
+          "web_site": "ds294.mskobr.ru",
+          "e_mail": "edu1779@yandex.ru",
+          "X": "37,643393",
+          "Y": "55,854546",
+          "global_id": "86921068"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.747264, 55.616781], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d8b0f651-a5eb-41af-a78a-cb5511c5327f",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1736",
+          "adress": "115580 г.Москва, ул.Мусы Джалиля, д.29,к.3",
+          "okrug": "Южный административный округ",
+          "rayon": "район Зябликово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "394-01-66",
+          "web_site": "pgym1736.mskobr.ru",
+          "e_mail": "sch1736@sinergi.ru",
+          "X": "37,747264",
+          "Y": "55,616781",
+          "global_id": "86887748"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.812469, 55.705987], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "3e55235a-b4f2-4ed4-acea-723b8ac4f117",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1882",
+          "adress": "109444, г. Москва ул. Ферганская, д. 16, корп. 3",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Выхино-Жулебино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "376-42-11",
+          "web_site": "pgym1882.mskobr.ru",
+          "e_mail": "progimnazia-1882@mail.ru",
+          "X": "37,812469",
+          "Y": "55,705987",
+          "global_id": "86904153"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.68523, 55.793127], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c82d3a6f-76e4-471a-ab25-1565bff14fdf",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия №1752",
+          "adress": "107014, г. Москва, ул. Большая  Остроумовская,  дом 7",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Сокольники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(495) 603-07-16",
+          "web_site": "pgym1752.mskobr.ru",
+          "e_mail": "progymnaz1752@mail.ru",
+          "X": "37,68523",
+          "Y": "55,793127",
+          "global_id": "86911282"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.638663, 55.853008], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b3f70570-96b6-4638-892b-0f933eccff13",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1779",
+          "adress": "129323, г. Москва, ул. Седова, д.12",
+          "okrug": "Северо-Восточный административный округ",
+          "rayon": "район Свиблово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(499) 180-43-90; (499) 180-01-96",
+          "web_site": "ds294.mskobr.ru",
+          "e_mail": "edu1779@yandex.ru",
+          "X": "37,638663",
+          "Y": "55,853008",
+          "global_id": "87028618"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.721084, 55.781365], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0ea9787b-d0ae-4178-baf8-a259d7a3d581",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1792 \"Остафьево\"",
+          "adress": "105318, Москва Город, Семеновская Площадь, 4",
+          "okrug": null,
+          "rayon": null,
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Троицкое и новомосковское окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(495)867-91-40",
+          "web_site": null,
+          "e_mail": null,
+          "X": "37,721084",
+          "Y": "55,781365",
+          "global_id": "86931022"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.505131, 55.797599], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "5ca6317d-ac84-4ec8-9a19-e82f60d2e994",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1672",
+          "adress": "125252,  г. Москва, улица Алабяна, дом 15",
+          "okrug": "Северный административный округ",
+          "rayon": "район Сокол",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(499) 198-77-15",
+          "web_site": "pgym1672.mskobr.ru/",
+          "e_mail": "gou1672sao@yandex.ru",
+          "X": "37,505131",
+          "Y": "55,797599",
+          "global_id": "86930461"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.827946, 55.71907], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "146df282-6b67-4d4c-bf61-bf727e675c32",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Прогимназия № 1753",
+          "adress": "111538 город Москва ул. Молдагуловой 30Б",
+          "okrug": "Восточный административный округ",
+          "rayon": "район Вешняки",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "375-70-17",
+          "web_site": "sch1753.mskobr.ru",
+          "e_mail": "prog.1753@rambler.ru",
+          "X": "37,827946",
+          "Y": "55,71907",
+          "global_id": "86911283"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.408218, 55.642369], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "34065e87-96da-448b-9e9f-d22e768d96c7",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1728",
+          "adress": "119620 г.Москва, ул. Авиаторов, д.28",
+          "okrug": "Западный административный округ",
+          "rayon": "район Солнцево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(499) 727-74-52",
+          "web_site": "pgym1728.mskzapad.ru",
+          "e_mail": "progimnaziya1728@yandex.ru",
+          "X": "37,408218",
+          "Y": "55,642369",
+          "global_id": "86887439"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.573853, 55.650179], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ade5678a-18d2-40e0-9183-0eec52bae79b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1644",
+          "adress": "117461, г.Москва, ул. Херсонская, д. 5, корп. 1",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "район Зюзино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "122-84-70",
+          "web_site": null,
+          "e_mail": "gou@1644.ru",
+          "X": "37,573853",
+          "Y": "55,650179",
+          "global_id": "86904196"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.558363, 55.881801], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "a8d1cd9f-6616-4068-8da9-d6063900bdaa",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1611",
+          "adress": "127591, г. Москва, ул 800-летия Москвы, дом 5, корпус 2",
+          "okrug": "Северный административный округ",
+          "rayon": "район Восточное Дегунино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(499) 480-77-11; (499) 480-31-14",
+          "web_site": "pgym1611.mskobr.ru",
+          "e_mail": "gou1611@mail.ru",
+          "X": "37,558363",
+          "Y": "55,881801",
+          "global_id": "86890278"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.50441, 55.672762], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "6d4327a1-f50e-4f8c-99a2-321cca6c9670",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1754",
+          "adress": "119415 г.Москва, Проспект Вернадского, д. 55",
+          "okrug": "Западный административный округ",
+          "rayon": "район Проспект Вернадского",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "431-50-58",
+          "web_site": "pgym1754.mskzapad.ru",
+          "e_mail": "progimnazia1754@mail.ru",
+          "X": "37,50441",
+          "Y": "55,672762",
+          "global_id": "86887440"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.703448, 55.763365], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1a20fda7-f5c6-4906-97e1-dfd810d91a88",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1642",
+          "adress": "111250, г.Москва, ул. Солдатская, д. 12а",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Лефортово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "362-69-66",
+          "web_site": "pgym1642.mskobr.ru",
+          "e_mail": "progimnaziyan1642@yandex.ru",
+          "X": "37,703448",
+          "Y": "55,763365",
+          "global_id": "86904147"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.511264, 55.8197], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "760404b2-b0b9-489d-9b22-41402e8eea40",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1774",
+          "adress":
+            "125130, г. Москва, 3-ий Новоподмосковный переулок, дом 7, строение 1",
+          "okrug": "Северный административный округ",
+          "rayon": "Войковский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "159-30-66",
+          "web_site": "pgym1774.mskobr.ru",
+          "e_mail": "prog@1774.ru",
+          "X": "37,511264",
+          "Y": "55,8197",
+          "global_id": "86930462"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.811775, 55.705369], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2bc11ebb-36a1-48a3-b6df-bf313ededf5c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1882",
+          "adress": "109444, г. Москва ул. Ферганская, д. 16, корп. 3",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Выхино-Жулебино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "376-42-11",
+          "web_site": "pgym1882.mskobr.ru",
+          "e_mail": "progimnazia-1882@mail.ru",
+          "X": "37,811775",
+          "Y": "55,705369",
+          "global_id": "87013773"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.567573, 55.866679], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "59ba2abf-e917-4ef6-b651-faaee4b8a36c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1826",
+          "adress": "127540 г. Москва, улица Дубнинская, дом 14 \"Б\"",
+          "okrug": "Северный административный округ",
+          "rayon": "район Восточное Дегунино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(499) 219-32-22",
+          "web_site": "pgym1826.mskobr.ru",
+          "e_mail": "ds1826@mail.ru",
+          "X": "37,567573",
+          "Y": "55,866679",
+          "global_id": "86930463"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.572303, 55.649965], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c904cfca-3bb7-4574-a49f-8a8b5740370c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1644",
+          "adress": "117461, г.Москва, ул. Херсонская, д. 5, корп. 1",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "район Зюзино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "122-84-70",
+          "web_site": null,
+          "e_mail": "gou@1644.ru",
+          "X": "37,572303",
+          "Y": "55,649965",
+          "global_id": "87013778"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.530593, 55.874047], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "56ecedd1-ea34-4236-9fde-8ed1560793ce",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1661",
+          "adress": "127486, г. Москва, Коровинское шоссе, дом 14 А",
+          "okrug": "Северный административный округ",
+          "rayon": "Дмитровский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "905-41-64",
+          "web_site": "pgym1661.mskobr.ru",
+          "e_mail": "gimn1661@rambler.ru",
+          "X": "37,530593",
+          "Y": "55,874047",
+          "global_id": "86930460"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.720103, 55.67985], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1f0bbeda-1bf2-401d-8fb2-5a2139169e02",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы  прогимназия № 1893",
+          "adress": "109388, г. Москва, ул. Гурьянова, д. 59",
+          "okrug": "Юго-Восточный административный округ",
+          "rayon": "район Печатники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "354-90-06",
+          "web_site": "http://pgymuv1893.mskobr.ru/",
+          "e_mail": "progimnaz1893@mail.ru",
+          "X": "37,720103",
+          "Y": "55,67985",
+          "global_id": "86904157"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.402707, 55.885964], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "eda958dd-3d8b-464f-822b-a2646a9fc4d3",
+        "Attributes": {
+          "name":
+            "Негосударственное образовательное учреждение Прогимназия \"Белоснежка\"",
+          "adress": null,
+          "okrug": "Северо-Западный административный округ",
+          "rayon": "район Куркино",
+          "form_of_incorporation": "Негосударственное",
+          "submission": "Негосударственное",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "(495) 744-15-52",
+          "web_site": null,
+          "e_mail": "pgbelosnezhka@mail.ru",
+          "X": "37,402707",
+          "Y": "55,885964",
+          "global_id": "87029151"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.572385, 55.649944], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "71b760fb-4824-4337-9910-fef443ac5c90",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1644",
+          "adress": "117461, г.Москва, ул. Херсонская, д. 5, корп. 1",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "район Зюзино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "122-84-70",
+          "web_site": null,
+          "e_mail": "gou@1644.ru",
+          "X": "37,572385",
+          "Y": "55,649944",
+          "global_id": "87013779"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.485594, 55.653627], "type": "Point" },
+      "properties": {
+        "DatasetId": 557,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0c9651fd-6df4-4f27-bb15-26f0d00ce974",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы прогимназия № 1723",
+          "adress": "119571 г.Москва, Ленинский проспект, д. 156, корпус 2",
+          "okrug": "Западный административный округ",
+          "rayon": "район Тропарёво-Никулино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение для детей дошкольного и младшего школьного возраста",
+          "vid_uchrezhdeniya": "Прогимназия",
+          "telephone": "428-45-01",
+          "web_site": null,
+          "e_mail": "1723@bk.ru",
+          "X": "37,485594",
+          "Y": "55,653627",
+          "global_id": "86887437"
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,2042 @@
+{
+  "features": [
+    {
+      "geometry": { "coordinates": [37.611566, 55.776917], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c352af02-787d-4ea5-a8c1-fd6bf64a73f6",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Московский центральный дворец творчества детей и молодежи",
+          "adress": "125047 г.Москва, ул. Александра Невского, д. 4, стр. 1",
+          "okrug": "Центральный",
+          "rayon": "Тверской",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "250-29-09",
+          "web_site": "cdt.dop.mskobr.ru",
+          "e_mail": "dtnamiussah@mail.ru",
+          "X": "37,611566",
+          "Y": "55,776917",
+          "global_id": "87029228"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.592594, 55.777022], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "209f2f03-9c4b-4fb3-ae03-db7f197a7ae2",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Московский центральный дворец творчества детей и молодежи",
+          "adress": "125047 г.Москва, ул. Александра Невского, д. 4, стр. 1",
+          "okrug": "Центральный",
+          "rayon": "Тверской",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "250-29-09",
+          "web_site": "cdt.dop.mskobr.ru",
+          "e_mail": "dtnamiussah@mail.ru",
+          "X": "37,592594",
+          "Y": "55,777022",
+          "global_id": "87029229"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.607516, 55.796688], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1f90bb06-0927-4bfd-b661-397423c11a38",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр детского творчества \"Марьина Роща\"",
+          "adress": "127018, город Москва, 1-й Стрелецкий проезд, д. 5",
+          "okrug": "Северо-Восточный",
+          "rayon": "Марьина роща",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "689-43-00",
+          "web_site": "cdtmr.dop.mskobr.ru",
+          "e_mail": "goucdtmr@gmail.com",
+          "X": "37,607516",
+          "Y": "55,796688",
+          "global_id": "86907950"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.442266, 55.86608], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9508fd08-29a3-4b62-830b-cda9b9359b79",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр внешкольной работы \"Синяя птица\"",
+          "adress": "125459, г. Москва, проезд Донелайтиса, д. 20",
+          "okrug": "Северо-Западный",
+          "rayon": "Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр внешкольной работы",
+          "telephone": "(495) 492-01-90",
+          "web_site": "cvrsp.dop.mskobr.ru",
+          "e_mail": "zvr-tushino@mail.ru",
+          "X": "37,442266",
+          "Y": "55,86608",
+          "global_id": "87029882"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.620004, 55.733211], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1dac2912-6594-4e80-a760-078669584286",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Московский центральный дворец творчества детей и молодежи",
+          "adress": "125047 г.Москва, ул. Александра Невского, д. 4, стр. 1",
+          "okrug": "Центральный",
+          "rayon": "Тверской",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "250-29-09",
+          "web_site": "cdt.dop.mskobr.ru",
+          "e_mail": "dtnamiussah@mail.ru",
+          "X": "37,620004",
+          "Y": "55,733211",
+          "global_id": "86930924"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.735877, 55.730709], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ba021113-903a-44d6-86d5-a8e25aefac6d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи \"Интеллект\"",
+          "adress": "105318 г. Москва, Семеновская пл., д. 4",
+          "okrug": "Юго-Восточный",
+          "rayon": "Рязанский",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(495) 789-49-67",
+          "web_site": "intellekt.dop.mskobr.ru",
+          "e_mail": "<Null>",
+          "X": "37,735877",
+          "Y": "55,730709",
+          "global_id": "86930420"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.605087, 55.718824], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "6b34451a-d87a-403a-ab17-b932cf4f5701",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,605087",
+          "Y": "55,718824",
+          "global_id": "87028882"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.557489, 55.702846], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c0fffb1a-858c-448f-9e94-abc9d02930ba",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,557489",
+          "Y": "55,702846",
+          "global_id": "87028893"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.527095, 55.6533], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "185ea21b-9595-4599-9ac2-4c2118b86a83",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр дополнительного образования детей \"Эврика\"",
+          "adress": "117485, г.Москва, ул. Бутлерова,  д. 5Б, строение 1",
+          "okrug": "Юго-Западный",
+          "rayon": "Коньково",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр дополнительного образование детей",
+          "telephone": "334-98-70",
+          "web_site": "http://evrika.dop.mskobr.ru",
+          "e_mail": "cdo-evrika@bk.ru",
+          "X": "37,527095",
+          "Y": "55,6533",
+          "global_id": "86930628"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.348479, 55.855003], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "8ea4f120-17f1-43e0-9e56-b75fdb185e13",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи",
+          "adress": "125310, г. Москва, Ангелов переулок, д. 2, корп. 2",
+          "okrug": "Северо-Западный",
+          "rayon": "Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(495) 497-20-00",
+          "web_site": "dtdim.dop.mskobr.ru/",
+          "e_mail": "info@dt-ostrova.ru",
+          "X": "37,348479",
+          "Y": "55,855003",
+          "global_id": "87013767"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.534049, 55.643653], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1bcb4a2b-d125-432b-9cf1-24357cde8239",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр дополнительного образования детей \"Эврика\"",
+          "adress": "117485, г.Москва, ул. Бутлерова,  д. 5Б, строение 1",
+          "okrug": "Юго-Западный",
+          "rayon": "Коньково",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр дополнительного образование детей",
+          "telephone": "334-98-70",
+          "web_site": "http://evrika.dop.mskobr.ru",
+          "e_mail": "cdo-evrika@bk.ru",
+          "X": "37,534049",
+          "Y": "55,643653",
+          "global_id": "87028627"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.713485, 55.651984], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c4357d2b-2eb9-4f7b-b2d5-343aa02151cf",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской дворец творчества детей и молодежи \"Марьино\"",
+          "adress": "109651, г. Москва, ул. Подольская, дом 5",
+          "okrug": "Юго-Восточный",
+          "rayon": "Марьино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 356-37-01",
+          "web_site": "marino.dop.mskobr.ru",
+          "e_mail": "public@mgdmar.ru",
+          "X": "37,713485",
+          "Y": "55,651984",
+          "global_id": "87029439"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.353995, 55.640431], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2a88272c-5bb9-4bb3-ad99-cc2aef1d3219",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр детского творчества \"Солнцево\"",
+          "adress": "119619, г. Москва, ул. Богданова, д. 56",
+          "okrug": "Западный",
+          "rayon": "Солнцево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "433-33-69",
+          "web_site": "cdt-solncevo.mskzapad.ru",
+          "e_mail": "cdt-solncevo@yandex.ru",
+          "X": "37,353995",
+          "Y": "55,640431",
+          "global_id": "86887453"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.590393, 55.657694], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "df1b6b2c-5b0d-47d5-92ff-604af887d815",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский детский эколого-биологический центр",
+          "adress": "117303, город Москва, ул. Одесская, д. 12А",
+          "okrug": "Юго-Западный",
+          "rayon": "Зюзино",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "(495) 318-01-05; (495) 316-76-39; (495) 318-00-03",
+          "web_site": "mgsun.dop.mskobr.ru",
+          "e_mail": "mgsun.edu@mail.ru",
+          "X": "37,590393",
+          "Y": "55,657694",
+          "global_id": "86930417"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.624609, 55.878212], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b701b72f-d99c-412c-aaca-2ce7778f502d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр детского творчества \"На Молодцова\"",
+          "adress": "127081 г.Москва, улица Молодцова, дом 29, к.4",
+          "okrug": "Северо-Восточный",
+          "rayon": "Южное Медведково",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "473-52-66",
+          "web_site": "na-molodzova.dop.mskobr.ru",
+          "e_mail": "centrmolodzova@yandex.ru",
+          "X": "37,624609",
+          "Y": "55,878212",
+          "global_id": "86907958"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.702318, 55.653477], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "144b0332-60a2-4a45-96fb-2fbe812562f9",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской дворец творчества детей и молодежи \"Марьино\"",
+          "adress": "109651, г. Москва, ул. Подольская, дом 5",
+          "okrug": "Юго-Восточный",
+          "rayon": "Марьино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 356-37-01",
+          "web_site": "marino.dop.mskobr.ru",
+          "e_mail": "public@mgdmar.ru",
+          "X": "37,702318",
+          "Y": "55,653477",
+          "global_id": "87029438"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.82382, 55.777902], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1184bb32-3405-4a6f-8d1e-d7e6832c8f59",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дом детского и юношеского туризма и экскурсий \"Родина\" имени А.А. Остапца-Свешнико*",
+          "adress": "105568, город Москва, ул. Челябинская, д. 5Б",
+          "okrug": "Восточный",
+          "rayon": "Ивановское",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дом",
+          "telephone": "(499) 308-40-03; (499) 308-11-41; (499) 308-19-22",
+          "web_site": "rodina.dop.mskobr.ru",
+          "e_mail": "rodinavao@mail.ru",
+          "X": "37,82382",
+          "Y": "55,777902",
+          "global_id": "86914892"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.393773, 55.648643], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "f83d1535-2bb7-48dc-aa05-381fa8b6403b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр детского творчества \"Солнцево\"",
+          "adress": "119619, г. Москва, ул. Богданова, д. 56",
+          "okrug": "Западный",
+          "rayon": "Солнцево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "433-33-69",
+          "web_site": "cdt-solncevo.mskzapad.ru",
+          "e_mail": "cdt-solncevo@yandex.ru",
+          "X": "37,393773",
+          "Y": "55,648643",
+          "global_id": "87029904"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.555175, 55.702928], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "22e5d135-e7bb-4af3-96b2-aac913d1d9a1",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,555175",
+          "Y": "55,702928",
+          "global_id": "87028888"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.39664, 55.646745], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "7197ed38-25ea-47cf-982c-684db36189bf",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр детского творчества \"Солнцево\"",
+          "adress": "119619, г. Москва, ул. Богданова, д. 56",
+          "okrug": "Западный",
+          "rayon": "Солнцево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "433-33-69",
+          "web_site": "cdt-solncevo.mskzapad.ru",
+          "e_mail": "cdt-solncevo@yandex.ru",
+          "X": "37,39664",
+          "Y": "55,646745",
+          "global_id": "87029903"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.714504, 55.653752], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0684d743-7e48-40ed-9f84-0bb42888feb1",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской дворец творчества детей и молодежи \"Марьино\"",
+          "adress": "109651, г. Москва, ул. Подольская, дом 5",
+          "okrug": "Юго-Восточный",
+          "rayon": "Марьино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 356-37-01",
+          "web_site": "marino.dop.mskobr.ru",
+          "e_mail": "public@mgdmar.ru",
+          "X": "37,714504",
+          "Y": "55,653752",
+          "global_id": "86930413"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.447807, 55.8555], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "351e0f47-2d36-44b9-8063-310022dfc847",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи",
+          "adress": "125310, г. Москва, Ангелов переулок, д. 2, корп. 2",
+          "okrug": "Северо-Западный",
+          "rayon": "Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(495) 497-20-00",
+          "web_site": "dtdim.dop.mskobr.ru/",
+          "e_mail": "info@dt-ostrova.ru",
+          "X": "37,447807",
+          "Y": "55,8555",
+          "global_id": "87013766"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.566244, 55.862236], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c4238549-3441-4747-b3d1-ac48e4359d43",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы  детско-юношеский центр \"Дегунино\"",
+          "adress": "127474, г. Москва, ул. Дубнинская, д. 21",
+          "okrug": "Северный",
+          "rayon": "Восточное Дегунино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "488-32-47",
+          "web_site": "degunino.dop.mskobr.ru",
+          "e_mail": "duzd@bk.ru",
+          "X": "37,566244",
+          "Y": "55,862236",
+          "global_id": "86930570"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.558666, 55.800856], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "18de4552-f98e-4b20-bce2-8eb8f736ad3f",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский детский эколого-биологический центр",
+          "adress": "117303, город Москва, ул. Одесская, д. 12А",
+          "okrug": "Юго-Западный",
+          "rayon": "Зюзино",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "(495) 318-01-05; (495) 316-76-39; (495) 318-00-03",
+          "web_site": "mgsun.dop.mskobr.ru",
+          "e_mail": "mgsun.edu@mail.ru",
+          "X": "37,558666",
+          "Y": "55,800856",
+          "global_id": "87029095"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.596052, 55.899431], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b9217a52-8419-4ff3-acae-e82f72a6b308",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр детского и юношеского творчества \"Бибирево\"",
+          "adress": "127349, г.Москва, улица Лескова, д.7",
+          "okrug": "Северо-Восточный",
+          "rayon": "Бибирево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Детско-юношеский центр",
+          "telephone": "(499) 747-89-27; (499) 747-89-25; (499) 747-89-26",
+          "web_site": "bibirevo.dop.mskobr.ru",
+          "e_mail": "cdtbibirevo@mail.ru",
+          "X": "37,596052",
+          "Y": "55,899431",
+          "global_id": "86907952"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.916262, 55.684433], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "32f3a953-303d-4a2c-a149-97b97405adac",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр развития творчества детей и юношества \"Некрасовка\"",
+          "adress": "111674, г. Москва, ул. 1-я Вольская, д. 1, корп. 3",
+          "okrug": "Юго-Восточный",
+          "rayon": "Поселок Некрасовка",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "706-88-52",
+          "web_site": "nekrasovka.dop.mskobr.ru",
+          "e_mail": "CRTD_Nekrasovka@mail.ru",
+          "X": "37,916262",
+          "Y": "55,684433",
+          "global_id": "86904160"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.55282, 55.702144], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "29567b56-1f1b-4d31-a103-ea9075048158",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,55282",
+          "Y": "55,702144",
+          "global_id": "87028886"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.780348, 55.71464], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "17193e57-8123-4196-b6a9-20442bcc4de5",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Центр развития творчества детей и юношества \"Технорама на Юго-Востоке\"",
+          "adress":
+            "109377, г. Москва, 12-я Новокузьминская улица, дом 6, корпус 2",
+          "okrug": "Юго-Восточный",
+          "rayon": "Рязанский",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "(495) 379-63-47; (495) 379-69-34; (495) 379-92-30",
+          "web_site": "crtdu.dop.mskobr.ru",
+          "e_mail": "mkb10f@gmail.com",
+          "X": "37,780348",
+          "Y": "55,71464",
+          "global_id": "86893825"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.733146, 55.802542], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ae67ff58-169b-4c38-acdb-fcd99a1454b2",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи \"Преображенский\"",
+          "adress": "107553,г.Москва, ул.Большая Черкизовская, дом 15",
+          "okrug": "Восточный",
+          "rayon": "Преображенское",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 161-15-06; (499) 161-14-56",
+          "web_site": "dtdimvouo.dop.mskobr.ru",
+          "e_mail": "dtdimvouo@gmail.com",
+          "X": "37,733146",
+          "Y": "55,802542",
+          "global_id": "86911370"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.555885, 55.699364], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "49bbc45e-aa73-42af-8b81-5a536fa48816",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,555885",
+          "Y": "55,699364",
+          "global_id": "87028892"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.822049, 55.778217], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ee0b285f-687a-4a27-b2de-263240ccce7e",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дом детского и юношеского туризма и экскурсий \"Родина\" имени А.А. Остапца-Свешнико*",
+          "adress": "105568, город Москва, ул. Челябинская, д. 5Б",
+          "okrug": "Восточный",
+          "rayon": "Ивановское",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дом",
+          "telephone": "(499) 308-40-03; (499) 308-11-41; (499) 308-19-22",
+          "web_site": "rodina.dop.mskobr.ru",
+          "e_mail": "rodinavao@mail.ru",
+          "X": "37,822049",
+          "Y": "55,778217",
+          "global_id": "87029382"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.551942, 55.702453], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "e33ea166-b535-4fab-ba29-0e0f0623d1cd",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,551942",
+          "Y": "55,702453",
+          "global_id": "86887586"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.744747, 55.692139], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "cd4e6067-2992-451c-8707-016b1d18a264",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы  дворец пионеров и школьников имени А.П.Гайдара",
+          "adress": "109263, г.Москва, ул. Шкулева, дом 2",
+          "okrug": "Юго-Восточный",
+          "rayon": "Текстильщики",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 179-65-11",
+          "web_site": "dpgaidar.dop.mskobr.ru",
+          "e_mail": "dpgaidar@mail.ru",
+          "X": "37,744747",
+          "Y": "55,692139",
+          "global_id": "86904158"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.654184, 55.677152], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "cebab96a-bc62-4e04-9baa-894c6840642a",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Детско-юношеский центр \"Виктория\"",
+          "adress": "117405, г. Москва, ул. Газопровод, д.4",
+          "okrug": "Южный",
+          "rayon": "Чертаново Южное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "(499) 616-00-00; (499) 616-02-88",
+          "web_site": "viktoria.dop.mskobr.ru",
+          "e_mail": "vikt@sinergi.ru",
+          "X": "37,654184",
+          "Y": "55,677152",
+          "global_id": "86890341"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.599115, 55.580341], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "dfa9416c-66a0-4f01-a9ff-ead36b4a848c",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Детско-юношеский центр \"Виктория\"",
+          "adress": "117405, г. Москва, ул. Газопровод, д.4",
+          "okrug": "Южный",
+          "rayon": "Чертаново Южное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "(499) 616-00-00; (499) 616-02-88",
+          "web_site": "viktoria.dop.mskobr.ru",
+          "e_mail": "vikt@sinergi.ru",
+          "X": "37,599115",
+          "Y": "55,580341",
+          "global_id": "87029821"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.709935, 55.64364], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "19044373-7ebd-408c-b9f9-db381d829239",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской дворец творчества детей и молодежи \"Марьино\"",
+          "adress": "109651, г. Москва, ул. Подольская, дом 5",
+          "okrug": "Юго-Восточный",
+          "rayon": "Марьино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 356-37-01",
+          "web_site": "marino.dop.mskobr.ru",
+          "e_mail": "public@mgdmar.ru",
+          "X": "37,709935",
+          "Y": "55,64364",
+          "global_id": "87029440"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.432617, 55.845096], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "7d2e8379-8a83-491b-b5ab-20cb7eea04a2",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр внешкольной работы \"Синяя птица\"",
+          "adress": "125459, г. Москва, проезд Донелайтиса, д. 20",
+          "okrug": "Северо-Западный",
+          "rayon": "Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр внешкольной работы",
+          "telephone": "(495) 492-01-90",
+          "web_site": "cvrsp.dop.mskobr.ru",
+          "e_mail": "zvr-tushino@mail.ru",
+          "X": "37,432617",
+          "Y": "55,845096",
+          "global_id": "87029884"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.370848, 55.51971], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "39daeb79-ecc4-4746-a904-65f1bff13f79",
+        "Attributes": {
+          "name":
+            "Муниципальное автономное образовательное учреждение дополнительного образования детей \"Центр детского творчества\"",
+          "adress":
+            "142191, Москва Город, Троицк Город, Текстильщиков Улица, 3, 3",
+          "okrug": "Троицкий и новомосковский",
+          "rayon": "-",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Троицкое и новомосковское окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр детского творчества",
+          "telephone": "<Null>",
+          "web_site": "<Null>",
+          "e_mail": "<Null>",
+          "X": "37,370848",
+          "Y": "55,51971",
+          "global_id": "86931158"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.436896, 55.842837], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "4906e87f-cfa2-441c-94bc-c21fdf80920f",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр внешкольной работы \"Синяя птица\"",
+          "adress": "125459, г. Москва, проезд Донелайтиса, д. 20",
+          "okrug": "Северо-Западный",
+          "rayon": "Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр внешкольной работы",
+          "telephone": "(495) 492-01-90",
+          "web_site": "cvrsp.dop.mskobr.ru",
+          "e_mail": "zvr-tushino@mail.ru",
+          "X": "37,436896",
+          "Y": "55,842837",
+          "global_id": "87029883"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.742891, 55.691755], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "97c40187-2c29-49b3-905d-a00076bad5cb",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы  дворец пионеров и школьников имени А.П.Гайдара",
+          "adress": "109263, г.Москва, ул. Шкулева, дом 2",
+          "okrug": "Юго-Восточный",
+          "rayon": "Текстильщики",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 179-65-11",
+          "web_site": "dpgaidar.dop.mskobr.ru",
+          "e_mail": "dpgaidar@mail.ru",
+          "X": "37,742891",
+          "Y": "55,691755",
+          "global_id": "87013775"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.556042, 55.703192], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "f13bba96-70f3-4868-997b-a4aa61ee7d28",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,556042",
+          "Y": "55,703192",
+          "global_id": "87028885"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.587107, 55.816824], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "882dea9a-fa8a-4ff0-b68f-060d2c6150ef",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр дополнительного образования детей",
+          "adress": "127254, г.Москва, Гончарова, дом 15 А",
+          "okrug": "Северо-Восточный",
+          "rayon": "Бутырский",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "618-89-01",
+          "web_site": "<Null>",
+          "e_mail": "center-detey@mail.ru",
+          "X": "37,587107",
+          "Y": "55,816824",
+          "global_id": "86907959"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.775423, 55.754115], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "419156a0-c86b-4815-8185-80869645f682",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи \"Восточный\"",
+          "adress": "111123, г.Москва, Владимирская 1-я улица, дом 20",
+          "okrug": "Восточный",
+          "rayon": "Перово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 721-69-91",
+          "web_site": "dtdumvosto.dop.mskobr.ru",
+          "e_mail": "dtdumvosto4ny@mail.ru",
+          "X": "37,775423",
+          "Y": "55,754115",
+          "global_id": "86914893"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.554346, 55.702554], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "e53a48a3-f291-43f5-9f49-fca3bf2e3afc",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,554346",
+          "Y": "55,702554",
+          "global_id": "87028889"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.432088, 55.854348], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "82ca72a5-8c98-4cac-8096-0af71c9a2208",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи",
+          "adress": "125310, г. Москва, Ангелов переулок, д. 2, корп. 2",
+          "okrug": "Северо-Западный",
+          "rayon": "Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(495) 497-20-00",
+          "web_site": "dtdim.dop.mskobr.ru/",
+          "e_mail": "info@dt-ostrova.ru",
+          "X": "37,432088",
+          "Y": "55,854348",
+          "global_id": "87013768"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.80425, 55.694435], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "5a4c2ba6-d934-4dde-98eb-c60bb00edb94",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы детский оздоровительно-образовательный центр \"Юго-Восточный\"",
+          "adress": "109472, г.Москва, ул. Ташкентская, д. 33, корп. 2",
+          "okrug": "Юго-Восточный",
+          "rayon": "Выхино-Жулебино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "376-56-70",
+          "web_site": "u-vostok.dop.mskobr.ru",
+          "e_mail": "dooz-uvuo@yandex.ru",
+          "X": "37,80425",
+          "Y": "55,694435",
+          "global_id": "86904162"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.580546, 55.678935], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "af9410aa-6f1c-4e37-8872-cd4530617fb6",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дом пионеров и школьников \"Севастополец\"",
+          "adress": "117218, г. Москва, ул. Большая Черемушкинская, д.38",
+          "okrug": "Юго-Западный",
+          "rayon": "Академический",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дом",
+          "telephone": "125-35-17",
+          "web_site": "http://www.dpish.dop.mskobr.ru",
+          "e_mail": "dom-sevastopolec@yandex.ru",
+          "X": "37,580546",
+          "Y": "55,678935",
+          "global_id": "86904155"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.555832, 55.704718], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ce8de8b2-364f-4594-9069-0a8f20e0339e",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,555832",
+          "Y": "55,704718",
+          "global_id": "87028891"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.556534, 55.701246], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1037b3b6-f883-4854-a968-c4f24007a543",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,556534",
+          "Y": "55,701246",
+          "global_id": "87028887"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.440434, 55.846545], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1ffca4b8-9eac-4be7-bb23-e3ce24628f4e",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр внешкольной работы \"Синяя птица\"",
+          "adress": "125459, г. Москва, проезд Донелайтиса, д. 20",
+          "okrug": "Северо-Западный",
+          "rayon": "Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр внешкольной работы",
+          "telephone": "(495) 492-01-90",
+          "web_site": "cvrsp.dop.mskobr.ru",
+          "e_mail": "zvr-tushino@mail.ru",
+          "X": "37,440434",
+          "Y": "55,846545",
+          "global_id": "86904034"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.580996, 55.687383], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "b36457bb-ca6f-41fc-8c10-fe4db6f2add4",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр внешкольной работы \"Патриот\"",
+          "adress": "117447, г. Москва, ул. Большая Черёмушкинская, дом 7А",
+          "okrug": "Юго-Западный",
+          "rayon": "Котловка",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "127-38-94",
+          "web_site": "http://patriot.dop.mskobr.ru",
+          "e_mail": "info@rupatriot.ru",
+          "X": "37,580996",
+          "Y": "55,687383",
+          "global_id": "86904179"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.608728, 55.588733], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "89c2cbc2-cce0-47f2-ac77-b5e017e72f30",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Детско-юношеский центр \"Виктория\"",
+          "adress": "117405, г. Москва, ул. Газопровод, д.4",
+          "okrug": "Южный",
+          "rayon": "Чертаново Южное",
+          "form_of_incorporation": "Государственное",
+          "submission": "Южное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "(499) 616-00-00; (499) 616-02-88",
+          "web_site": "viktoria.dop.mskobr.ru",
+          "e_mail": "vikt@sinergi.ru",
+          "X": "37,608728",
+          "Y": "55,588733",
+          "global_id": "87029822"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.642402, 55.765252], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "9046b4c5-d679-45cd-aef4-97e8c2bb9455",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи",
+          "adress":
+            "101000 город Москва, переулок Огородная слобода, дом 6, стр. 1.",
+          "okrug": "Центральный",
+          "rayon": "Басманный",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone":
+            "(495) 628-08-71; (495) 628-41-51; (495) 621-81-51; (495) 628-11-12; (495) 623-16-86; (495) 624-34-30; (495) 621-60-06; (495) 623-40-96; (495) 623-46-67; (495) 621-33-70",
+          "web_site": "na-stopani.dop.mskobr.ru",
+          "e_mail": "ddstopan@couo.ru",
+          "X": "37,642402",
+          "Y": "55,765252",
+          "global_id": "86887490"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.479862, 55.783894], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "23ea13c8-172a-40f3-90d8-95d1f6783f82",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи \"Хорошево\"",
+          "adress":
+            "123154, г. Москва, улица  Маршала Тухачевского, дом 20, корп. 1",
+          "okrug": "Северо-Западный",
+          "rayon": "Хорошево-Мневники",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 197-51-23",
+          "web_site": "dtim.dop.mskobr.ru",
+          "e_mail": "cdt@mail.ru",
+          "X": "37,479862",
+          "Y": "55,783894",
+          "global_id": "86904033"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.451403, 55.833694], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "7ec9aecc-d127-43ae-b81f-2e24773afb38",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи",
+          "adress": "125310, г. Москва, Ангелов переулок, д. 2, корп. 2",
+          "okrug": "Северо-Западный",
+          "rayon": "Митино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(495) 497-20-00",
+          "web_site": "dtdim.dop.mskobr.ru/",
+          "e_mail": "info@dt-ostrova.ru",
+          "X": "37,451403",
+          "Y": "55,833694",
+          "global_id": "86904032"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.554444, 55.702993], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c29c62ce-5365-40b7-8b28-053eb9ed06e0",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,554444",
+          "Y": "55,702993",
+          "global_id": "87028884"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.559818, 55.703821], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d266c0da-68aa-403b-a12a-8d2161bae738",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,559818",
+          "Y": "55,703821",
+          "global_id": "87028883"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.553572, 55.70229], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "29ccc7db-608a-4e2a-96ae-429d4dc39807",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение Московский городской Дворец детского (юношеского) творчества",
+          "adress": "119334 г. Москва, ул. Косыгина, д. 17",
+          "okrug": "Юго-Западный",
+          "rayon": "Гагаринский",
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Городское подчинение: Управление воспитания и дополнительного образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "137-73-88",
+          "web_site": "mgddut.dop.mskobr.ru",
+          "e_mail": "mgddyt@yandex.ru",
+          "X": "37,553572",
+          "Y": "55,70229",
+          "global_id": "87028890"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.538133, 55.603164], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "d4cc47dc-e399-4fc0-a9c2-16c94559944d",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы детская школа искусств \"Аккорд\"",
+          "adress": "117463, г. Москва, Новоясеневский проспект, д.32, к.2",
+          "okrug": "Юго-Западный",
+          "rayon": "Ясенево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Школа",
+          "telephone": "422-87-83",
+          "web_site": "<Null>",
+          "e_mail": "school-akkord@rambler.ru",
+          "X": "37,538133",
+          "Y": "55,603164",
+          "global_id": "86904186"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.743864, 55.691825], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "936f48de-f8c4-4c0f-91bb-9fa1d4f8e9ec",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы  дворец пионеров и школьников имени А.П.Гайдара",
+          "adress": "109263, г.Москва, ул. Шкулева, дом 2",
+          "okrug": "Юго-Восточный",
+          "rayon": "Текстильщики",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 179-65-11",
+          "web_site": "dpgaidar.dop.mskobr.ru",
+          "e_mail": "dpgaidar@mail.ru",
+          "X": "37,743864",
+          "Y": "55,691825",
+          "global_id": "87013776"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.596921, 55.681649], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "2d9173e4-145c-4bac-9828-25f6922c3f00",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр внешкольной работы \"Патриот\"",
+          "adress": "117447, г. Москва, ул. Большая Черёмушкинская, дом 7А",
+          "okrug": "Юго-Западный",
+          "rayon": "Котловка",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "127-38-94",
+          "web_site": "http://patriot.dop.mskobr.ru",
+          "e_mail": "info@rupatriot.ru",
+          "X": "37,596921",
+          "Y": "55,681649",
+          "global_id": "87029174"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.493013, 55.696578], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0275c0e6-5485-4635-bb27-f07d07e1219a",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр творческого развития и гуманитарного образования \"Дар\"",
+          "adress": "119192, г.Москва, Мичуринский проспект, д. 40",
+          "okrug": "Западный",
+          "rayon": "Раменки",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "(495) 931-42-27; (495) 931-42-22",
+          "web_site": "<Null>",
+          "e_mail": "ctrigo.dar@mail.ru",
+          "X": "37,493013",
+          "Y": "55,696578",
+          "global_id": "86890345"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.351635, 55.786937], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "77053be8-8e43-416e-bd14-e8bcc7e147c3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дом детского творчества «Рублево»",
+          "adress": "121500 Набережная улица, 19",
+          "okrug": "Западный",
+          "rayon": "Кунцево",
+          "form_of_incorporation": "Государственное",
+          "submission": "Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дом детского творчества",
+          "telephone": "(499) 727-10-85",
+          "web_site": "ddt-rublevo.mskzapad.ru",
+          "e_mail": "ddtrublyovo@yandex.ru",
+          "X": "37,351635",
+          "Y": "55,786937",
+          "global_id": "86887444"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.744055, 55.691847], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "cae78bea-2e08-4a8f-b502-27c667f039cf",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы  дворец пионеров и школьников имени А.П.Гайдара",
+          "adress": "109263, г.Москва, ул. Шкулева, дом 2",
+          "okrug": "Юго-Восточный",
+          "rayon": "Текстильщики",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 179-65-11",
+          "web_site": "dpgaidar.dop.mskobr.ru",
+          "e_mail": "dpgaidar@mail.ru",
+          "X": "37,744055",
+          "Y": "55,691847",
+          "global_id": "87013777"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.420394, 55.842071], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "3685beea-9b42-406a-9faf-a65a7ab01f57",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр внешкольной работы \"Синяя птица\"",
+          "adress": "125459, г. Москва, проезд Донелайтиса, д. 20",
+          "okrug": "Северо-Западный",
+          "rayon": "Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр внешкольной работы",
+          "telephone": "(495) 492-01-90",
+          "web_site": "cvrsp.dop.mskobr.ru",
+          "e_mail": "zvr-tushino@mail.ru",
+          "X": "37,420394",
+          "Y": "55,842071",
+          "global_id": "87029886"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.189304, 55.987812], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "77f1bcee-6acb-4552-aa89-5c6093e032d9",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Зеленоградский дворец творчества детей и молодёжи",
+          "adress": "124575, г. Москва, Зеленоград, площадь Колумба, д. 1",
+          "okrug": "Зеленоградский",
+          "rayon": "Старое Крюково",
+          "form_of_incorporation": "Государственное",
+          "submission": "Зеленоградское окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 731-14-61",
+          "web_site": "dvtdim.dop.mskobr.ru",
+          "e_mail": "dvtv@zou.ru",
+          "X": "37,189304",
+          "Y": "55,987812",
+          "global_id": "86914869"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.892977, 55.716764], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "c5c929f2-8b5e-4655-880f-badc3ab6c433",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы дворец творчества детей и молодежи \"Восточный\"",
+          "adress": "111123, г.Москва, Владимирская 1-я улица, дом 20",
+          "okrug": "Восточный",
+          "rayon": "Перово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Дворец",
+          "telephone": "(499) 721-69-91",
+          "web_site": "dtdumvosto.dop.mskobr.ru",
+          "e_mail": "dtdumvosto4ny@mail.ru",
+          "X": "37,892977",
+          "Y": "55,716764",
+          "global_id": "87028964"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.554693, 55.902128], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "22a9c2f7-bdba-49fe-9931-13f638f47bd1",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр детского творчества \"На Псковской\"",
+          "adress": "127253, г. Москва, ул. Псковская, дом 2, корп.3",
+          "okrug": "Северо-Восточный",
+          "rayon": "Лианозово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "(499) 209-21-74",
+          "web_site": "na-pskovckoy.dop.mskobr.ru/",
+          "e_mail": "zdtpskovckay2k3@rambler.ru",
+          "X": "37,554693",
+          "Y": "55,902128",
+          "global_id": "86887741"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.429126, 55.827296], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "032482fa-3780-454c-b5e9-5cfd4beb918b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр внешкольной работы \"Синяя птица\"",
+          "adress": "125459, г. Москва, проезд Донелайтиса, д. 20",
+          "okrug": "Северо-Западный",
+          "rayon": "Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр внешкольной работы",
+          "telephone": "(495) 492-01-90",
+          "web_site": "cvrsp.dop.mskobr.ru",
+          "e_mail": "zvr-tushino@mail.ru",
+          "X": "37,429126",
+          "Y": "55,827296",
+          "global_id": "87029885"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.529005, 55.662467], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "da562efe-6f0f-4a1e-8d0f-1af32eb93237",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Центр дополнительного образования детей \"Дистантное обучение\"",
+          "adress": "117630, г. Москва, ул. Академия Челомея, д. 8б",
+          "okrug": "Юго-Западный",
+          "rayon": "Обручевский",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр дополнительного образование детей",
+          "telephone": "(495) 936-31-04",
+          "web_site": "http://dist-obuch.dop.mskobr.ru",
+          "e_mail": "desc@desc.ru",
+          "X": "37,529005",
+          "Y": "55,662467",
+          "global_id": "86930627"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.420921, 55.842493], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "ad8f55ff-ae94-4119-b2e7-0ba1520eb9e3",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр внешкольной работы \"Синяя птица\"",
+          "adress": "125459, г. Москва, проезд Донелайтиса, д. 20",
+          "okrug": "Северо-Западный",
+          "rayon": "Южное Тушино",
+          "form_of_incorporation": "Государственное",
+          "submission": "Северо-Западное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр внешкольной работы",
+          "telephone": "(495) 492-01-90",
+          "web_site": "cvrsp.dop.mskobr.ru",
+          "e_mail": "zvr-tushino@mail.ru",
+          "X": "37,420921",
+          "Y": "55,842493",
+          "global_id": "87029887"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.789531, 55.806132], "type": "Point" },
+      "properties": {
+        "DatasetId": 543,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0cc7f2ff-4793-4f4c-9c22-bc1cfab4b6c7",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы центр развития творчества детей и юношества имени А.В. Косарева",
+          "adress": "105215, г. Москва, ул. 5-я Парковая, дом 60",
+          "okrug": "Восточный",
+          "rayon": "Северное Измайлово",
+          "form_of_incorporation": "Государственное",
+          "submission": "Восточное окружное управление образования",
+          "tip_uchrezhdeniya":
+            "Образовательное учреждение дополнительного образования детей",
+          "vid_uchrezhdeniya": "Центр",
+          "telephone": "163-91-32",
+          "web_site": "crtd.dop.mskobr.ru",
+          "e_mail": "secrcrtdu@mail.ru",
+          "X": "37,789531",
+          "Y": "55,806132",
+          "global_id": "86930409"
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

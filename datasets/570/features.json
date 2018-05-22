@@ -1,0 +1,168 @@
+{
+  "features": [
+    {
+      "geometry": { "coordinates": [37.63632, 55.780558], "type": "Point" },
+      "properties": {
+        "DatasetId": 570,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "81616508-099a-4919-a8a4-fa551f10482b",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Межшкольный учебный комбинат №15 \"Мещанский\"",
+          "adress": "129010 г. Москва, Протопоповский переулок, дом.5",
+          "okrug": "Центральный административный округ",
+          "rayon": "Мещанский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "vid_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "telephone": "680-39-55",
+          "web_site": null,
+          "e_mail": "polygon-pro@mail.ru",
+          "X": "37,63632",
+          "Y": "55,780558",
+          "global_id": "87029870"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.481259, 55.566072], "type": "Point" },
+      "properties": {
+        "DatasetId": 570,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "0fd0d30b-761d-4219-ac6f-6da4de984a98",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы межшкольный учебный комбинат № 17",
+          "adress": "142770 Москва, поселение Сосенское, п. Коммунарка",
+          "okrug": null,
+          "rayon": null,
+          "form_of_incorporation": "Государственное",
+          "submission":
+            "Троицкое и новомосковское окружное управление образования",
+          "tip_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "vid_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "telephone": "(498)617-88-02",
+          "web_site": "muk17.mskobr.ru",
+          "e_mail": null,
+          "X": "37,481259",
+          "Y": "55,566072",
+          "global_id": "86930997"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.576072, 55.717088], "type": "Point" },
+      "properties": {
+        "DatasetId": 570,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "a3c47c37-ad8c-4c71-8896-e0e55a987a95",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Межшкольный учебный комбинат №15 \"Мещанский\"",
+          "adress": "129010 г. Москва, Протопоповский переулок, дом.5",
+          "okrug": "Центральный административный округ",
+          "rayon": "Мещанский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "vid_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "telephone": "680-39-55",
+          "web_site": null,
+          "e_mail": "polygon-pro@mail.ru",
+          "X": "37,576072",
+          "Y": "55,717088",
+          "global_id": "87029869"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.65231, 55.760806], "type": "Point" },
+      "properties": {
+        "DatasetId": 570,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "aad44b3f-2914-40d7-b27c-66db7f7042a2",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Межшкольный учебный комбинат № 25 \"Центральный\"",
+          "adress": "105062 г. Москва, Лялин пер., д.3а",
+          "okrug": "Центральный административный округ",
+          "rayon": "Басманный район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "vid_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "telephone": "(495) 916-22-42",
+          "web_site": "muk25.mskobr.ru",
+          "e_mail": "Muk-25@yandex.ru",
+          "X": "37,65231",
+          "Y": "55,760806",
+          "global_id": "86930639"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.56386, 55.695431], "type": "Point" },
+      "properties": {
+        "DatasetId": 570,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "61284b50-80b3-449b-b936-ee87414c5783",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы межшкольный учебный комбинат № 19 \"Гагаринский\"",
+          "adress": "119333, г.Москва, ул.Губкина, дом 6",
+          "okrug": "Юго-Западный административный округ",
+          "rayon": "Гагаринский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Юго-Западное окружное управление образования",
+          "tip_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "vid_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "telephone": "(499) 135-54-00",
+          "web_site": "muk19.mskobr.ru",
+          "e_mail": null,
+          "X": "37,56386",
+          "Y": "55,695431",
+          "global_id": "86887588"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.575967, 55.717133], "type": "Point" },
+      "properties": {
+        "DatasetId": 570,
+        "VersionNumber": 1,
+        "ReleaseNumber": 1,
+        "RowId": "1b83c8f2-ba9a-4b54-83ca-12056ee7eba8",
+        "Attributes": {
+          "name":
+            "Государственное бюджетное образовательное учреждение города Москвы Межшкольный учебный комбинат №15 \"Мещанский\"",
+          "adress": "129010 г. Москва, Протопоповский переулок, дом.5",
+          "okrug": "Центральный административный округ",
+          "rayon": "Мещанский район",
+          "form_of_incorporation": "Государственное",
+          "submission": "Центральное окружное управление образования",
+          "tip_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "vid_uchrezhdeniya": "Межшкольный учебный комбинат",
+          "telephone": "680-39-55",
+          "web_site": null,
+          "e_mail": "polygon-pro@mail.ru",
+          "X": "37,575967",
+          "Y": "55,717133",
+          "global_id": "86893815"
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
