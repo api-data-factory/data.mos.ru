@@ -1,1 +1,1517 @@
-{"features":[{"geometry":{"coordinates":[37.174850913799325,55.98012131195869],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":835362117,"AdmArea":"Зеленоградский административный округ","District":"район Старое Крюково","Address":"город Москва, город Зеленоград, Крюковская площадь, дом 1","RegionOfFair":"Липецкая область","PeriodOfPlacement":"11.01.2018-17.01.2018","Goods":"сельскохозяйственная продукция, продовольственная продукция, промышленные товары."}},"type":"Feature"},{"geometry":{"coordinates":[37.510358,55.618278],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":835362175,"AdmArea":"Юго-Западный административный округ","District":"район Ясенево","Address":"город Москва, Новоясеневский проспект, дом 1, строение 4","RegionOfFair":"Калужская область","PeriodOfPlacement":"11.01.2018-17.01.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.510358,55.618278],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":835362272,"AdmArea":"Юго-Западный административный округ","District":"район Ясенево","Address":"город Москва, Новоясеневский проспект, дом 1, строение 4","RegionOfFair":"Рязанская область","PeriodOfPlacement":"21.01.2018-27.01.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766034869286614,55.706169664996054],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494902,"AdmArea":"Юго-Восточный административный округ","District":"район Кузьминки","Address":"город Москва, Волгоградский проспект, дом 119А","RegionOfFair":"Республика Марий Эл","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766034869286614,55.706169664996054],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494903,"AdmArea":"Юго-Восточный административный округ","District":"район Кузьминки","Address":"город Москва, Волгоградский проспект, дом 119А","RegionOfFair":"Пензенская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766034869286614,55.706169664996054],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494904,"AdmArea":"Юго-Восточный административный округ","District":"район Кузьминки","Address":"город Москва, Волгоградский проспект, дом 119А","RegionOfFair":"Липецкая область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766034869286614,55.706169664996054],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494905,"AdmArea":"Юго-Восточный административный округ","District":"район Кузьминки","Address":"город Москва, Волгоградский проспект, дом 119А","RegionOfFair":"Ярославская обл","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766034869286614,55.706169664996054],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494906,"AdmArea":"Юго-Восточный административный округ","District":"район Кузьминки","Address":"город Москва, Волгоградский проспект, дом 119А","RegionOfFair":"Република Дагестан","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766034869286614,55.706169664996054],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494907,"AdmArea":"Юго-Восточный административный округ","District":"район Кузьминки","Address":"город Москва, Волгоградский проспект, дом 119А","RegionOfFair":"Калужская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766034869286614,55.706169664996054],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494908,"AdmArea":"Юго-Восточный административный округ","District":"район Кузьминки","Address":"город Москва, Волгоградский проспект, дом 119А","RegionOfFair":"Республика Беларусь","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.79885072650054,55.811080990016073],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494909,"AdmArea":"Восточный административный округ","District":"район Гольяново","Address":"город Москва, Уральская улица, дом 4","RegionOfFair":"Республика Марий Эл","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.79885072650054,55.811080990016073],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494910,"AdmArea":"Восточный административный округ","District":"район Гольяново","Address":"город Москва, Уральская улица, дом 4","RegionOfFair":"Чувашская Республика","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.79885072650054,55.811080990016073],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494911,"AdmArea":"Восточный административный округ","District":"район Гольяново","Address":"город Москва, Уральская улица, дом 4","RegionOfFair":"Пензенская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.79885072650054,55.811080990016073],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494912,"AdmArea":"Восточный административный округ","District":"район Гольяново","Address":"город Москва, Уральская улица, дом 4","RegionOfFair":"Удмуртская Республика","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.79885072650054,55.811080990016073],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494913,"AdmArea":"Восточный административный округ","District":"район Гольяново","Address":"город Москва, Уральская улица, дом 4","RegionOfFair":"Московская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.79885072650054,55.811080990016073],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494914,"AdmArea":"Восточный административный округ","District":"район Гольяново","Address":"город Москва, Уральская улица, дом 4","RegionOfFair":"Саратовская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.79885072650054,55.811080990016073],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494915,"AdmArea":"Восточный административный округ","District":"район Гольяново","Address":"город Москва, Уральская улица, дом 4","RegionOfFair":"Московская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.656693306607316,55.634940316808425],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494916,"AdmArea":"Южный административный округ","District":"район Царицыно","Address":"город Москва, Пролетарский проспект, дом 18","RegionOfFair":"Ивановская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.656693306607316,55.634940316808425],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494917,"AdmArea":"Южный административный округ","District":"район Царицыно","Address":"город Москва, Пролетарский проспект, дом 18","RegionOfFair":"Воронежская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.656693306607316,55.634940316808425],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494918,"AdmArea":"Южный административный округ","District":"район Царицыно","Address":"город Москва, Пролетарский проспект, дом 18","RegionOfFair":"Астраханская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.656693306607316,55.634940316808425],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494919,"AdmArea":"Южный административный округ","District":"район Царицыно","Address":"город Москва, Пролетарский проспект, дом 18","RegionOfFair":"Республика Беларусь","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.656693306607316,55.634940316808425],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494920,"AdmArea":"Южный административный округ","District":"район Царицыно","Address":"город Москва, Пролетарский проспект, дом 18","RegionOfFair":"Республика Беларусь","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.656693306607316,55.634940316808425],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494921,"AdmArea":"Южный административный округ","District":"район Царицыно","Address":"город Москва, Пролетарский проспект, дом 18","RegionOfFair":"Рязанская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.656693306607316,55.634940316808425],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494922,"AdmArea":"Южный административный округ","District":"район Царицыно","Address":"город Москва, Пролетарский проспект, дом 18","RegionOfFair":"Липецкая область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.656693306607316,55.634940316808425],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494923,"AdmArea":"Южный административный округ","District":"район Царицыно","Address":"город Москва, Пролетарский проспект, дом 18","RegionOfFair":"Тамбовская обл","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.651509460518682,55.593140807049139],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494925,"AdmArea":"Южный административный округ","District":"район Бирюлёво Западное","Address":"город Москва, Булатниковский проезд, дом 6, корпус 1","RegionOfFair":"Тамбовская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.651509460518682,55.593140807049139],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494926,"AdmArea":"Южный административный округ","District":"район Бирюлёво Западное","Address":"город Москва, Булатниковский проезд, дом 6, корпус 1","RegionOfFair":"Белгородская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.651509460518682,55.593140807049139],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494927,"AdmArea":"Южный административный округ","District":"район Бирюлёво Западное","Address":"город Москва, Булатниковский проезд, дом 6, корпус 1","RegionOfFair":"Тверская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.651509460518682,55.593140807049139],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494928,"AdmArea":"Южный административный округ","District":"район Бирюлёво Западное","Address":"город Москва, Булатниковский проезд, дом 6, корпус 1","RegionOfFair":"Тамбовская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.651509460518682,55.593140807049139],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494930,"AdmArea":"Южный административный округ","District":"район Бирюлёво Западное","Address":"город Москва, Булатниковский проезд, дом 6, корпус 1","RegionOfFair":"Тверская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.651509460518682,55.593140807049139],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494931,"AdmArea":"Южный административный округ","District":"район Бирюлёво Западное","Address":"город Москва, Булатниковский проезд, дом 6, корпус 1","RegionOfFair":"Республика Марий Эл","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766164,55.676494],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494933,"AdmArea":"Юго-Восточный административный округ","District":"район Люблино","Address":"город Москва, Краснодарская улица, дом 57, корпус 1","RegionOfFair":"Калужская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766164,55.676494],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494934,"AdmArea":"Юго-Восточный административный округ","District":"район Люблино","Address":"город Москва, Краснодарская улица, дом 57, корпус 1","RegionOfFair":"Брянская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766164,55.676494],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494935,"AdmArea":"Юго-Восточный административный округ","District":"район Люблино","Address":"город Москва, Краснодарская улица, дом 57, корпус 1","RegionOfFair":"Брянская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.766164,55.676494],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494936,"AdmArea":"Юго-Восточный административный округ","District":"район Люблино","Address":"город Москва, Краснодарская улица, дом 57, корпус 1","RegionOfFair":"Ярославская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.510358,55.618278],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494937,"AdmArea":"Юго-Западный административный округ","District":"район Ясенево","Address":"город Москва, Новоясеневский проспект, дом 1, строение 4","RegionOfFair":"Белгородская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.510358,55.618278],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494938,"AdmArea":"Юго-Западный административный округ","District":"район Ясенево","Address":"город Москва, Новоясеневский проспект, дом 1, строение 4","RegionOfFair":"Белгородская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.510358,55.618278],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494939,"AdmArea":"Юго-Западный административный округ","District":"район Ясенево","Address":"город Москва, Новоясеневский проспект, дом 1, строение 4","RegionOfFair":"Рязанская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.510358,55.618278],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494940,"AdmArea":"Юго-Западный административный округ","District":"район Ясенево","Address":"город Москва, Новоясеневский проспект, дом 1, строение 4","RegionOfFair":"Калужская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.6953621446457,55.611795470570293],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494941,"AdmArea":"Южный административный округ","District":"район Орехово-Борисово Северное","Address":"город Москва, Шипиловский проезд, дом 39, корпус 1","RegionOfFair":"Липецкая область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.6953621446457,55.611795470570293],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494942,"AdmArea":"Южный административный округ","District":"район Орехово-Борисово Северное","Address":"город Москва, Шипиловский проезд, дом 39, корпус 1","RegionOfFair":"Астраханская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.6953621446457,55.611795470570293],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494943,"AdmArea":"Южный административный округ","District":"район Орехово-Борисово Северное","Address":"город Москва, Шипиловский проезд, дом 39, корпус 1","RegionOfFair":"Республика Ингушетия","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.6953621446457,55.611795470570293],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494944,"AdmArea":"Южный административный округ","District":"район Орехово-Борисово Северное","Address":"город Москва, Шипиловский проезд, дом 39, корпус 1","RegionOfFair":"Нижегородская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.6953621446457,55.611795470570293],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494945,"AdmArea":"Южный административный округ","District":"район Орехово-Борисово Северное","Address":"город Москва, Шипиловский проезд, дом 39, корпус 1","RegionOfFair":"Алтайский край","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.6953621446457,55.611795470570293],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494946,"AdmArea":"Южный административный округ","District":"район Орехово-Борисово Северное","Address":"город Москва, Шипиловский проезд, дом 39, корпус 1","RegionOfFair":"Республика Крым","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.6953621446457,55.611795470570293],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494947,"AdmArea":"Южный административный округ","District":"район Орехово-Борисово Северное","Address":"город Москва, Шипиловский проезд, дом 39, корпус 1","RegionOfFair":"Самарская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.6953621446457,55.611795470570293],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494948,"AdmArea":"Южный административный округ","District":"район Орехово-Борисово Северное","Address":"город Москва, Шипиловский проезд, дом 39, корпус 1","RegionOfFair":"Новгородская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.819555420158196,55.751808551299625],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494949,"AdmArea":"Восточный административный округ","District":"район Новогиреево","Address":"город Москва, Зелёный проспект, дом 81","RegionOfFair":"Вологодская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.819555420158196,55.751808551299625],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494950,"AdmArea":"Восточный административный округ","District":"район Новогиреево","Address":"город Москва, Зелёный проспект, дом 81","RegionOfFair":"Ивановская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.819555420158196,55.751808551299625],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494951,"AdmArea":"Восточный административный округ","District":"район Новогиреево","Address":"город Москва, Зелёный проспект, дом 81","RegionOfFair":"Ивановская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.819555420158196,55.751808551299625],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494952,"AdmArea":"Восточный административный округ","District":"район Новогиреево","Address":"город Москва, Зелёный проспект, дом 81","RegionOfFair":"Воронежская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.819555420158196,55.751808551299625],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494953,"AdmArea":"Восточный административный округ","District":"район Новогиреево","Address":"город Москва, Зелёный проспект, дом 81","RegionOfFair":"Ярославская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.819555420158196,55.751808551299625],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494954,"AdmArea":"Восточный административный округ","District":"район Новогиреево","Address":"город Москва, Зелёный проспект, дом 81","RegionOfFair":"Брянская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.563965045981625,55.677189305942854],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494955,"AdmArea":"Юго-Западный административный округ","District":"район Черёмушки","Address":"город Москва, Нахимовский проспект, дом 51/21","RegionOfFair":"Псковская обл","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.563965045981625,55.677189305942854],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494956,"AdmArea":"Юго-Западный административный округ","District":"район Черёмушки","Address":"город Москва, Нахимовский проспект, дом 51/21","RegionOfFair":"Тамбовская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.563965045981625,55.677189305942854],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494957,"AdmArea":"Юго-Западный административный округ","District":"район Черёмушки","Address":"город Москва, Нахимовский проспект, дом 51/21","RegionOfFair":"Владимирская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.563965045981625,55.677189305942854],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494958,"AdmArea":"Юго-Западный административный округ","District":"район Черёмушки","Address":"город Москва, Нахимовский проспект, дом 51/21","RegionOfFair":"Республика Марий Эл","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.563965045981625,55.677189305942854],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494959,"AdmArea":"Юго-Западный административный округ","District":"район Черёмушки","Address":"город Москва, Нахимовский проспект, дом 51/21","RegionOfFair":"Калужская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.563965045981625,55.677189305942854],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494960,"AdmArea":"Юго-Западный административный округ","District":"район Черёмушки","Address":"город Москва, Нахимовский проспект, дом 51/21","RegionOfFair":"Ярославская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.498612182362137,55.7442433414261],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494962,"AdmArea":"Западный административный округ","District":"район Филёвский Парк","Address":"город Москва, Сеславинская улица, дом 12, строение 2","RegionOfFair":"Псковская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.498612182362137,55.7442433414261],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494963,"AdmArea":"Западный административный округ","District":"район Филёвский Парк","Address":"город Москва, Сеславинская улица, дом 12, строение 2","RegionOfFair":"Владимирская область","PeriodOfPlacement":"01.05.2018-07.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.498612182362137,55.7442433414261],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494964,"AdmArea":"Западный административный округ","District":"район Филёвский Парк","Address":"город Москва, Сеславинская улица, дом 12, строение 2","RegionOfFair":"Ивановская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.498612182362137,55.7442433414261],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494965,"AdmArea":"Западный административный округ","District":"район Филёвский Парк","Address":"город Москва, Сеславинская улица, дом 12, строение 2","RegionOfFair":"Белгородская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.498612182362137,55.7442433414261],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494966,"AdmArea":"Западный административный округ","District":"район Филёвский Парк","Address":"город Москва, Сеславинская улица, дом 12, строение 2","RegionOfFair":"Костромская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.498612182362137,55.7442433414261],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494967,"AdmArea":"Западный административный округ","District":"район Филёвский Парк","Address":"город Москва, Сеславинская улица, дом 12, строение 2","RegionOfFair":"Вологодская область","PeriodOfPlacement":"11.05.2018-17.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.498612182362137,55.7442433414261],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494968,"AdmArea":"Западный административный округ","District":"район Филёвский Парк","Address":"город Москва, Сеславинская улица, дом 12, строение 2","RegionOfFair":"Рязанская область","PeriodOfPlacement":"21.05.2018-27.05.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"},{"geometry":{"coordinates":[37.498612182362137,55.7442433414261],"type":"Point"},"properties":{"DatasetId":653,"VersionNumber":6,"ReleaseNumber":7,"RowId":null,"Attributes":{"global_id":862494969,"AdmArea":"Западный административный округ","District":"район Филёвский Парк","Address":"город Москва, Сеславинская улица, дом 12, строение 2","RegionOfFair":"Московская область","PeriodOfPlacement":"21.04.2018-27.04.2018","Goods":"сельскохозяйственные, продовольственные и промышленные товары"}},"type":"Feature"}],"type":"FeatureCollection"}
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [37.174850913799325, 55.98012131195869],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 835362117,
+          "AdmArea": "Зеленоградский административный округ",
+          "District": "район Старое Крюково",
+          "Address":
+            "город Москва, город Зеленоград, Крюковская площадь, дом 1",
+          "RegionOfFair": "Липецкая область",
+          "PeriodOfPlacement": "11.01.2018-17.01.2018",
+          "Goods":
+            "сельскохозяйственная продукция, продовольственная продукция, промышленные товары."
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.510358, 55.618278], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 835362175,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Ясенево",
+          "Address": "город Москва, Новоясеневский проспект, дом 1, строение 4",
+          "RegionOfFair": "Калужская область",
+          "PeriodOfPlacement": "11.01.2018-17.01.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.510358, 55.618278], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 835362272,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Ясенево",
+          "Address": "город Москва, Новоясеневский проспект, дом 1, строение 4",
+          "RegionOfFair": "Рязанская область",
+          "PeriodOfPlacement": "21.01.2018-27.01.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.766034869286614, 55.706169664996054],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494902,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Кузьминки",
+          "Address": "город Москва, Волгоградский проспект, дом 119А",
+          "RegionOfFair": "Республика Марий Эл",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.766034869286614, 55.706169664996054],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494903,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Кузьминки",
+          "Address": "город Москва, Волгоградский проспект, дом 119А",
+          "RegionOfFair": "Пензенская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.766034869286614, 55.706169664996054],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494904,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Кузьминки",
+          "Address": "город Москва, Волгоградский проспект, дом 119А",
+          "RegionOfFair": "Липецкая область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.766034869286614, 55.706169664996054],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494905,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Кузьминки",
+          "Address": "город Москва, Волгоградский проспект, дом 119А",
+          "RegionOfFair": "Ярославская обл",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.766034869286614, 55.706169664996054],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494906,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Кузьминки",
+          "Address": "город Москва, Волгоградский проспект, дом 119А",
+          "RegionOfFair": "Република Дагестан",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.766034869286614, 55.706169664996054],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494907,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Кузьминки",
+          "Address": "город Москва, Волгоградский проспект, дом 119А",
+          "RegionOfFair": "Калужская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.766034869286614, 55.706169664996054],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494908,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Кузьминки",
+          "Address": "город Москва, Волгоградский проспект, дом 119А",
+          "RegionOfFair": "Республика Беларусь",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.79885072650054, 55.811080990016073],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494909,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Гольяново",
+          "Address": "город Москва, Уральская улица, дом 4",
+          "RegionOfFair": "Республика Марий Эл",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.79885072650054, 55.811080990016073],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494910,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Гольяново",
+          "Address": "город Москва, Уральская улица, дом 4",
+          "RegionOfFair": "Чувашская Республика",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.79885072650054, 55.811080990016073],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494911,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Гольяново",
+          "Address": "город Москва, Уральская улица, дом 4",
+          "RegionOfFair": "Пензенская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.79885072650054, 55.811080990016073],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494912,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Гольяново",
+          "Address": "город Москва, Уральская улица, дом 4",
+          "RegionOfFair": "Удмуртская Республика",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.79885072650054, 55.811080990016073],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494913,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Гольяново",
+          "Address": "город Москва, Уральская улица, дом 4",
+          "RegionOfFair": "Московская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.79885072650054, 55.811080990016073],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494914,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Гольяново",
+          "Address": "город Москва, Уральская улица, дом 4",
+          "RegionOfFair": "Саратовская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.79885072650054, 55.811080990016073],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494915,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Гольяново",
+          "Address": "город Москва, Уральская улица, дом 4",
+          "RegionOfFair": "Московская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.656693306607316, 55.634940316808425],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494916,
+          "AdmArea": "Южный административный округ",
+          "District": "район Царицыно",
+          "Address": "город Москва, Пролетарский проспект, дом 18",
+          "RegionOfFair": "Ивановская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.656693306607316, 55.634940316808425],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494917,
+          "AdmArea": "Южный административный округ",
+          "District": "район Царицыно",
+          "Address": "город Москва, Пролетарский проспект, дом 18",
+          "RegionOfFair": "Воронежская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.656693306607316, 55.634940316808425],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494918,
+          "AdmArea": "Южный административный округ",
+          "District": "район Царицыно",
+          "Address": "город Москва, Пролетарский проспект, дом 18",
+          "RegionOfFair": "Астраханская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.656693306607316, 55.634940316808425],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494919,
+          "AdmArea": "Южный административный округ",
+          "District": "район Царицыно",
+          "Address": "город Москва, Пролетарский проспект, дом 18",
+          "RegionOfFair": "Республика Беларусь",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.656693306607316, 55.634940316808425],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494920,
+          "AdmArea": "Южный административный округ",
+          "District": "район Царицыно",
+          "Address": "город Москва, Пролетарский проспект, дом 18",
+          "RegionOfFair": "Республика Беларусь",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.656693306607316, 55.634940316808425],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494921,
+          "AdmArea": "Южный административный округ",
+          "District": "район Царицыно",
+          "Address": "город Москва, Пролетарский проспект, дом 18",
+          "RegionOfFair": "Рязанская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.656693306607316, 55.634940316808425],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494922,
+          "AdmArea": "Южный административный округ",
+          "District": "район Царицыно",
+          "Address": "город Москва, Пролетарский проспект, дом 18",
+          "RegionOfFair": "Липецкая область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.656693306607316, 55.634940316808425],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494923,
+          "AdmArea": "Южный административный округ",
+          "District": "район Царицыно",
+          "Address": "город Москва, Пролетарский проспект, дом 18",
+          "RegionOfFair": "Тамбовская обл",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.651509460518682, 55.593140807049139],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494925,
+          "AdmArea": "Южный административный округ",
+          "District": "район Бирюлёво Западное",
+          "Address": "город Москва, Булатниковский проезд, дом 6, корпус 1",
+          "RegionOfFair": "Тамбовская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.651509460518682, 55.593140807049139],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494926,
+          "AdmArea": "Южный административный округ",
+          "District": "район Бирюлёво Западное",
+          "Address": "город Москва, Булатниковский проезд, дом 6, корпус 1",
+          "RegionOfFair": "Белгородская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.651509460518682, 55.593140807049139],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494927,
+          "AdmArea": "Южный административный округ",
+          "District": "район Бирюлёво Западное",
+          "Address": "город Москва, Булатниковский проезд, дом 6, корпус 1",
+          "RegionOfFair": "Тверская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.651509460518682, 55.593140807049139],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494928,
+          "AdmArea": "Южный административный округ",
+          "District": "район Бирюлёво Западное",
+          "Address": "город Москва, Булатниковский проезд, дом 6, корпус 1",
+          "RegionOfFair": "Тамбовская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.651509460518682, 55.593140807049139],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494930,
+          "AdmArea": "Южный административный округ",
+          "District": "район Бирюлёво Западное",
+          "Address": "город Москва, Булатниковский проезд, дом 6, корпус 1",
+          "RegionOfFair": "Тверская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.651509460518682, 55.593140807049139],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494931,
+          "AdmArea": "Южный административный округ",
+          "District": "район Бирюлёво Западное",
+          "Address": "город Москва, Булатниковский проезд, дом 6, корпус 1",
+          "RegionOfFair": "Республика Марий Эл",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.766164, 55.676494], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494933,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Люблино",
+          "Address": "город Москва, Краснодарская улица, дом 57, корпус 1",
+          "RegionOfFair": "Калужская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.766164, 55.676494], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494934,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Люблино",
+          "Address": "город Москва, Краснодарская улица, дом 57, корпус 1",
+          "RegionOfFair": "Брянская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.766164, 55.676494], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494935,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Люблино",
+          "Address": "город Москва, Краснодарская улица, дом 57, корпус 1",
+          "RegionOfFair": "Брянская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.766164, 55.676494], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494936,
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Люблино",
+          "Address": "город Москва, Краснодарская улица, дом 57, корпус 1",
+          "RegionOfFair": "Ярославская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.510358, 55.618278], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494937,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Ясенево",
+          "Address": "город Москва, Новоясеневский проспект, дом 1, строение 4",
+          "RegionOfFair": "Белгородская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.510358, 55.618278], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494938,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Ясенево",
+          "Address": "город Москва, Новоясеневский проспект, дом 1, строение 4",
+          "RegionOfFair": "Белгородская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.510358, 55.618278], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494939,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Ясенево",
+          "Address": "город Москва, Новоясеневский проспект, дом 1, строение 4",
+          "RegionOfFair": "Рязанская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.510358, 55.618278], "type": "Point" },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494940,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Ясенево",
+          "Address": "город Москва, Новоясеневский проспект, дом 1, строение 4",
+          "RegionOfFair": "Калужская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.6953621446457, 55.611795470570293],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494941,
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Северное",
+          "Address": "город Москва, Шипиловский проезд, дом 39, корпус 1",
+          "RegionOfFair": "Липецкая область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.6953621446457, 55.611795470570293],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494942,
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Северное",
+          "Address": "город Москва, Шипиловский проезд, дом 39, корпус 1",
+          "RegionOfFair": "Астраханская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.6953621446457, 55.611795470570293],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494943,
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Северное",
+          "Address": "город Москва, Шипиловский проезд, дом 39, корпус 1",
+          "RegionOfFair": "Республика Ингушетия",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.6953621446457, 55.611795470570293],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494944,
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Северное",
+          "Address": "город Москва, Шипиловский проезд, дом 39, корпус 1",
+          "RegionOfFair": "Нижегородская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.6953621446457, 55.611795470570293],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494945,
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Северное",
+          "Address": "город Москва, Шипиловский проезд, дом 39, корпус 1",
+          "RegionOfFair": "Алтайский край",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.6953621446457, 55.611795470570293],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494946,
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Северное",
+          "Address": "город Москва, Шипиловский проезд, дом 39, корпус 1",
+          "RegionOfFair": "Республика Крым",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.6953621446457, 55.611795470570293],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494947,
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Северное",
+          "Address": "город Москва, Шипиловский проезд, дом 39, корпус 1",
+          "RegionOfFair": "Самарская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.6953621446457, 55.611795470570293],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494948,
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Северное",
+          "Address": "город Москва, Шипиловский проезд, дом 39, корпус 1",
+          "RegionOfFair": "Новгородская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.819555420158196, 55.751808551299625],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494949,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Новогиреево",
+          "Address": "город Москва, Зелёный проспект, дом 81",
+          "RegionOfFair": "Вологодская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.819555420158196, 55.751808551299625],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494950,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Новогиреево",
+          "Address": "город Москва, Зелёный проспект, дом 81",
+          "RegionOfFair": "Ивановская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.819555420158196, 55.751808551299625],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494951,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Новогиреево",
+          "Address": "город Москва, Зелёный проспект, дом 81",
+          "RegionOfFair": "Ивановская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.819555420158196, 55.751808551299625],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494952,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Новогиреево",
+          "Address": "город Москва, Зелёный проспект, дом 81",
+          "RegionOfFair": "Воронежская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.819555420158196, 55.751808551299625],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494953,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Новогиреево",
+          "Address": "город Москва, Зелёный проспект, дом 81",
+          "RegionOfFair": "Ярославская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.819555420158196, 55.751808551299625],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494954,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Новогиреево",
+          "Address": "город Москва, Зелёный проспект, дом 81",
+          "RegionOfFair": "Брянская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.563965045981625, 55.677189305942854],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494955,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Черёмушки",
+          "Address": "город Москва, Нахимовский проспект, дом 51/21",
+          "RegionOfFair": "Псковская обл",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.563965045981625, 55.677189305942854],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494956,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Черёмушки",
+          "Address": "город Москва, Нахимовский проспект, дом 51/21",
+          "RegionOfFair": "Тамбовская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.563965045981625, 55.677189305942854],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494957,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Черёмушки",
+          "Address": "город Москва, Нахимовский проспект, дом 51/21",
+          "RegionOfFair": "Владимирская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.563965045981625, 55.677189305942854],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494958,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Черёмушки",
+          "Address": "город Москва, Нахимовский проспект, дом 51/21",
+          "RegionOfFair": "Республика Марий Эл",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.563965045981625, 55.677189305942854],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494959,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Черёмушки",
+          "Address": "город Москва, Нахимовский проспект, дом 51/21",
+          "RegionOfFair": "Калужская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.563965045981625, 55.677189305942854],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494960,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Черёмушки",
+          "Address": "город Москва, Нахимовский проспект, дом 51/21",
+          "RegionOfFair": "Ярославская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.498612182362137, 55.7442433414261],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494962,
+          "AdmArea": "Западный административный округ",
+          "District": "район Филёвский Парк",
+          "Address": "город Москва, Сеславинская улица, дом 12, строение 2",
+          "RegionOfFair": "Псковская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.498612182362137, 55.7442433414261],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494963,
+          "AdmArea": "Западный административный округ",
+          "District": "район Филёвский Парк",
+          "Address": "город Москва, Сеславинская улица, дом 12, строение 2",
+          "RegionOfFair": "Владимирская область",
+          "PeriodOfPlacement": "01.05.2018-07.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.498612182362137, 55.7442433414261],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494964,
+          "AdmArea": "Западный административный округ",
+          "District": "район Филёвский Парк",
+          "Address": "город Москва, Сеславинская улица, дом 12, строение 2",
+          "RegionOfFair": "Ивановская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.498612182362137, 55.7442433414261],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494965,
+          "AdmArea": "Западный административный округ",
+          "District": "район Филёвский Парк",
+          "Address": "город Москва, Сеславинская улица, дом 12, строение 2",
+          "RegionOfFair": "Белгородская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.498612182362137, 55.7442433414261],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494966,
+          "AdmArea": "Западный административный округ",
+          "District": "район Филёвский Парк",
+          "Address": "город Москва, Сеславинская улица, дом 12, строение 2",
+          "RegionOfFair": "Костромская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.498612182362137, 55.7442433414261],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494967,
+          "AdmArea": "Западный административный округ",
+          "District": "район Филёвский Парк",
+          "Address": "город Москва, Сеславинская улица, дом 12, строение 2",
+          "RegionOfFair": "Вологодская область",
+          "PeriodOfPlacement": "11.05.2018-17.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.498612182362137, 55.7442433414261],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494968,
+          "AdmArea": "Западный административный округ",
+          "District": "район Филёвский Парк",
+          "Address": "город Москва, Сеславинская улица, дом 12, строение 2",
+          "RegionOfFair": "Рязанская область",
+          "PeriodOfPlacement": "21.05.2018-27.05.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.498612182362137, 55.7442433414261],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 653,
+        "VersionNumber": 6,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "global_id": 862494969,
+          "AdmArea": "Западный административный округ",
+          "District": "район Филёвский Парк",
+          "Address": "город Москва, Сеславинская улица, дом 12, строение 2",
+          "RegionOfFair": "Московская область",
+          "PeriodOfPlacement": "21.04.2018-27.04.2018",
+          "Goods":
+            "сельскохозяйственные, продовольственные и промышленные товары"
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

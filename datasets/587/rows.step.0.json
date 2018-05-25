@@ -1,1 +1,1547 @@
-[{"global_id":14044912,"Number":1,"Cells":{"global_id":14044912,"StationaryObjectName":"Сигма","Owner":"СИГМА","AdmArea":"Западный административный округ","District":"район Кунцево","Address":"Ельнинская улица, дом 23, строение 2","FacilityArea":32,"geoData":{"type":"Point","coordinates":[37.4169849999999,55.740799]}}},{"global_id":14044915,"Number":2,"Cells":{"global_id":14044915,"StationaryObjectName":"WAYNES COFFEE","Owner":"АЙ.БИ.ЭС. ИНВЕСТ","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"улица Арбат, дом 36/2, строение 1","FacilityArea":40,"geoData":{"type":"Point","coordinates":[37.588508,55.7488189999999]}}},{"global_id":14044918,"Number":3,"Cells":{"global_id":14044918,"StationaryObjectName":"Шоколадница","Owner":"Кофе Хаус.Эспрессо и Капучино Бар","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"город Москва, улица Новый Арбат, дом 22","FacilityArea":47.25,"geoData":{"type":"Point","coordinates":[37.588958,55.7529729999999]}}},{"global_id":14044921,"Number":4,"Cells":{"global_id":14044921,"StationaryObjectName":"ЧАЙХАНА «КИШМИШ»","Owner":"ИММОБИЛИАРЕ","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"улица Новый Арбат, дом 28, сооружение 1","FacilityArea":95,"geoData":{"type":"Point","coordinates":[37.584478,55.752739]}}},{"global_id":14044922,"Number":5,"Cells":{"global_id":14044922,"StationaryObjectName":"КУПОЛ Сфера","Owner":"КОМХАС+","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"улица Новый Арбат, дом 36, строение 3","FacilityArea":170.3,"geoData":{"type":"Point","coordinates":[37.575826,55.753178]}}},{"global_id":14044923,"Number":6,"Cells":{"global_id":14044923,"StationaryObjectName":"White Cafe","Owner":"РЭЙ","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"улица Новый Арбат, дом 36","FacilityArea":268,"geoData":{"type":"Point","coordinates":[37.57730099995,55.753266000222]}}},{"global_id":14044924,"Number":7,"Cells":{"global_id":14044924,"StationaryObjectName":"LE PAIN QUOTIDIEN","Owner":"ЛПК","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"Новинский бульвар, дом 7","FacilityArea":75,"geoData":{"type":"Point","coordinates":[37.5826929999999,55.751932]}}},{"global_id":14044926,"Number":8,"Cells":{"global_id":14044926,"StationaryObjectName":"ШОКОЛАДНИЦА","Owner":"Галерея-Алекс","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"город Москва, Новинский бульвар, дом 28/35, строение 1А","FacilityArea":30,"geoData":{"type":"Point","coordinates":[37.58508,55.757333]}}},{"global_id":14044927,"Number":9,"Cells":{"global_id":14044927,"StationaryObjectName":"Luciano","Owner":"Цветик семицветик","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"Смоленская площадь, дом 3","FacilityArea":40,"geoData":{"type":"Point","coordinates":[37.581261808546159,55.747528896039348]}}},{"global_id":14044928,"Number":10,"Cells":{"global_id":14044928,"StationaryObjectName":"ПАНАЕХАЛИ","Owner":"Удача","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"2-й Смоленский переулок, дом 1/4","FacilityArea":114,"geoData":{"type":"Point","coordinates":[37.5818774589987,55.7470703095909]}}},{"global_id":14044929,"Number":11,"Cells":{"global_id":14044929,"StationaryObjectName":"Одуван","Owner":"ООО « Стиль Большого Города»","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"Гоголевский бульвар, дом 31, строение 1","FacilityArea":60,"geoData":{"type":"Point","coordinates":[37.599786,55.750621]}}},{"global_id":14044930,"Number":12,"Cells":{"global_id":14044930,"StationaryObjectName":"Dr.no","Owner":"Трентино","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"Гоголевский бульвар, дом 33/1","FacilityArea":100,"geoData":{"type":"Point","coordinates":[37.599849,55.750758]}}},{"global_id":639267085,"Number":13,"Cells":{"global_id":639267085,"StationaryObjectName":"ФРЕСКО БАР","Owner":"КОФЕЙНАЯ КОМПАНИЯ","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"Большой Кисловский переулок, дом 6","FacilityArea":132,"geoData":{"type":"Point","coordinates":[37.6065591376981,55.7545410485297]}}},{"global_id":14044932,"Number":14,"Cells":{"global_id":14044932,"StationaryObjectName":"Блюм кафе","Owner":"Турист","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"Большой Кисловский переулок, дом 1, строение 2","FacilityArea":60,"geoData":{"type":"Point","coordinates":[37.605684999,55.753784999]}}},{"global_id":19698665,"Number":15,"Cells":{"global_id":19698665,"StationaryObjectName":"Happy bones","Owner":"Стейк Маркет","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"Проточный переулок, дом 11","FacilityArea":32,"geoData":{"type":"Point","coordinates":[37.578262,55.750048]}}},{"global_id":14044938,"Number":16,"Cells":{"global_id":14044938,"StationaryObjectName":"Шоколадница","Owner":"Шоколадница-3","AdmArea":"Центральный административный округ","District":"район Арбат","Address":"улица Воздвиженка, дом 9","FacilityArea":100,"geoData":{"type":"Point","coordinates":[37.6050409999999,55.752608]}}},{"global_id":14044940,"Number":17,"Cells":{"global_id":14044940,"StationaryObjectName":"Туннель","Owner":"Немрут-М","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"Лубянский проезд, дом 7, строение 1","FacilityArea":75,"geoData":{"type":"Point","coordinates":[37.63005,55.7584549999999]}}},{"global_id":14044942,"Number":18,"Cells":{"global_id":14044942,"StationaryObjectName":"Орко Покровка Менеджмент","Owner":"Орко Покровка Менеджмент","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"улица Покровка, дом 40, строение 2","FacilityArea":125,"geoData":{"type":"Point","coordinates":[37.653140036654406,55.761827445810347]}}},{"global_id":14044943,"Number":19,"Cells":{"global_id":14044943,"StationaryObjectName":"Натахтари","Owner":"Венский лес","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"улица Маросейка, дом 6-8, строение 1","FacilityArea":38.9,"geoData":{"type":"Point","coordinates":[37.634984999,55.757356]}}},{"global_id":14044945,"Number":20,"Cells":{"global_id":14044945,"StationaryObjectName":"Академия","Owner":"Трентино","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"Бакунинская улица, дом 43-55","FacilityArea":94,"geoData":{"type":"Point","coordinates":[37.6865689999999,55.776628]}}},{"global_id":14044947,"Number":21,"Cells":{"global_id":14044947,"StationaryObjectName":"Форбес","Owner":"Калипсо","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"Подколокольный переулок, дом 13, строение 1","FacilityArea":154,"geoData":{"type":"Point","coordinates":[37.6452629999999,55.752986]}}},{"global_id":14044949,"Number":22,"Cells":{"global_id":14044949,"StationaryObjectName":"Темпл бар","Owner":"ГРАНИТ","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"Ладожская улица, дом 2/37","FacilityArea":47,"geoData":{"type":"Point","coordinates":[37.680052336494953,55.771124880388683]}}},{"global_id":14044950,"Number":23,"Cells":{"global_id":14044950,"StationaryObjectName":"Павлин Мавлин","Owner":"Чайхана ПМ","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"Бакунинская улица, дом 71","FacilityArea":104,"geoData":{"type":"Point","coordinates":[37.691976999,55.779692999]}}},{"global_id":14044953,"Number":24,"Cells":{"global_id":14044953,"StationaryObjectName":"Доможилов","Owner":"КЛУМБА КЛАБ","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"город Москва, Нижняя Сыромятническая улица, дом 10, строение 10","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.6671929999999,55.7532449999999]}}},{"global_id":14044957,"Number":25,"Cells":{"global_id":14044957,"StationaryObjectName":"Френдис","Owner":"БЕНТЛЕЙ","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"улица Покровка, дом 28, строение 3","FacilityArea":100,"geoData":{"type":"Point","coordinates":[37.649633,55.760099]}}},{"global_id":14044958,"Number":26,"Cells":{"global_id":14044958,"StationaryObjectName":"ДАЧА НА ПОКРОВКЕ","Owner":"ТРАДИЦИЯ","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"Покровский бульвар, дом 16-18, строение 4-4А","FacilityArea":104,"geoData":{"type":"Point","coordinates":[37.6464649999999,55.753323]}}},{"global_id":14044959,"Number":27,"Cells":{"global_id":14044959,"StationaryObjectName":"Смайл","Owner":"Магазин кафе на Покровке","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"улица Покровка, дом 48, строение 1","FacilityArea":72,"geoData":{"type":"Point","coordinates":[37.654817,55.76326]}}},{"global_id":14044962,"Number":28,"Cells":{"global_id":14044962,"StationaryObjectName":"кафе Баловень","Owner":"БАЛОВЕНЬ","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Валовая улица, дом 11/19","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.632292,55.730324]}}},{"global_id":14044964,"Number":29,"Cells":{"global_id":14044964,"StationaryObjectName":"РЕСТОРАН МОМО","Owner":"Успех","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Пятницкая улица, дом 66, строение 2","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.6268789669336,55.732490438279]}}},{"global_id":14044965,"Number":30,"Cells":{"global_id":14044965,"StationaryObjectName":"Грабли","Owner":"Гастрономическая Академия Рожниковского","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Пятницкая улица, дом 27, строение 1","FacilityArea":123,"geoData":{"type":"Point","coordinates":[37.6288748723515,55.7413398304308]}}},{"global_id":14044966,"Number":31,"Cells":{"global_id":14044966,"StationaryObjectName":"Ресторан Луизиана","Owner":"РУС-ОТЕЛЬ","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"город Москва, Пятницкая улица, дом 30, строение 4","FacilityArea":142.91,"geoData":{"type":"Point","coordinates":[37.6281629816511,55.7397265505846]}}},{"global_id":14044967,"Number":32,"Cells":{"global_id":14044967,"StationaryObjectName":"Корчма «Тарас Бульба»","Owner":"Фортуна","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Пятницкая улица, дом 14, строение 2","FacilityArea":90,"geoData":{"type":"Point","coordinates":[37.627984,55.742914]}}},{"global_id":639267086,"Number":33,"Cells":{"global_id":639267086,"StationaryObjectName":"Ресторан Лос Бандитос","Owner":"ФЛАГМАН","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"улица Большая Ордынка, дом 7","FacilityArea":90,"geoData":{"type":"Point","coordinates":[37.62505,55.7448029999999]}}},{"global_id":14044970,"Number":34,"Cells":{"global_id":14044970,"StationaryObjectName":"кафе «Ля Ферм»","Owner":"АПИ ГРУПП","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Новокузнецкая улица, дом 5, строение 1","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.630608,55.7395789999999]}}},{"global_id":14044972,"Number":35,"Cells":{"global_id":14044972,"StationaryObjectName":"Ресторан Обломов","Owner":"ИБГ Компани","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"1-й Монетчиковский переулок, дом 5, строение 1","FacilityArea":285,"geoData":{"type":"Point","coordinates":[37.62832,55.7323129999999]}}},{"global_id":14044973,"Number":36,"Cells":{"global_id":14044973,"StationaryObjectName":"Краб Паб","Owner":"Успех","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Космодамианская набережная, дом 52, строение 5","FacilityArea":6,"geoData":{"type":"Point","coordinates":[37.6435769010766,55.7331090203491]}}},{"global_id":14044974,"Number":37,"Cells":{"global_id":14044974,"StationaryObjectName":"Ресторан Вилла Роза","Owner":"Сухаревка","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Пятницкая улица, дом 52, строение 1","FacilityArea":175,"geoData":{"type":"Point","coordinates":[37.627445,55.734648]}}},{"global_id":14044977,"Number":38,"Cells":{"global_id":14044977,"StationaryObjectName":"ресторан «Асадор»","Owner":"Волга-И","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"улица Большая Ордынка, дом 45, строение 3","FacilityArea":136.6,"geoData":{"type":"Point","coordinates":[37.624624,55.734932]}}},{"global_id":14044978,"Number":39,"Cells":{"global_id":14044978,"StationaryObjectName":"Ресторан Джведи","Owner":"Ривер групп","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Озерковская набережная, дом 26","FacilityArea":188.2,"geoData":{"type":"Point","coordinates":[37.637359154991614,55.7395482484197]}}},{"global_id":14044979,"Number":40,"Cells":{"global_id":14044979,"StationaryObjectName":"Кафе «Кофетун»","Owner":"СИСТЕМА БИТ-2000","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Большой Овчинниковский переулок, дом 16, строение 1","FacilityArea":135,"geoData":{"type":"Point","coordinates":[37.630526,55.744318]}}},{"global_id":14044980,"Number":41,"Cells":{"global_id":14044980,"StationaryObjectName":"Старбакс","Owner":"Кофе Сирена","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Павелецкая площадь, дом 2, строение 2","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.635767823230687,55.730205323530868]}}},{"global_id":14044981,"Number":42,"Cells":{"global_id":14044981,"StationaryObjectName":"кафе «Старбакс»","Owner":"Кофе Сирена","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Стремянный переулок, дом 38","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.626757922789913,55.72723413744275]}}},{"global_id":14044982,"Number":43,"Cells":{"global_id":14044982,"StationaryObjectName":"Кафе Бобры и Утки","Owner":"Альмагер","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Пятницкая улица, дом 56, строение 1","FacilityArea":100,"geoData":{"type":"Point","coordinates":[37.6274749999999,55.733584]}}},{"global_id":14044983,"Number":44,"Cells":{"global_id":14044983,"StationaryObjectName":"МАКДОНАЛДС","Owner":"МОСКВА-МАКДОНАЛДС","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Большая Серпуховская улица, дом 4/3","FacilityArea":80,"geoData":{"type":"Point","coordinates":[37.623783973013431,55.72905717683625]}}},{"global_id":14044984,"Number":45,"Cells":{"global_id":14044984,"StationaryObjectName":"Пицца Pomodoro","Owner":"Помидор","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Садовническая улица, дом 54, строение 2","FacilityArea":44,"geoData":{"type":"Point","coordinates":[37.638359,55.743299]}}},{"global_id":14044985,"Number":46,"Cells":{"global_id":14044985,"StationaryObjectName":"Чешская пивная «Пилзнер»","Owner":"Максима","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Озерковская набережная, дом 56","FacilityArea":65,"geoData":{"type":"Point","coordinates":[37.641081690852,55.733563009455]}}},{"global_id":14044986,"Number":47,"Cells":{"global_id":14044986,"StationaryObjectName":"Кафе Мицва","Owner":"Вкуснятина","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Пятницкая улица, дом 3/4, строение 1","FacilityArea":40.6,"geoData":{"type":"Point","coordinates":[37.627166,55.745427]}}},{"global_id":14044987,"Number":48,"Cells":{"global_id":14044987,"StationaryObjectName":"Кофе Хаус","Owner":"КОФЕ ХАУС. ЭСПРЕССО И КАПУЧИНО БАР","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"город Москва, Большая Татарская улица, дом 5","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.631397,55.742453]}}},{"global_id":14044988,"Number":49,"Cells":{"global_id":14044988,"StationaryObjectName":"Кофейня «Кофе Хауз»","Owner":"Кофе Хаус","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"город Москва, Павелецкая площадь, дом 2, строение 1","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.6345884166408,55.7304211954604]}}},{"global_id":14044989,"Number":50,"Cells":{"global_id":14044989,"StationaryObjectName":"Кафе Песто и Митлес","Owner":"Триумф","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"город Москва, улица Зацепский Вал, дом 2, сооружение 3А","FacilityArea":177.8,"geoData":{"type":"Point","coordinates":[37.640884,55.733219]}}},{"global_id":19698685,"Number":51,"Cells":{"global_id":19698685,"StationaryObjectName":"Кафе «Будвайзер будвар»","Owner":"Элант001","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Люсиновская улица, дом 9","FacilityArea":33.75,"geoData":{"type":"Point","coordinates":[37.6234889999999,55.728416]}}},{"global_id":14044992,"Number":52,"Cells":{"global_id":14044992,"StationaryObjectName":"Ресторан Дубинин","Owner":"Солимар","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Кожевническая улица, дом 7, строение 1","FacilityArea":63,"geoData":{"type":"Point","coordinates":[37.6450809999999,55.729838]}}},{"global_id":14044993,"Number":53,"Cells":{"global_id":14044993,"StationaryObjectName":"ВИНО и СЫР кафе-бар","Owner":"САТЬЯ Сервис","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"город Москва, Кожевническая улица, дом 11/13, строение 1","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.646857,55.729529]}}},{"global_id":14044994,"Number":54,"Cells":{"global_id":14044994,"StationaryObjectName":"БАР «BQ кафе»","Owner":"Потенциал","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Пятницкая улица, дом 25, строение 1","FacilityArea":67.5,"geoData":{"type":"Point","coordinates":[37.628655,55.741503]}}},{"global_id":14044998,"Number":55,"Cells":{"global_id":14044998,"StationaryObjectName":"кафе «Шоколадница»","Owner":"ГАЛЕРЕЯ-АЛЕКС","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Валовая улица, дом 6","FacilityArea":14.8,"geoData":{"type":"Point","coordinates":[37.634267,55.7310069999999]}}},{"global_id":14044999,"Number":56,"Cells":{"global_id":14044999,"StationaryObjectName":"Ресторан Торро Гриль","Owner":"Серый бык","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Летниковская улица, дом 2, строение 1","FacilityArea":92.5,"geoData":{"type":"Point","coordinates":[37.644870915243153,55.728719509391738]}}},{"global_id":14045001,"Number":57,"Cells":{"global_id":14045001,"StationaryObjectName":"Мечта кафе","Owner":"Аврора","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Садовническая улица, дом 84, строение 3","FacilityArea":280,"geoData":{"type":"Point","coordinates":[37.636796,55.745032]}}},{"global_id":14045002,"Number":58,"Cells":{"global_id":14045002,"StationaryObjectName":"Кафе Старбакс","Owner":"Кофе Сирена","AdmArea":"Центральный административный округ","District":"район Замоскворечье","Address":"Павелецкая площадь, дом 1","FacilityArea":23,"geoData":{"type":"Point","coordinates":[37.640970134936374,55.731561244316808]}}},{"global_id":14045003,"Number":59,"Cells":{"global_id":14045003,"StationaryObjectName":"ИЛЬ ПАТИО","Owner":"ДАНБОРГ","AdmArea":"Центральный административный округ","District":"Тверской район","Address":"Манежная площадь, дом 1, строение 2","FacilityArea":150,"geoData":{"type":"Point","coordinates":[37.615072,55.7554549999999]}}},{"global_id":14045004,"Number":60,"Cells":{"global_id":14045004,"StationaryObjectName":"МАКДОНАЛДС","Owner":"Макдоналдс","AdmArea":"Центральный административный округ","District":"Тверской район","Address":"Манежная площадь, дом 1, строение 2","FacilityArea":150,"geoData":{"type":"Point","coordinates":[37.6145569999999,55.7552129999999]}}},{"global_id":14045005,"Number":61,"Cells":{"global_id":14045005,"StationaryObjectName":"Сбарро","Owner":"КЛАРМО","AdmArea":"Центральный административный округ","District":"Тверской район","Address":"Манежная площадь, дом 1, строение 2","FacilityArea":160,"geoData":{"type":"Point","coordinates":[37.614236,55.755092]}}},{"global_id":14045007,"Number":62,"Cells":{"global_id":14045007,"StationaryObjectName":"БОСКО КАФЕ","Owner":"РЕСТОРАЦИЯ БОСКО","AdmArea":"Центральный административный округ","District":"Тверской район","Address":"Красная площадь, дом 3","FacilityArea":271,"geoData":{"type":"Point","coordinates":[37.620544,55.754620999]}}},{"global_id":14045008,"Number":63,"Cells":{"global_id":14045008,"StationaryObjectName":"БОСКО КАФЕ","Owner":"РЕСТОРАЦИЯ БОСКО","AdmArea":"Центральный административный округ","District":"Тверской район","Address":"Красная площадь, дом 3","FacilityArea":255.5,"geoData":{"type":"Point","coordinates":[37.621402,55.754186]}}},{"global_id":14045010,"Number":64,"Cells":{"global_id":14045010,"StationaryObjectName":"15 Сестер","Owner":"Мидея","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"проспект Академика Сахарова, дом 10","FacilityArea":170,"geoData":{"type":"Point","coordinates":[37.641626,55.768716]}}},{"global_id":14045011,"Number":65,"Cells":{"global_id":14045011,"StationaryObjectName":"Лунный дворик","Owner":"ФОРТУНА-М","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Новая Басманная улица, дом 23А, строение 4","FacilityArea":142,"geoData":{"type":"Point","coordinates":[37.661752,55.769995]}}},{"global_id":14045014,"Number":66,"Cells":{"global_id":14045014,"StationaryObjectName":"Апрель","Owner":"ФИРМА ПОЛЯРНАЯ ЗВЕЗДА","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Живарев переулок, дом 8, строение 3","FacilityArea":55,"geoData":{"type":"Point","coordinates":[37.6434289999999,55.7764409999999]}}},{"global_id":14045016,"Number":67,"Cells":{"global_id":14045016,"StationaryObjectName":"Интернет-кофейня","Owner":"Веб Стейшн","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Комсомольская площадь, дом 6","FacilityArea":200,"geoData":{"type":"Point","coordinates":[37.659103,55.775711]}}},{"global_id":14045021,"Number":68,"Cells":{"global_id":14045021,"StationaryObjectName":"Восточкая сказка","Owner":"Велесъ+","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"город Москва, Краснопрудная улица, дом 7-9","FacilityArea":47,"geoData":{"type":"Point","coordinates":[37.66214,55.778076]}}},{"global_id":14045022,"Number":69,"Cells":{"global_id":14045022,"StationaryObjectName":"АндерСон","Owner":"ТИРОЛЕРХОФ","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Верхняя Красносельская улица, дом 7, строение 2","FacilityArea":57.53,"geoData":{"type":"Point","coordinates":[37.661256602467873,55.784955206076781]}}},{"global_id":14045023,"Number":70,"Cells":{"global_id":14045023,"StationaryObjectName":"Страдивари","Owner":"АРТ МАРИНА","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Верхняя Красносельская улица, дом 8, корпус 3","FacilityArea":85.5,"geoData":{"type":"Point","coordinates":[37.660223204114196,55.784646004622431]}}},{"global_id":14045024,"Number":71,"Cells":{"global_id":14045024,"StationaryObjectName":"Лига Пап","Owner":"БОРАТА","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"улица Большая Лубянка, дом 24/15, строение 1","FacilityArea":32,"geoData":{"type":"Point","coordinates":[37.630876,55.765384999]}}},{"global_id":14045025,"Number":72,"Cells":{"global_id":14045025,"StationaryObjectName":"Дефакто","Owner":"Дефакто","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"улица Большая Лубянка, дом 26/17, строение 1","FacilityArea":36,"geoData":{"type":"Point","coordinates":[37.631406,55.765655]}}},{"global_id":14045027,"Number":73,"Cells":{"global_id":14045027,"StationaryObjectName":"Дед Пихто","Owner":"СТ-ТОР","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Мясницкая улица, дом 37, строение 3","FacilityArea":145,"geoData":{"type":"Point","coordinates":[37.640607,55.7667909999999]}}},{"global_id":14045028,"Number":74,"Cells":{"global_id":14045028,"StationaryObjectName":"Корчма Тарас Бульба","Owner":"КЛ-Альянс","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Мясницкая улица, дом 47","FacilityArea":97,"geoData":{"type":"Point","coordinates":[37.644547287335534,55.769014638500224]}}},{"global_id":14045029,"Number":75,"Cells":{"global_id":14045029,"StationaryObjectName":"Меридиан","Owner":"Меридиан","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Новорязанская улица, дом 21, строение 1","FacilityArea":144,"geoData":{"type":"Point","coordinates":[37.661132,55.772705]}}},{"global_id":14045031,"Number":76,"Cells":{"global_id":14045031,"StationaryObjectName":"Киноплов","Owner":"ДОМИНО-ТРАСТ","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Орликов переулок, дом 3, строение 1","FacilityArea":150,"geoData":{"type":"Point","coordinates":[37.64698,55.770678]}}},{"global_id":14045032,"Number":77,"Cells":{"global_id":14045032,"StationaryObjectName":"Колесо времени","Owner":"Колесо времени","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Орликов переулок, дом 5, строение 2","FacilityArea":100,"geoData":{"type":"Point","coordinates":[37.649726,55.772826]}}},{"global_id":14045033,"Number":78,"Cells":{"global_id":14045033,"StationaryObjectName":"На мельнице","Owner":"Ридженси Сервисез","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Садовая-Спасская улица, дом 24","FacilityArea":61.18,"geoData":{"type":"Point","coordinates":[37.646358,55.7692169999999]}}},{"global_id":14045035,"Number":79,"Cells":{"global_id":14045035,"StationaryObjectName":"Сирена","Owner":"СИРЕНА-1","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Большая Спасская улица, дом 15, строение 4","FacilityArea":128,"geoData":{"type":"Point","coordinates":[37.639572,55.774836]}}},{"global_id":14045037,"Number":80,"Cells":{"global_id":14045037,"StationaryObjectName":"Порто Мальтезе","Owner":"Радар Групп","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Большая Спасская улица, дом 8, строение 1А","FacilityArea":66.4,"geoData":{"type":"Point","coordinates":[37.643052999,55.775892]}}},{"global_id":14045039,"Number":81,"Cells":{"global_id":14045039,"StationaryObjectName":"Сандал","Owner":"СТАРТ СК","AdmArea":"Центральный административный округ","District":"Красносельский район","Address":"Сретенский бульвар, дом 3","FacilityArea":34,"geoData":{"type":"Point","coordinates":[37.632764,55.766876]}}},{"global_id":19698689,"Number":82,"Cells":{"global_id":19698689,"StationaryObjectName":"Венское кафе","Owner":"КОММЕРЧЕСКАЯ КОМПАНИЯ «ТОРГОВЫЙ ДОМ»","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 92, строение 1","FacilityArea":56,"geoData":{"type":"Point","coordinates":[37.635661,55.793102]}}},{"global_id":14045041,"Number":83,"Cells":{"global_id":14045041,"StationaryObjectName":"Кавказская пленница","Owner":"МИРУМИР","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 36, строение 1","FacilityArea":200,"geoData":{"type":"Point","coordinates":[37.633169,55.779156]}}},{"global_id":14045042,"Number":84,"Cells":{"global_id":14045042,"StationaryObjectName":"Твинс Групп","Owner":"Твинс Групп","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"Олимпийский проспект, дом 18/1","FacilityArea":196.8,"geoData":{"type":"Point","coordinates":[37.623201,55.784699]}}},{"global_id":19698690,"Number":85,"Cells":{"global_id":19698690,"StationaryObjectName":"ТИ-бон","Owner":"Эй-Би-стар","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 58","FacilityArea":80,"geoData":{"type":"Point","coordinates":[37.635878,55.785316]}}},{"global_id":639267088,"Number":86,"Cells":{"global_id":639267088,"StationaryObjectName":"Шоколадница","Owner":"Антарес","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 29","FacilityArea":33.5,"geoData":{"type":"Point","coordinates":[37.63266,55.779794]}}},{"global_id":14045046,"Number":87,"Cells":{"global_id":14045046,"StationaryObjectName":"Кафе-бар «Джек Роуз»","Owner":"Сириус","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 36, строение 1","FacilityArea":44.1,"geoData":{"type":"Point","coordinates":[37.633202,55.77923]}}},{"global_id":639267090,"Number":88,"Cells":{"global_id":639267090,"StationaryObjectName":"Огни","Owner":"Огниво","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"Малая Сухаревская площадь, дом 8","FacilityArea":84,"geoData":{"type":"Point","coordinates":[37.630198,55.772805]}}},{"global_id":639267117,"Number":89,"Cells":{"global_id":639267117,"StationaryObjectName":"Иль Патио","Owner":"РОСИНТЕР РЕСТОРАНТС","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 33, корпус 1","FacilityArea":36,"geoData":{"type":"Point","coordinates":[37.632221,55.780442]}}},{"global_id":14045051,"Number":90,"Cells":{"global_id":14045051,"StationaryObjectName":"ОСТЕРИЯ ДА ЧИККО","Owner":"ОСТЕРИЯ ДА ЧИККО","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"Банный переулок, дом 3","FacilityArea":26,"geoData":{"type":"Point","coordinates":[37.636724,55.786298]}}},{"global_id":14045052,"Number":91,"Cells":{"global_id":14045052,"StationaryObjectName":"Де Марко","Owner":"РЕСТТОРГ","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 46","FacilityArea":57,"geoData":{"type":"Point","coordinates":[37.634096,55.781263]}}},{"global_id":639267119,"Number":92,"Cells":{"global_id":639267119,"StationaryObjectName":"Шоколадница","Owner":"ГАЛЕРЕЯ-АЛЕКС","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 79","FacilityArea":43,"geoData":{"type":"Point","coordinates":[37.634331,55.790727]}}},{"global_id":656544003,"Number":93,"Cells":{"global_id":656544003,"StationaryObjectName":"Клуб кино","Owner":"ЛЮМЬЕР БРАЗЕРС","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"Олимпийский проспект, дом 16, строение 1","FacilityArea":100,"geoData":{"type":"Point","coordinates":[37.626266538998507,55.781070012972386]}}},{"global_id":639267151,"Number":94,"Cells":{"global_id":639267151,"StationaryObjectName":"ТРИ ЭМ","Owner":"ТРИ ЭМ","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 51, строение 1","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.634411,55.783991]}}},{"global_id":14045061,"Number":95,"Cells":{"global_id":14045061,"StationaryObjectName":"IL Forno","Owner":"Черемушки","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"город Москва, Неглинная улица, дом 8/10","FacilityArea":18.9,"geoData":{"type":"Point","coordinates":[37.620657593917,55.761334450132]}}},{"global_id":14045063,"Number":96,"Cells":{"global_id":14045063,"StationaryObjectName":"Песто","Owner":"КОРСТАР","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"проспект Мира, дом 74, строение 1","FacilityArea":73,"geoData":{"type":"Point","coordinates":[37.635171,55.789399]}}},{"global_id":14045067,"Number":97,"Cells":{"global_id":14045067,"StationaryObjectName":"Шотландская клетка","Owner":"РБ-Вереск","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"улица Сретенка, дом 27, строение 1","FacilityArea":20,"geoData":{"type":"Point","coordinates":[37.632231,55.771551]}}},{"global_id":14045068,"Number":98,"Cells":{"global_id":14045068,"StationaryObjectName":"My Place","Owner":"Ресторанный Холдинг","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"город Москва, улица Щепкина, дом 42, строение 1","FacilityArea":240,"geoData":{"type":"Point","coordinates":[37.63045413488387,55.783236026092062]}}},{"global_id":639267179,"Number":99,"Cells":{"global_id":639267179,"StationaryObjectName":"Аэлита","Owner":"АЭЛИТА","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"Олимпийский проспект, дом 16, строение 1","FacilityArea":50,"geoData":{"type":"Point","coordinates":[37.626484,55.781079]}}},{"global_id":14045071,"Number":100,"Cells":{"global_id":14045071,"StationaryObjectName":"Русская трапеза","Owner":"Русская трапеза","AdmArea":"Центральный административный округ","District":"Мещанский район","Address":"улица Сретенка, дом 15","FacilityArea":20,"geoData":{"type":"Point","coordinates":[37.631937,55.769041]}}}]
+[
+  {
+    "global_id": 14044912,
+    "Number": 1,
+    "Cells": {
+      "global_id": 14044912,
+      "StationaryObjectName": "Сигма",
+      "Owner": "СИГМА",
+      "AdmArea": "Западный административный округ",
+      "District": "район Кунцево",
+      "Address": "Ельнинская улица, дом 23, строение 2",
+      "FacilityArea": 32,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.4169849999999, 55.740799]
+      }
+    }
+  },
+  {
+    "global_id": 14044915,
+    "Number": 2,
+    "Cells": {
+      "global_id": 14044915,
+      "StationaryObjectName": "WAYNES COFFEE",
+      "Owner": "АЙ.БИ.ЭС. ИНВЕСТ",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "улица Арбат, дом 36/2, строение 1",
+      "FacilityArea": 40,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.588508, 55.7488189999999]
+      }
+    }
+  },
+  {
+    "global_id": 14044918,
+    "Number": 3,
+    "Cells": {
+      "global_id": 14044918,
+      "StationaryObjectName": "Шоколадница",
+      "Owner": "Кофе Хаус.Эспрессо и Капучино Бар",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "город Москва, улица Новый Арбат, дом 22",
+      "FacilityArea": 47.25,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.588958, 55.7529729999999]
+      }
+    }
+  },
+  {
+    "global_id": 14044921,
+    "Number": 4,
+    "Cells": {
+      "global_id": 14044921,
+      "StationaryObjectName": "ЧАЙХАНА «КИШМИШ»",
+      "Owner": "ИММОБИЛИАРЕ",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "улица Новый Арбат, дом 28, сооружение 1",
+      "FacilityArea": 95,
+      "geoData": { "type": "Point", "coordinates": [37.584478, 55.752739] }
+    }
+  },
+  {
+    "global_id": 14044922,
+    "Number": 5,
+    "Cells": {
+      "global_id": 14044922,
+      "StationaryObjectName": "КУПОЛ Сфера",
+      "Owner": "КОМХАС+",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "улица Новый Арбат, дом 36, строение 3",
+      "FacilityArea": 170.3,
+      "geoData": { "type": "Point", "coordinates": [37.575826, 55.753178] }
+    }
+  },
+  {
+    "global_id": 14044923,
+    "Number": 6,
+    "Cells": {
+      "global_id": 14044923,
+      "StationaryObjectName": "White Cafe",
+      "Owner": "РЭЙ",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "улица Новый Арбат, дом 36",
+      "FacilityArea": 268,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.57730099995, 55.753266000222]
+      }
+    }
+  },
+  {
+    "global_id": 14044924,
+    "Number": 7,
+    "Cells": {
+      "global_id": 14044924,
+      "StationaryObjectName": "LE PAIN QUOTIDIEN",
+      "Owner": "ЛПК",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "Новинский бульвар, дом 7",
+      "FacilityArea": 75,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.5826929999999, 55.751932]
+      }
+    }
+  },
+  {
+    "global_id": 14044926,
+    "Number": 8,
+    "Cells": {
+      "global_id": 14044926,
+      "StationaryObjectName": "ШОКОЛАДНИЦА",
+      "Owner": "Галерея-Алекс",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "город Москва, Новинский бульвар, дом 28/35, строение 1А",
+      "FacilityArea": 30,
+      "geoData": { "type": "Point", "coordinates": [37.58508, 55.757333] }
+    }
+  },
+  {
+    "global_id": 14044927,
+    "Number": 9,
+    "Cells": {
+      "global_id": 14044927,
+      "StationaryObjectName": "Luciano",
+      "Owner": "Цветик семицветик",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "Смоленская площадь, дом 3",
+      "FacilityArea": 40,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.581261808546159, 55.747528896039348]
+      }
+    }
+  },
+  {
+    "global_id": 14044928,
+    "Number": 10,
+    "Cells": {
+      "global_id": 14044928,
+      "StationaryObjectName": "ПАНАЕХАЛИ",
+      "Owner": "Удача",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "2-й Смоленский переулок, дом 1/4",
+      "FacilityArea": 114,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.5818774589987, 55.7470703095909]
+      }
+    }
+  },
+  {
+    "global_id": 14044929,
+    "Number": 11,
+    "Cells": {
+      "global_id": 14044929,
+      "StationaryObjectName": "Одуван",
+      "Owner": "ООО « Стиль Большого Города»",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "Гоголевский бульвар, дом 31, строение 1",
+      "FacilityArea": 60,
+      "geoData": { "type": "Point", "coordinates": [37.599786, 55.750621] }
+    }
+  },
+  {
+    "global_id": 14044930,
+    "Number": 12,
+    "Cells": {
+      "global_id": 14044930,
+      "StationaryObjectName": "Dr.no",
+      "Owner": "Трентино",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "Гоголевский бульвар, дом 33/1",
+      "FacilityArea": 100,
+      "geoData": { "type": "Point", "coordinates": [37.599849, 55.750758] }
+    }
+  },
+  {
+    "global_id": 639267085,
+    "Number": 13,
+    "Cells": {
+      "global_id": 639267085,
+      "StationaryObjectName": "ФРЕСКО БАР",
+      "Owner": "КОФЕЙНАЯ КОМПАНИЯ",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "Большой Кисловский переулок, дом 6",
+      "FacilityArea": 132,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6065591376981, 55.7545410485297]
+      }
+    }
+  },
+  {
+    "global_id": 14044932,
+    "Number": 14,
+    "Cells": {
+      "global_id": 14044932,
+      "StationaryObjectName": "Блюм кафе",
+      "Owner": "Турист",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "Большой Кисловский переулок, дом 1, строение 2",
+      "FacilityArea": 60,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.605684999, 55.753784999]
+      }
+    }
+  },
+  {
+    "global_id": 19698665,
+    "Number": 15,
+    "Cells": {
+      "global_id": 19698665,
+      "StationaryObjectName": "Happy bones",
+      "Owner": "Стейк Маркет",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "Проточный переулок, дом 11",
+      "FacilityArea": 32,
+      "geoData": { "type": "Point", "coordinates": [37.578262, 55.750048] }
+    }
+  },
+  {
+    "global_id": 14044938,
+    "Number": 16,
+    "Cells": {
+      "global_id": 14044938,
+      "StationaryObjectName": "Шоколадница",
+      "Owner": "Шоколадница-3",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Арбат",
+      "Address": "улица Воздвиженка, дом 9",
+      "FacilityArea": 100,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6050409999999, 55.752608]
+      }
+    }
+  },
+  {
+    "global_id": 14044940,
+    "Number": 17,
+    "Cells": {
+      "global_id": 14044940,
+      "StationaryObjectName": "Туннель",
+      "Owner": "Немрут-М",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "Лубянский проезд, дом 7, строение 1",
+      "FacilityArea": 75,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.63005, 55.7584549999999]
+      }
+    }
+  },
+  {
+    "global_id": 14044942,
+    "Number": 18,
+    "Cells": {
+      "global_id": 14044942,
+      "StationaryObjectName": "Орко Покровка Менеджмент",
+      "Owner": "Орко Покровка Менеджмент",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "улица Покровка, дом 40, строение 2",
+      "FacilityArea": 125,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.653140036654406, 55.761827445810347]
+      }
+    }
+  },
+  {
+    "global_id": 14044943,
+    "Number": 19,
+    "Cells": {
+      "global_id": 14044943,
+      "StationaryObjectName": "Натахтари",
+      "Owner": "Венский лес",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "улица Маросейка, дом 6-8, строение 1",
+      "FacilityArea": 38.9,
+      "geoData": { "type": "Point", "coordinates": [37.634984999, 55.757356] }
+    }
+  },
+  {
+    "global_id": 14044945,
+    "Number": 20,
+    "Cells": {
+      "global_id": 14044945,
+      "StationaryObjectName": "Академия",
+      "Owner": "Трентино",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "Бакунинская улица, дом 43-55",
+      "FacilityArea": 94,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6865689999999, 55.776628]
+      }
+    }
+  },
+  {
+    "global_id": 14044947,
+    "Number": 21,
+    "Cells": {
+      "global_id": 14044947,
+      "StationaryObjectName": "Форбес",
+      "Owner": "Калипсо",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "Подколокольный переулок, дом 13, строение 1",
+      "FacilityArea": 154,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6452629999999, 55.752986]
+      }
+    }
+  },
+  {
+    "global_id": 14044949,
+    "Number": 22,
+    "Cells": {
+      "global_id": 14044949,
+      "StationaryObjectName": "Темпл бар",
+      "Owner": "ГРАНИТ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "Ладожская улица, дом 2/37",
+      "FacilityArea": 47,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.680052336494953, 55.771124880388683]
+      }
+    }
+  },
+  {
+    "global_id": 14044950,
+    "Number": 23,
+    "Cells": {
+      "global_id": 14044950,
+      "StationaryObjectName": "Павлин Мавлин",
+      "Owner": "Чайхана ПМ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "Бакунинская улица, дом 71",
+      "FacilityArea": 104,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.691976999, 55.779692999]
+      }
+    }
+  },
+  {
+    "global_id": 14044953,
+    "Number": 24,
+    "Cells": {
+      "global_id": 14044953,
+      "StationaryObjectName": "Доможилов",
+      "Owner": "КЛУМБА КЛАБ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address":
+        "город Москва, Нижняя Сыромятническая улица, дом 10, строение 10",
+      "FacilityArea": 50,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6671929999999, 55.7532449999999]
+      }
+    }
+  },
+  {
+    "global_id": 14044957,
+    "Number": 25,
+    "Cells": {
+      "global_id": 14044957,
+      "StationaryObjectName": "Френдис",
+      "Owner": "БЕНТЛЕЙ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "улица Покровка, дом 28, строение 3",
+      "FacilityArea": 100,
+      "geoData": { "type": "Point", "coordinates": [37.649633, 55.760099] }
+    }
+  },
+  {
+    "global_id": 14044958,
+    "Number": 26,
+    "Cells": {
+      "global_id": 14044958,
+      "StationaryObjectName": "ДАЧА НА ПОКРОВКЕ",
+      "Owner": "ТРАДИЦИЯ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "Покровский бульвар, дом 16-18, строение 4-4А",
+      "FacilityArea": 104,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6464649999999, 55.753323]
+      }
+    }
+  },
+  {
+    "global_id": 14044959,
+    "Number": 27,
+    "Cells": {
+      "global_id": 14044959,
+      "StationaryObjectName": "Смайл",
+      "Owner": "Магазин кафе на Покровке",
+      "AdmArea": "Центральный административный округ",
+      "District": "Басманный район",
+      "Address": "улица Покровка, дом 48, строение 1",
+      "FacilityArea": 72,
+      "geoData": { "type": "Point", "coordinates": [37.654817, 55.76326] }
+    }
+  },
+  {
+    "global_id": 14044962,
+    "Number": 28,
+    "Cells": {
+      "global_id": 14044962,
+      "StationaryObjectName": "кафе Баловень",
+      "Owner": "БАЛОВЕНЬ",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Валовая улица, дом 11/19",
+      "FacilityArea": 50,
+      "geoData": { "type": "Point", "coordinates": [37.632292, 55.730324] }
+    }
+  },
+  {
+    "global_id": 14044964,
+    "Number": 29,
+    "Cells": {
+      "global_id": 14044964,
+      "StationaryObjectName": "РЕСТОРАН МОМО",
+      "Owner": "Успех",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Пятницкая улица, дом 66, строение 2",
+      "FacilityArea": 50,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6268789669336, 55.732490438279]
+      }
+    }
+  },
+  {
+    "global_id": 14044965,
+    "Number": 30,
+    "Cells": {
+      "global_id": 14044965,
+      "StationaryObjectName": "Грабли",
+      "Owner": "Гастрономическая Академия Рожниковского",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Пятницкая улица, дом 27, строение 1",
+      "FacilityArea": 123,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6288748723515, 55.7413398304308]
+      }
+    }
+  },
+  {
+    "global_id": 14044966,
+    "Number": 31,
+    "Cells": {
+      "global_id": 14044966,
+      "StationaryObjectName": "Ресторан Луизиана",
+      "Owner": "РУС-ОТЕЛЬ",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "город Москва, Пятницкая улица, дом 30, строение 4",
+      "FacilityArea": 142.91,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6281629816511, 55.7397265505846]
+      }
+    }
+  },
+  {
+    "global_id": 14044967,
+    "Number": 32,
+    "Cells": {
+      "global_id": 14044967,
+      "StationaryObjectName": "Корчма «Тарас Бульба»",
+      "Owner": "Фортуна",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Пятницкая улица, дом 14, строение 2",
+      "FacilityArea": 90,
+      "geoData": { "type": "Point", "coordinates": [37.627984, 55.742914] }
+    }
+  },
+  {
+    "global_id": 639267086,
+    "Number": 33,
+    "Cells": {
+      "global_id": 639267086,
+      "StationaryObjectName": "Ресторан Лос Бандитос",
+      "Owner": "ФЛАГМАН",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "улица Большая Ордынка, дом 7",
+      "FacilityArea": 90,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.62505, 55.7448029999999]
+      }
+    }
+  },
+  {
+    "global_id": 14044970,
+    "Number": 34,
+    "Cells": {
+      "global_id": 14044970,
+      "StationaryObjectName": "кафе «Ля Ферм»",
+      "Owner": "АПИ ГРУПП",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Новокузнецкая улица, дом 5, строение 1",
+      "FacilityArea": 50,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.630608, 55.7395789999999]
+      }
+    }
+  },
+  {
+    "global_id": 14044972,
+    "Number": 35,
+    "Cells": {
+      "global_id": 14044972,
+      "StationaryObjectName": "Ресторан Обломов",
+      "Owner": "ИБГ Компани",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "1-й Монетчиковский переулок, дом 5, строение 1",
+      "FacilityArea": 285,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.62832, 55.7323129999999]
+      }
+    }
+  },
+  {
+    "global_id": 14044973,
+    "Number": 36,
+    "Cells": {
+      "global_id": 14044973,
+      "StationaryObjectName": "Краб Паб",
+      "Owner": "Успех",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Космодамианская набережная, дом 52, строение 5",
+      "FacilityArea": 6,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6435769010766, 55.7331090203491]
+      }
+    }
+  },
+  {
+    "global_id": 14044974,
+    "Number": 37,
+    "Cells": {
+      "global_id": 14044974,
+      "StationaryObjectName": "Ресторан Вилла Роза",
+      "Owner": "Сухаревка",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Пятницкая улица, дом 52, строение 1",
+      "FacilityArea": 175,
+      "geoData": { "type": "Point", "coordinates": [37.627445, 55.734648] }
+    }
+  },
+  {
+    "global_id": 14044977,
+    "Number": 38,
+    "Cells": {
+      "global_id": 14044977,
+      "StationaryObjectName": "ресторан «Асадор»",
+      "Owner": "Волга-И",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "улица Большая Ордынка, дом 45, строение 3",
+      "FacilityArea": 136.6,
+      "geoData": { "type": "Point", "coordinates": [37.624624, 55.734932] }
+    }
+  },
+  {
+    "global_id": 14044978,
+    "Number": 39,
+    "Cells": {
+      "global_id": 14044978,
+      "StationaryObjectName": "Ресторан Джведи",
+      "Owner": "Ривер групп",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Озерковская набережная, дом 26",
+      "FacilityArea": 188.2,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.637359154991614, 55.7395482484197]
+      }
+    }
+  },
+  {
+    "global_id": 14044979,
+    "Number": 40,
+    "Cells": {
+      "global_id": 14044979,
+      "StationaryObjectName": "Кафе «Кофетун»",
+      "Owner": "СИСТЕМА БИТ-2000",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Большой Овчинниковский переулок, дом 16, строение 1",
+      "FacilityArea": 135,
+      "geoData": { "type": "Point", "coordinates": [37.630526, 55.744318] }
+    }
+  },
+  {
+    "global_id": 14044980,
+    "Number": 41,
+    "Cells": {
+      "global_id": 14044980,
+      "StationaryObjectName": "Старбакс",
+      "Owner": "Кофе Сирена",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Павелецкая площадь, дом 2, строение 2",
+      "FacilityArea": 50,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.635767823230687, 55.730205323530868]
+      }
+    }
+  },
+  {
+    "global_id": 14044981,
+    "Number": 42,
+    "Cells": {
+      "global_id": 14044981,
+      "StationaryObjectName": "кафе «Старбакс»",
+      "Owner": "Кофе Сирена",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Стремянный переулок, дом 38",
+      "FacilityArea": 50,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.626757922789913, 55.72723413744275]
+      }
+    }
+  },
+  {
+    "global_id": 14044982,
+    "Number": 43,
+    "Cells": {
+      "global_id": 14044982,
+      "StationaryObjectName": "Кафе Бобры и Утки",
+      "Owner": "Альмагер",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Пятницкая улица, дом 56, строение 1",
+      "FacilityArea": 100,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6274749999999, 55.733584]
+      }
+    }
+  },
+  {
+    "global_id": 14044983,
+    "Number": 44,
+    "Cells": {
+      "global_id": 14044983,
+      "StationaryObjectName": "МАКДОНАЛДС",
+      "Owner": "МОСКВА-МАКДОНАЛДС",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Большая Серпуховская улица, дом 4/3",
+      "FacilityArea": 80,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.623783973013431, 55.72905717683625]
+      }
+    }
+  },
+  {
+    "global_id": 14044984,
+    "Number": 45,
+    "Cells": {
+      "global_id": 14044984,
+      "StationaryObjectName": "Пицца Pomodoro",
+      "Owner": "Помидор",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Садовническая улица, дом 54, строение 2",
+      "FacilityArea": 44,
+      "geoData": { "type": "Point", "coordinates": [37.638359, 55.743299] }
+    }
+  },
+  {
+    "global_id": 14044985,
+    "Number": 46,
+    "Cells": {
+      "global_id": 14044985,
+      "StationaryObjectName": "Чешская пивная «Пилзнер»",
+      "Owner": "Максима",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Озерковская набережная, дом 56",
+      "FacilityArea": 65,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.641081690852, 55.733563009455]
+      }
+    }
+  },
+  {
+    "global_id": 14044986,
+    "Number": 47,
+    "Cells": {
+      "global_id": 14044986,
+      "StationaryObjectName": "Кафе Мицва",
+      "Owner": "Вкуснятина",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Пятницкая улица, дом 3/4, строение 1",
+      "FacilityArea": 40.6,
+      "geoData": { "type": "Point", "coordinates": [37.627166, 55.745427] }
+    }
+  },
+  {
+    "global_id": 14044987,
+    "Number": 48,
+    "Cells": {
+      "global_id": 14044987,
+      "StationaryObjectName": "Кофе Хаус",
+      "Owner": "КОФЕ ХАУС. ЭСПРЕССО И КАПУЧИНО БАР",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "город Москва, Большая Татарская улица, дом 5",
+      "FacilityArea": 50,
+      "geoData": { "type": "Point", "coordinates": [37.631397, 55.742453] }
+    }
+  },
+  {
+    "global_id": 14044988,
+    "Number": 49,
+    "Cells": {
+      "global_id": 14044988,
+      "StationaryObjectName": "Кофейня «Кофе Хауз»",
+      "Owner": "Кофе Хаус",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "город Москва, Павелецкая площадь, дом 2, строение 1",
+      "FacilityArea": 50,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6345884166408, 55.7304211954604]
+      }
+    }
+  },
+  {
+    "global_id": 14044989,
+    "Number": 50,
+    "Cells": {
+      "global_id": 14044989,
+      "StationaryObjectName": "Кафе Песто и Митлес",
+      "Owner": "Триумф",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "город Москва, улица Зацепский Вал, дом 2, сооружение 3А",
+      "FacilityArea": 177.8,
+      "geoData": { "type": "Point", "coordinates": [37.640884, 55.733219] }
+    }
+  },
+  {
+    "global_id": 19698685,
+    "Number": 51,
+    "Cells": {
+      "global_id": 19698685,
+      "StationaryObjectName": "Кафе «Будвайзер будвар»",
+      "Owner": "Элант001",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Люсиновская улица, дом 9",
+      "FacilityArea": 33.75,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6234889999999, 55.728416]
+      }
+    }
+  },
+  {
+    "global_id": 14044992,
+    "Number": 52,
+    "Cells": {
+      "global_id": 14044992,
+      "StationaryObjectName": "Ресторан Дубинин",
+      "Owner": "Солимар",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Кожевническая улица, дом 7, строение 1",
+      "FacilityArea": 63,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6450809999999, 55.729838]
+      }
+    }
+  },
+  {
+    "global_id": 14044993,
+    "Number": 53,
+    "Cells": {
+      "global_id": 14044993,
+      "StationaryObjectName": "ВИНО и СЫР кафе-бар",
+      "Owner": "САТЬЯ Сервис",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "город Москва, Кожевническая улица, дом 11/13, строение 1",
+      "FacilityArea": 50,
+      "geoData": { "type": "Point", "coordinates": [37.646857, 55.729529] }
+    }
+  },
+  {
+    "global_id": 14044994,
+    "Number": 54,
+    "Cells": {
+      "global_id": 14044994,
+      "StationaryObjectName": "БАР «BQ кафе»",
+      "Owner": "Потенциал",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Пятницкая улица, дом 25, строение 1",
+      "FacilityArea": 67.5,
+      "geoData": { "type": "Point", "coordinates": [37.628655, 55.741503] }
+    }
+  },
+  {
+    "global_id": 14044998,
+    "Number": 55,
+    "Cells": {
+      "global_id": 14044998,
+      "StationaryObjectName": "кафе «Шоколадница»",
+      "Owner": "ГАЛЕРЕЯ-АЛЕКС",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Валовая улица, дом 6",
+      "FacilityArea": 14.8,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.634267, 55.7310069999999]
+      }
+    }
+  },
+  {
+    "global_id": 14044999,
+    "Number": 56,
+    "Cells": {
+      "global_id": 14044999,
+      "StationaryObjectName": "Ресторан Торро Гриль",
+      "Owner": "Серый бык",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Летниковская улица, дом 2, строение 1",
+      "FacilityArea": 92.5,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.644870915243153, 55.728719509391738]
+      }
+    }
+  },
+  {
+    "global_id": 14045001,
+    "Number": 57,
+    "Cells": {
+      "global_id": 14045001,
+      "StationaryObjectName": "Мечта кафе",
+      "Owner": "Аврора",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Садовническая улица, дом 84, строение 3",
+      "FacilityArea": 280,
+      "geoData": { "type": "Point", "coordinates": [37.636796, 55.745032] }
+    }
+  },
+  {
+    "global_id": 14045002,
+    "Number": 58,
+    "Cells": {
+      "global_id": 14045002,
+      "StationaryObjectName": "Кафе Старбакс",
+      "Owner": "Кофе Сирена",
+      "AdmArea": "Центральный административный округ",
+      "District": "район Замоскворечье",
+      "Address": "Павелецкая площадь, дом 1",
+      "FacilityArea": 23,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.640970134936374, 55.731561244316808]
+      }
+    }
+  },
+  {
+    "global_id": 14045003,
+    "Number": 59,
+    "Cells": {
+      "global_id": 14045003,
+      "StationaryObjectName": "ИЛЬ ПАТИО",
+      "Owner": "ДАНБОРГ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Тверской район",
+      "Address": "Манежная площадь, дом 1, строение 2",
+      "FacilityArea": 150,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.615072, 55.7554549999999]
+      }
+    }
+  },
+  {
+    "global_id": 14045004,
+    "Number": 60,
+    "Cells": {
+      "global_id": 14045004,
+      "StationaryObjectName": "МАКДОНАЛДС",
+      "Owner": "Макдоналдс",
+      "AdmArea": "Центральный административный округ",
+      "District": "Тверской район",
+      "Address": "Манежная площадь, дом 1, строение 2",
+      "FacilityArea": 150,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6145569999999, 55.7552129999999]
+      }
+    }
+  },
+  {
+    "global_id": 14045005,
+    "Number": 61,
+    "Cells": {
+      "global_id": 14045005,
+      "StationaryObjectName": "Сбарро",
+      "Owner": "КЛАРМО",
+      "AdmArea": "Центральный административный округ",
+      "District": "Тверской район",
+      "Address": "Манежная площадь, дом 1, строение 2",
+      "FacilityArea": 160,
+      "geoData": { "type": "Point", "coordinates": [37.614236, 55.755092] }
+    }
+  },
+  {
+    "global_id": 14045007,
+    "Number": 62,
+    "Cells": {
+      "global_id": 14045007,
+      "StationaryObjectName": "БОСКО КАФЕ",
+      "Owner": "РЕСТОРАЦИЯ БОСКО",
+      "AdmArea": "Центральный административный округ",
+      "District": "Тверской район",
+      "Address": "Красная площадь, дом 3",
+      "FacilityArea": 271,
+      "geoData": { "type": "Point", "coordinates": [37.620544, 55.754620999] }
+    }
+  },
+  {
+    "global_id": 14045008,
+    "Number": 63,
+    "Cells": {
+      "global_id": 14045008,
+      "StationaryObjectName": "БОСКО КАФЕ",
+      "Owner": "РЕСТОРАЦИЯ БОСКО",
+      "AdmArea": "Центральный административный округ",
+      "District": "Тверской район",
+      "Address": "Красная площадь, дом 3",
+      "FacilityArea": 255.5,
+      "geoData": { "type": "Point", "coordinates": [37.621402, 55.754186] }
+    }
+  },
+  {
+    "global_id": 14045010,
+    "Number": 64,
+    "Cells": {
+      "global_id": 14045010,
+      "StationaryObjectName": "15 Сестер",
+      "Owner": "Мидея",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "проспект Академика Сахарова, дом 10",
+      "FacilityArea": 170,
+      "geoData": { "type": "Point", "coordinates": [37.641626, 55.768716] }
+    }
+  },
+  {
+    "global_id": 14045011,
+    "Number": 65,
+    "Cells": {
+      "global_id": 14045011,
+      "StationaryObjectName": "Лунный дворик",
+      "Owner": "ФОРТУНА-М",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Новая Басманная улица, дом 23А, строение 4",
+      "FacilityArea": 142,
+      "geoData": { "type": "Point", "coordinates": [37.661752, 55.769995] }
+    }
+  },
+  {
+    "global_id": 14045014,
+    "Number": 66,
+    "Cells": {
+      "global_id": 14045014,
+      "StationaryObjectName": "Апрель",
+      "Owner": "ФИРМА ПОЛЯРНАЯ ЗВЕЗДА",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Живарев переулок, дом 8, строение 3",
+      "FacilityArea": 55,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.6434289999999, 55.7764409999999]
+      }
+    }
+  },
+  {
+    "global_id": 14045016,
+    "Number": 67,
+    "Cells": {
+      "global_id": 14045016,
+      "StationaryObjectName": "Интернет-кофейня",
+      "Owner": "Веб Стейшн",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Комсомольская площадь, дом 6",
+      "FacilityArea": 200,
+      "geoData": { "type": "Point", "coordinates": [37.659103, 55.775711] }
+    }
+  },
+  {
+    "global_id": 14045021,
+    "Number": 68,
+    "Cells": {
+      "global_id": 14045021,
+      "StationaryObjectName": "Восточкая сказка",
+      "Owner": "Велесъ+",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "город Москва, Краснопрудная улица, дом 7-9",
+      "FacilityArea": 47,
+      "geoData": { "type": "Point", "coordinates": [37.66214, 55.778076] }
+    }
+  },
+  {
+    "global_id": 14045022,
+    "Number": 69,
+    "Cells": {
+      "global_id": 14045022,
+      "StationaryObjectName": "АндерСон",
+      "Owner": "ТИРОЛЕРХОФ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Верхняя Красносельская улица, дом 7, строение 2",
+      "FacilityArea": 57.53,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.661256602467873, 55.784955206076781]
+      }
+    }
+  },
+  {
+    "global_id": 14045023,
+    "Number": 70,
+    "Cells": {
+      "global_id": 14045023,
+      "StationaryObjectName": "Страдивари",
+      "Owner": "АРТ МАРИНА",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Верхняя Красносельская улица, дом 8, корпус 3",
+      "FacilityArea": 85.5,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.660223204114196, 55.784646004622431]
+      }
+    }
+  },
+  {
+    "global_id": 14045024,
+    "Number": 71,
+    "Cells": {
+      "global_id": 14045024,
+      "StationaryObjectName": "Лига Пап",
+      "Owner": "БОРАТА",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "улица Большая Лубянка, дом 24/15, строение 1",
+      "FacilityArea": 32,
+      "geoData": { "type": "Point", "coordinates": [37.630876, 55.765384999] }
+    }
+  },
+  {
+    "global_id": 14045025,
+    "Number": 72,
+    "Cells": {
+      "global_id": 14045025,
+      "StationaryObjectName": "Дефакто",
+      "Owner": "Дефакто",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "улица Большая Лубянка, дом 26/17, строение 1",
+      "FacilityArea": 36,
+      "geoData": { "type": "Point", "coordinates": [37.631406, 55.765655] }
+    }
+  },
+  {
+    "global_id": 14045027,
+    "Number": 73,
+    "Cells": {
+      "global_id": 14045027,
+      "StationaryObjectName": "Дед Пихто",
+      "Owner": "СТ-ТОР",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Мясницкая улица, дом 37, строение 3",
+      "FacilityArea": 145,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.640607, 55.7667909999999]
+      }
+    }
+  },
+  {
+    "global_id": 14045028,
+    "Number": 74,
+    "Cells": {
+      "global_id": 14045028,
+      "StationaryObjectName": "Корчма Тарас Бульба",
+      "Owner": "КЛ-Альянс",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Мясницкая улица, дом 47",
+      "FacilityArea": 97,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.644547287335534, 55.769014638500224]
+      }
+    }
+  },
+  {
+    "global_id": 14045029,
+    "Number": 75,
+    "Cells": {
+      "global_id": 14045029,
+      "StationaryObjectName": "Меридиан",
+      "Owner": "Меридиан",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Новорязанская улица, дом 21, строение 1",
+      "FacilityArea": 144,
+      "geoData": { "type": "Point", "coordinates": [37.661132, 55.772705] }
+    }
+  },
+  {
+    "global_id": 14045031,
+    "Number": 76,
+    "Cells": {
+      "global_id": 14045031,
+      "StationaryObjectName": "Киноплов",
+      "Owner": "ДОМИНО-ТРАСТ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Орликов переулок, дом 3, строение 1",
+      "FacilityArea": 150,
+      "geoData": { "type": "Point", "coordinates": [37.64698, 55.770678] }
+    }
+  },
+  {
+    "global_id": 14045032,
+    "Number": 77,
+    "Cells": {
+      "global_id": 14045032,
+      "StationaryObjectName": "Колесо времени",
+      "Owner": "Колесо времени",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Орликов переулок, дом 5, строение 2",
+      "FacilityArea": 100,
+      "geoData": { "type": "Point", "coordinates": [37.649726, 55.772826] }
+    }
+  },
+  {
+    "global_id": 14045033,
+    "Number": 78,
+    "Cells": {
+      "global_id": 14045033,
+      "StationaryObjectName": "На мельнице",
+      "Owner": "Ридженси Сервисез",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Садовая-Спасская улица, дом 24",
+      "FacilityArea": 61.18,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.646358, 55.7692169999999]
+      }
+    }
+  },
+  {
+    "global_id": 14045035,
+    "Number": 79,
+    "Cells": {
+      "global_id": 14045035,
+      "StationaryObjectName": "Сирена",
+      "Owner": "СИРЕНА-1",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Большая Спасская улица, дом 15, строение 4",
+      "FacilityArea": 128,
+      "geoData": { "type": "Point", "coordinates": [37.639572, 55.774836] }
+    }
+  },
+  {
+    "global_id": 14045037,
+    "Number": 80,
+    "Cells": {
+      "global_id": 14045037,
+      "StationaryObjectName": "Порто Мальтезе",
+      "Owner": "Радар Групп",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Большая Спасская улица, дом 8, строение 1А",
+      "FacilityArea": 66.4,
+      "geoData": { "type": "Point", "coordinates": [37.643052999, 55.775892] }
+    }
+  },
+  {
+    "global_id": 14045039,
+    "Number": 81,
+    "Cells": {
+      "global_id": 14045039,
+      "StationaryObjectName": "Сандал",
+      "Owner": "СТАРТ СК",
+      "AdmArea": "Центральный административный округ",
+      "District": "Красносельский район",
+      "Address": "Сретенский бульвар, дом 3",
+      "FacilityArea": 34,
+      "geoData": { "type": "Point", "coordinates": [37.632764, 55.766876] }
+    }
+  },
+  {
+    "global_id": 19698689,
+    "Number": 82,
+    "Cells": {
+      "global_id": 19698689,
+      "StationaryObjectName": "Венское кафе",
+      "Owner": "КОММЕРЧЕСКАЯ КОМПАНИЯ «ТОРГОВЫЙ ДОМ»",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 92, строение 1",
+      "FacilityArea": 56,
+      "geoData": { "type": "Point", "coordinates": [37.635661, 55.793102] }
+    }
+  },
+  {
+    "global_id": 14045041,
+    "Number": 83,
+    "Cells": {
+      "global_id": 14045041,
+      "StationaryObjectName": "Кавказская пленница",
+      "Owner": "МИРУМИР",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 36, строение 1",
+      "FacilityArea": 200,
+      "geoData": { "type": "Point", "coordinates": [37.633169, 55.779156] }
+    }
+  },
+  {
+    "global_id": 14045042,
+    "Number": 84,
+    "Cells": {
+      "global_id": 14045042,
+      "StationaryObjectName": "Твинс Групп",
+      "Owner": "Твинс Групп",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "Олимпийский проспект, дом 18/1",
+      "FacilityArea": 196.8,
+      "geoData": { "type": "Point", "coordinates": [37.623201, 55.784699] }
+    }
+  },
+  {
+    "global_id": 19698690,
+    "Number": 85,
+    "Cells": {
+      "global_id": 19698690,
+      "StationaryObjectName": "ТИ-бон",
+      "Owner": "Эй-Би-стар",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 58",
+      "FacilityArea": 80,
+      "geoData": { "type": "Point", "coordinates": [37.635878, 55.785316] }
+    }
+  },
+  {
+    "global_id": 639267088,
+    "Number": 86,
+    "Cells": {
+      "global_id": 639267088,
+      "StationaryObjectName": "Шоколадница",
+      "Owner": "Антарес",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 29",
+      "FacilityArea": 33.5,
+      "geoData": { "type": "Point", "coordinates": [37.63266, 55.779794] }
+    }
+  },
+  {
+    "global_id": 14045046,
+    "Number": 87,
+    "Cells": {
+      "global_id": 14045046,
+      "StationaryObjectName": "Кафе-бар «Джек Роуз»",
+      "Owner": "Сириус",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 36, строение 1",
+      "FacilityArea": 44.1,
+      "geoData": { "type": "Point", "coordinates": [37.633202, 55.77923] }
+    }
+  },
+  {
+    "global_id": 639267090,
+    "Number": 88,
+    "Cells": {
+      "global_id": 639267090,
+      "StationaryObjectName": "Огни",
+      "Owner": "Огниво",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "Малая Сухаревская площадь, дом 8",
+      "FacilityArea": 84,
+      "geoData": { "type": "Point", "coordinates": [37.630198, 55.772805] }
+    }
+  },
+  {
+    "global_id": 639267117,
+    "Number": 89,
+    "Cells": {
+      "global_id": 639267117,
+      "StationaryObjectName": "Иль Патио",
+      "Owner": "РОСИНТЕР РЕСТОРАНТС",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 33, корпус 1",
+      "FacilityArea": 36,
+      "geoData": { "type": "Point", "coordinates": [37.632221, 55.780442] }
+    }
+  },
+  {
+    "global_id": 14045051,
+    "Number": 90,
+    "Cells": {
+      "global_id": 14045051,
+      "StationaryObjectName": "ОСТЕРИЯ ДА ЧИККО",
+      "Owner": "ОСТЕРИЯ ДА ЧИККО",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "Банный переулок, дом 3",
+      "FacilityArea": 26,
+      "geoData": { "type": "Point", "coordinates": [37.636724, 55.786298] }
+    }
+  },
+  {
+    "global_id": 14045052,
+    "Number": 91,
+    "Cells": {
+      "global_id": 14045052,
+      "StationaryObjectName": "Де Марко",
+      "Owner": "РЕСТТОРГ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 46",
+      "FacilityArea": 57,
+      "geoData": { "type": "Point", "coordinates": [37.634096, 55.781263] }
+    }
+  },
+  {
+    "global_id": 639267119,
+    "Number": 92,
+    "Cells": {
+      "global_id": 639267119,
+      "StationaryObjectName": "Шоколадница",
+      "Owner": "ГАЛЕРЕЯ-АЛЕКС",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 79",
+      "FacilityArea": 43,
+      "geoData": { "type": "Point", "coordinates": [37.634331, 55.790727] }
+    }
+  },
+  {
+    "global_id": 656544003,
+    "Number": 93,
+    "Cells": {
+      "global_id": 656544003,
+      "StationaryObjectName": "Клуб кино",
+      "Owner": "ЛЮМЬЕР БРАЗЕРС",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "Олимпийский проспект, дом 16, строение 1",
+      "FacilityArea": 100,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.626266538998507, 55.781070012972386]
+      }
+    }
+  },
+  {
+    "global_id": 639267151,
+    "Number": 94,
+    "Cells": {
+      "global_id": 639267151,
+      "StationaryObjectName": "ТРИ ЭМ",
+      "Owner": "ТРИ ЭМ",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 51, строение 1",
+      "FacilityArea": 50,
+      "geoData": { "type": "Point", "coordinates": [37.634411, 55.783991] }
+    }
+  },
+  {
+    "global_id": 14045061,
+    "Number": 95,
+    "Cells": {
+      "global_id": 14045061,
+      "StationaryObjectName": "IL Forno",
+      "Owner": "Черемушки",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "город Москва, Неглинная улица, дом 8/10",
+      "FacilityArea": 18.9,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.620657593917, 55.761334450132]
+      }
+    }
+  },
+  {
+    "global_id": 14045063,
+    "Number": 96,
+    "Cells": {
+      "global_id": 14045063,
+      "StationaryObjectName": "Песто",
+      "Owner": "КОРСТАР",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "проспект Мира, дом 74, строение 1",
+      "FacilityArea": 73,
+      "geoData": { "type": "Point", "coordinates": [37.635171, 55.789399] }
+    }
+  },
+  {
+    "global_id": 14045067,
+    "Number": 97,
+    "Cells": {
+      "global_id": 14045067,
+      "StationaryObjectName": "Шотландская клетка",
+      "Owner": "РБ-Вереск",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "улица Сретенка, дом 27, строение 1",
+      "FacilityArea": 20,
+      "geoData": { "type": "Point", "coordinates": [37.632231, 55.771551] }
+    }
+  },
+  {
+    "global_id": 14045068,
+    "Number": 98,
+    "Cells": {
+      "global_id": 14045068,
+      "StationaryObjectName": "My Place",
+      "Owner": "Ресторанный Холдинг",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "город Москва, улица Щепкина, дом 42, строение 1",
+      "FacilityArea": 240,
+      "geoData": {
+        "type": "Point",
+        "coordinates": [37.63045413488387, 55.783236026092062]
+      }
+    }
+  },
+  {
+    "global_id": 639267179,
+    "Number": 99,
+    "Cells": {
+      "global_id": 639267179,
+      "StationaryObjectName": "Аэлита",
+      "Owner": "АЭЛИТА",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "Олимпийский проспект, дом 16, строение 1",
+      "FacilityArea": 50,
+      "geoData": { "type": "Point", "coordinates": [37.626484, 55.781079] }
+    }
+  },
+  {
+    "global_id": 14045071,
+    "Number": 100,
+    "Cells": {
+      "global_id": 14045071,
+      "StationaryObjectName": "Русская трапеза",
+      "Owner": "Русская трапеза",
+      "AdmArea": "Центральный административный округ",
+      "District": "Мещанский район",
+      "Address": "улица Сретенка, дом 15",
+      "FacilityArea": 20,
+      "geoData": { "type": "Point", "coordinates": [37.631937, 55.769041] }
+    }
+  }
+]

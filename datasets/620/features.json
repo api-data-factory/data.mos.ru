@@ -1,1 +1,2662 @@
-{"features":[{"geometry":{"coordinates":[37.76671275,55.747369099578044],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Зелёный проспект, дом 2","AdmArea":"Восточный административный округ","District":"район Перово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"4dd76c2b-b205-45d4-935c-f849d3a17dbc","AmountOfPlaces":46,"global_id":1712710}},"type":"Feature"},{"geometry":{"coordinates":[37.683154,55.7876649999999],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, 2-я Сокольническая улица, дом 3","AdmArea":"Восточный административный округ","District":"район Сокольники","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"fe4282eb-c4df-4d6b-85ea-861553434a6a","AmountOfPlaces":22,"global_id":1712711}},"type":"Feature"},{"geometry":{"coordinates":[37.76463585,55.69987519],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Юных Ленинцев, дом 52","AdmArea":"Юго-Восточный административный округ","District":"район Кузьминки","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"6e5ad50c-8bb8-4b6c-bc78-ee1fb4b51811","AmountOfPlaces":46,"global_id":1712713}},"type":"Feature"},{"geometry":{"coordinates":[37.760117438648692,55.664974816143527],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Перерва, дом 51","AdmArea":"Юго-Восточный административный округ","District":"район Марьино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"7d56585c-ae50-4793-a34a-adca40d95e4f","AmountOfPlaces":28,"global_id":1712717}},"type":"Feature"},{"geometry":{"coordinates":[37.650936,55.577546],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Булатниковская улица, дом 9, корпус 1","AdmArea":"Южный административный округ","District":"район Бирюлёво Западное","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"4db5134c-b94e-4230-bc68-9eb02160bde2","AmountOfPlaces":18,"global_id":1712726}},"type":"Feature"},{"geometry":{"coordinates":[37.76456213,55.63482987],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Братеевская улица, дом 16, корпус 1","AdmArea":"Южный административный округ","District":"район Братеево","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"c9e55232-d871-44d3-a290-7b82ddf40b7e","AmountOfPlaces":38,"global_id":1712727}},"type":"Feature"},{"geometry":{"coordinates":[37.7378402,55.62170488],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Шипиловская улица, владение 50А","AdmArea":"Южный административный округ","District":"район Зябликово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"b125874d-ae83-433f-8d09-fddf92fcc0e9","AmountOfPlaces":26,"global_id":1712728}},"type":"Feature"},{"geometry":{"coordinates":[37.66895508,55.6377977],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Кантемировская улица, дом 14","AdmArea":"Южный административный округ","District":"район Москворечье-Сабурово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"263442f7-7932-4ae2-baef-3f4856b3fab1","AmountOfPlaces":18,"global_id":1712729}},"type":"Feature"},{"geometry":{"coordinates":[37.67723772,55.67587645],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Новинки, дом 31","AdmArea":"Южный административный округ","District":"район Нагатинский Затон","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"3fe76959-4145-44c5-befb-ecabfecf891c","AmountOfPlaces":38,"global_id":1712731}},"type":"Feature"},{"geometry":{"coordinates":[37.710202076160762,55.608644546042619],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Домодедовская улица, дом 15","AdmArea":"Южный административный округ","District":"район Орехово-Борисово Южное","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"55829b19-9d85-4b43-907f-3616669a16a8","AmountOfPlaces":28,"global_id":1712733}},"type":"Feature"},{"geometry":{"coordinates":[37.63321605448894,55.771684748377794],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Панкратьевский переулок, дом 2","AdmArea":"Центральный административный округ","District":"Красносельский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"c7ed2073-3ff0-4aa1-9d90-0642a8196f67","AmountOfPlaces":28,"global_id":1712735}},"type":"Feature"},{"geometry":{"coordinates":[37.58216538,55.72819421],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Комсомольский проспект, дом 22","AdmArea":"Центральный административный округ","District":"район Хамовники","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"7bc5b32f-ab81-4355-9605-c0d46b17d167","AmountOfPlaces":70,"global_id":1712738}},"type":"Feature"},{"geometry":{"coordinates":[37.518084,55.824106],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Зои и Александра Космодемьянских, дом 23","AdmArea":"Северный административный округ","District":"район Коптево","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"abfccbf3-0d33-41bd-9fe9-6f077f5e3165","AmountOfPlaces":30,"global_id":1712745}},"type":"Feature"},{"geometry":{"coordinates":[37.65465872,55.81118698],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Павла Корчагина, дом 2","AdmArea":"Северо-Восточный административный округ","District":"Алексеевский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"a05813e4-eb04-4c09-b3bc-c111c7ed9d87","AmountOfPlaces":18,"global_id":1712750}},"type":"Feature"},{"geometry":{"coordinates":[37.58237442,55.87950009],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Инженерная улица, дом 1","AdmArea":"Северо-Восточный административный округ","District":"Алтуфьевский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"63a5f411-89aa-42ff-b29f-53b3688d4166","AmountOfPlaces":14,"global_id":1712751}},"type":"Feature"},{"geometry":{"coordinates":[37.58093298,55.82779236],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Милашенкова, дом 14","AdmArea":"Северо-Восточный административный округ","District":"Бутырский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"738104bb-a6e5-4392-a786-b7d9ab298f26","AmountOfPlaces":26,"global_id":1712753}},"type":"Feature"},{"geometry":{"coordinates":[37.640192,55.874718],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Полярная улица, дом 10","AdmArea":"Северо-Восточный административный округ","District":"район Южное Медведково","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"a02f1065-6e67-4879-83ea-f394a798ca34","AmountOfPlaces":12,"global_id":1712760}},"type":"Feature"},{"geometry":{"coordinates":[37.80638,55.789137],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Измайловский проспект, дом 91А","AdmArea":"Восточный административный округ","District":"район Восточное Измайлово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"65c2a235-cab6-4800-a9f5-ec7343fa4913","AmountOfPlaces":12,"global_id":1712762}},"type":"Feature"},{"geometry":{"coordinates":[37.81707846,55.82377902],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Уссурийская улица, дом 7","AdmArea":"Восточный административный округ","District":"район Гольяново","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"9c32cf83-0431-46ab-8b5b-5d03fe744ec1","AmountOfPlaces":30,"global_id":1712764}},"type":"Feature"},{"geometry":{"coordinates":[37.8256508,55.8226078],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Хабаровская улица, дом 12/23","AdmArea":"Восточный административный округ","District":"район Гольяново","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"96c33822-49aa-4fb2-89ae-3d62e77378ab","AmountOfPlaces":46,"global_id":1712765}},"type":"Feature"},{"geometry":{"coordinates":[37.776035,55.792358],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Измайловская площадь, дом 1","AdmArea":"Восточный административный округ","District":"район Измайлово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"710d7641-ccfb-4571-b79c-4678e0bc5fc9","AmountOfPlaces":58,"global_id":1712768}},"type":"Feature"},{"geometry":{"coordinates":[37.451503,55.723454],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Ватутина, дом 18, корпус 2","AdmArea":"Западный административный округ","District":"район Фили-Давыдково","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"70cfd92b-64d6-4466-8510-39cd7aa03c24","AmountOfPlaces":18,"global_id":1712771}},"type":"Feature"},{"geometry":{"coordinates":[37.47263594,55.78450276],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Маршала Тухачевского, дом 32","AdmArea":"Северо-Западный административный округ","District":"район Хорошёво-Мнёвники","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"5f4f8cb1-e20d-4d80-9ec5-5246b5575703","AmountOfPlaces":50,"global_id":1712774}},"type":"Feature"},{"geometry":{"coordinates":[37.188178,55.994874],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, город Зеленоград, корпус 1104","AdmArea":"Зеленоградский административный округ","District":"район Силино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"e9b5d3a7-a3b6-40be-85ad-52725a7f8562","AmountOfPlaces":14,"global_id":1712778}},"type":"Feature"},{"geometry":{"coordinates":[37.153738,55.977912],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, город Зеленоград, корпус 1550","AdmArea":"Зеленоградский административный округ","District":"район Крюково","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"de1edcac-574a-42f8-a86a-a963ea9059a3","AmountOfPlaces":18,"global_id":1712779}},"type":"Feature"},{"geometry":{"coordinates":[37.352192,55.59806],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, город Московский, 1-й микрорайон, дом 39","AdmArea":"Новомосковский административный округ","District":"поселение Московский","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"c06cab78-9a2d-4faa-a0f6-d0c429d3b28b","AmountOfPlaces":22,"global_id":1712782}},"type":"Feature"},{"geometry":{"coordinates":[37.629033543790172,55.781324990860995],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Щепкина, дом 47, строение 1","AdmArea":"Центральный административный округ","District":"Мещанский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"закрыто"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"7940a75f-e17f-4f22-bd8e-78768aea83f2","AmountOfPlaces":70,"global_id":1712785}},"type":"Feature"},{"geometry":{"coordinates":[37.358078717462163,55.844263516212955],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Дубравная улица, дом 35","AdmArea":"Северо-Западный административный округ","District":"район Митино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"6823b8f2-ae82-418f-8027-88878760484d","AmountOfPlaces":48,"global_id":1712786}},"type":"Feature"},{"geometry":{"coordinates":[37.534548510672415,55.675827820355337],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Гарибальди, дом 4А","AdmArea":"Юго-Западный административный округ","District":"Ломоносовский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"9271e9b7-ff61-4d0b-b501-a36e4bcce6d2","AmountOfPlaces":10,"global_id":1712789}},"type":"Feature"},{"geometry":{"coordinates":[37.5325267,55.54128473],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Южнобутовская улица, дом 50, корпус 4","AdmArea":"Юго-Западный административный округ","District":"район Южное Бутово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"0dcd1175-bf8b-4f44-9bab-db3e9320e4b8","AmountOfPlaces":38,"global_id":1712790}},"type":"Feature"},{"geometry":{"coordinates":[37.542716,55.470888],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, поселение Рязановское, посёлок Знамя Октября, микрорайон \"Родники\", дом 4","AdmArea":"Новомосковский административный округ","District":"поселение Рязановское","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"f7084685-2a88-48a2-8797-55c0c6b7ccbf","AmountOfPlaces":18,"global_id":1712791}},"type":"Feature"},{"geometry":{"coordinates":[37.657814760251092,55.632538511271534],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Пролетарский проспект, дом 24","AdmArea":"Южный административный округ","District":"район Царицыно","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"4ad264f0-a234-4176-893b-db30ad74ab35","AmountOfPlaces":18,"global_id":1712794}},"type":"Feature"},{"geometry":{"coordinates":[37.59597167,55.63669607],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, микрорайон Северное Чертаново, корпус 806","AdmArea":"Южный административный округ","District":"район Чертаново Северное","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"62380ab3-2bba-4be8-9b37-85a86efd331f","AmountOfPlaces":10,"global_id":1712795}},"type":"Feature"},{"geometry":{"coordinates":[37.647526488119915,55.85196320727335],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Снежная улица, дом 18","AdmArea":"Северо-Восточный административный округ","District":"район Свиблово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"b89a2241-6185-4766-b73b-bdb2ac38815c","AmountOfPlaces":10,"global_id":1712799}},"type":"Feature"},{"geometry":{"coordinates":[37.855096,55.686497],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Авиаконструктора Миля, дом 7","AdmArea":"Юго-Восточный административный округ","District":"район Выхино-Жулебино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"4c33b33f-d978-4fe8-934b-17886062bab5","AmountOfPlaces":54,"global_id":1712800}},"type":"Feature"},{"geometry":{"coordinates":[37.727200473096147,55.691785854442365],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Шоссейная улица, дом 4, корпус 1","AdmArea":"Юго-Восточный административный округ","District":"район Печатники","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"b9c57a4b-981c-4e33-be8c-74ed05df7c55","AmountOfPlaces":18,"global_id":1712802}},"type":"Feature"},{"geometry":{"coordinates":[37.596181801283052,55.611473015263535],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Красного Маяка, дом 3","AdmArea":"Южный административный округ","District":"район Чертаново Центральное","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"37c2da03-533d-4c2e-a852-8b0f7f7d959a","AmountOfPlaces":10,"global_id":1712806}},"type":"Feature"},{"geometry":{"coordinates":[37.594444878419026,55.653059229028905],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Малая Юшуньская улица, дом 1, корпус 1","AdmArea":"Юго-Западный административный округ","District":"район Зюзино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"07f6d214-9b93-4c8a-a8dc-2df68a70d7cf","AmountOfPlaces":68,"global_id":1712810}},"type":"Feature"},{"geometry":{"coordinates":[37.573914,55.563421],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, бульвар Дмитрия Донского, дом 17","AdmArea":"Юго-Западный административный округ","District":"район Северное Бутово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"828211d2-096f-4c98-9559-0171ed101c50","AmountOfPlaces":38,"global_id":1712812}},"type":"Feature"},{"geometry":{"coordinates":[37.52999096,55.60645742],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Тарусская улица, дом 14","AdmArea":"Юго-Западный административный округ","District":"район Ясенево","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"498ac68a-1827-4fa7-836f-9c2db842884a","AmountOfPlaces":48,"global_id":1712816}},"type":"Feature"},{"geometry":{"coordinates":[37.453118,55.683625],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Наташи Ковшовой, дом 6","AdmArea":"Западный административный округ","District":"район Очаково-Матвеевское","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"63a2f335-3add-4105-b125-f6a77f64b0a4","AmountOfPlaces":18,"global_id":1712820}},"type":"Feature"},{"geometry":{"coordinates":[37.29238863,55.61128083],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Аэрофлотская улица, владение 8А, строение 1","AdmArea":"Западный административный округ","District":"район Внуково","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"73c16507-cc5a-45f3-8b20-39d37e66986e","AmountOfPlaces":10,"global_id":1712821}},"type":"Feature"},{"geometry":{"coordinates":[37.36525708,55.6416001],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Новопеределкинская улица, дом 14","AdmArea":"Западный административный округ","District":"район Ново-Переделкино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"9a7f09b6-fc89-4a31-86ca-51c589e58e28","AmountOfPlaces":14,"global_id":1712823}},"type":"Feature"},{"geometry":{"coordinates":[37.41370248,55.74007444],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Ярцевская улица, дом 21, корпус 1","AdmArea":"Западный административный округ","District":"район Кунцево","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"ebc52a1d-6924-4db5-b105-8d5ecfe2912a","AmountOfPlaces":74,"global_id":1712824}},"type":"Feature"},{"geometry":{"coordinates":[37.42264666,55.85462287],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Туристская улица, дом 16, корпус 2","AdmArea":"Северо-Западный административный округ","District":"район Северное Тушино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"8658cb18-121f-49af-b0f8-6631618e737c","AmountOfPlaces":18,"global_id":1712827}},"type":"Feature"},{"geometry":{"coordinates":[37.5623485075056,55.7645071004225],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"улица 1905 Года, дом 4, строение 2","AdmArea":"Центральный административный округ","District":"Пресненский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"e348cd14-f8eb-4d77-828f-821282310152","AmountOfPlaces":38,"global_id":1712830}},"type":"Feature"},{"geometry":{"coordinates":[37.606811,55.715145],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Шаболовка, дом 44","AdmArea":"Южный административный округ","District":"Донской район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"закрыто"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"16933193-b046-43fc-9f6b-099f44c3bfdf","AmountOfPlaces":26,"global_id":1712832}},"type":"Feature"},{"geometry":{"coordinates":[37.573276,55.818139],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Дмитровское шоссе, дом 13, корпус 1","AdmArea":"Северный административный округ","District":"Тимирязевский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"104cdf2a-a2f2-4bcb-bfb0-5f47b81058df","AmountOfPlaces":30,"global_id":14024256}},"type":"Feature"},{"geometry":{"coordinates":[37.706775,55.866627],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Ярославское шоссе, дом 114","AdmArea":"Северо-Восточный административный округ","District":"Ярославский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"9db2a062-7a80-4292-8ae2-27881cfc45d2","AmountOfPlaces":10,"global_id":14024257}},"type":"Feature"},{"geometry":{"coordinates":[37.40712026,55.80700605],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Маршала Катукова, дом 18","AdmArea":"Северо-Западный административный округ","District":"район Строгино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"520aae42-f037-48a4-8a1c-c7f8cdf2f606","AmountOfPlaces":88,"global_id":14024258}},"type":"Feature"},{"geometry":{"coordinates":[37.576555,55.760094],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Красная Пресня, дом 1, строение 2","AdmArea":"Центральный административный округ","District":"Пресненский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"7e627293-58e7-438e-b3bc-ef125081de8b","AmountOfPlaces":14,"global_id":14024262}},"type":"Feature"},{"geometry":{"coordinates":[37.61340492,55.79265498],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Октябрьская улица, дом 42","AdmArea":"Северо-Восточный административный округ","District":"район Марьина Роща","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"20d304d1-cb38-4391-a241-4d9e6a378be3","AmountOfPlaces":30,"global_id":14024269}},"type":"Feature"},{"geometry":{"coordinates":[37.50652393,55.67635654],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, проспект Вернадского, дом 39","AdmArea":"Западный административный округ","District":"район Проспект Вернадского","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"3b0a139e-6130-47a4-8970-94ec77e194b2","AmountOfPlaces":10,"global_id":14024274}},"type":"Feature"},{"geometry":{"coordinates":[37.456639,55.81],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Авиационная улица, дом 68","AdmArea":"Северо-Западный административный округ","District":"район Щукино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"cbc1ef94-55d0-4054-a15f-4243d28e48b9","AmountOfPlaces":58,"global_id":14024275}},"type":"Feature"},{"geometry":{"coordinates":[37.4678399,55.77568334],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Саляма Адиля, дом 4","AdmArea":"Северо-Западный административный округ","District":"район Хорошёво-Мнёвники","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"112ef936-df3d-4f67-be96-e8011fc0855c","AmountOfPlaces":14,"global_id":14024276}},"type":"Feature"},{"geometry":{"coordinates":[37.57228259,55.54171825],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Синельниковская улица, дом 47","AdmArea":"Юго-Западный административный округ","District":"район Южное Бутово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"ad8cf451-9c3b-4118-bd36-ae72bad62937","AmountOfPlaces":10,"global_id":14024283}},"type":"Feature"},{"geometry":{"coordinates":[37.53018702351509,55.661361127784176],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Академика Челомея, дом 8, корпус 1","AdmArea":"Юго-Западный административный округ","District":"Обручевский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"e2c44326-756f-4b20-9969-367e83e5f8f7","AmountOfPlaces":14,"global_id":14024284}},"type":"Feature"},{"geometry":{"coordinates":[37.581145678361032,55.749025986027007],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, 2-й Николощеповский переулок, дом 8","AdmArea":"Центральный административный округ","District":"район Арбат","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"221c6823-3da2-4640-ac0c-94ac96ea778b","AmountOfPlaces":10,"global_id":38383285}},"type":"Feature"},{"geometry":{"coordinates":[37.680450081825256,55.768824427974138],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Старокирочный переулок, дом 5, строение 1","AdmArea":"Центральный административный округ","District":"Басманный район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"67b7d999-5d0e-4ce8-8358-55ecf12b74c3","AmountOfPlaces":70,"global_id":140185963}},"type":"Feature"},{"geometry":{"coordinates":[37.53738,55.803413],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Красноармейская улица, дом 36, строение 2","AdmArea":"Северный административный округ","District":"район Аэропорт","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"c6faccde-ab3f-432b-bc93-979b506531fc","AmountOfPlaces":30,"global_id":140186072}},"type":"Feature"},{"geometry":{"coordinates":[37.629655,55.817653],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Цандера, дом 5, строение 1","AdmArea":"Северо-Восточный административный округ","District":"Останкинский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"2895dea1-638c-4611-9c5f-173638a75b21","AmountOfPlaces":22,"global_id":140186155}},"type":"Feature"},{"geometry":{"coordinates":[37.58614,55.864965],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Алтуфьевское шоссе, дом 30","AdmArea":"Северо-Восточный административный округ","District":"район Отрадное","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"9bb1ba5e-66cb-42ce-a6a1-9d4d8323e5ea","AmountOfPlaces":14,"global_id":140186234}},"type":"Feature"},{"geometry":{"coordinates":[37.485861,55.629094],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Тёплый Стан, дом 10","AdmArea":"Юго-Западный административный округ","District":"район Тёплый Стан","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"b08e09bb-9625-4ba1-80cd-9169b01e4c44","AmountOfPlaces":18,"global_id":140186320}},"type":"Feature"},{"geometry":{"coordinates":[37.524586,55.722033],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Мосфильмовская улица, дом 16","AdmArea":"Западный административный округ","District":"район Раменки","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"51002ce8-12e6-462a-a5da-ae00c158c00c","AmountOfPlaces":18,"global_id":170683417}},"type":"Feature"},{"geometry":{"coordinates":[37.495587,55.693937],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Раменки, дом 3","AdmArea":"Западный административный округ","District":"район Раменки","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"6733728d-c49b-4b49-aa89-b8509f66f143","AmountOfPlaces":30,"global_id":170683418}},"type":"Feature"},{"geometry":{"coordinates":[37.66212,55.582843],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Михневская улица, владение 9, строение 1","AdmArea":"Южный административный округ","District":"район Бирюлёво Восточное","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"02c0745b-9bed-4402-92ee-95e211e96fbc","AmountOfPlaces":18,"global_id":171669802}},"type":"Feature"},{"geometry":{"coordinates":[37.546402854452857,55.499891584820951],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"Школьная улица, дом 36","AdmArea":"Новомосковский административный округ","District":"поселение Щербинка","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"1a5fe721-b609-465a-9e5b-90e9a74f0337","AmountOfPlaces":34,"global_id":338008076}},"type":"Feature"},{"geometry":{"coordinates":[37.796442695241254,55.715598235590726],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Академика Скрябина, дом 4","AdmArea":"Юго-Восточный административный округ","District":"Рязанский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"0b170920-754c-473e-a413-b056f070e9ea","AmountOfPlaces":14,"global_id":338008104}},"type":"Feature"},{"geometry":{"coordinates":[37.603627509382655,55.596696126310214],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Варшавское шоссе, владение 135","AdmArea":"Южный административный округ","District":"район Чертаново Южное","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"7b1ee6cd-71f0-41c1-8eaa-180c4e6a37f6","AmountOfPlaces":18,"global_id":338008114}},"type":"Feature"},{"geometry":{"coordinates":[37.515391894218553,55.659944737496794],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Обручева, дом 11","AdmArea":"Юго-Западный административный округ","District":"Обручевский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"059f0006-a4a0-4d37-bc2b-52ec1d6b7ba9","AmountOfPlaces":18,"global_id":338008120}},"type":"Feature"},{"geometry":{"coordinates":[37.525132790232036,55.643645387896612],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Профсоюзная улица, дом 102А","AdmArea":"Юго-Западный административный округ","District":"район Коньково","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"35fe6e1c-a29f-4765-a51a-cb02799552f1","AmountOfPlaces":18,"global_id":338008126}},"type":"Feature"},{"geometry":{"coordinates":[37.483403472683086,55.738139872828576],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Олеко Дундича, дом 29","AdmArea":"Западный административный округ","District":"район Фили-Давыдково","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"e6693c7e-6b92-4bc9-a6c5-10037f59d4fe","AmountOfPlaces":10,"global_id":338008136}},"type":"Feature"},{"geometry":{"coordinates":[37.423685694478664,55.848418445301832],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Туристская улица, дом 6, строение 1","AdmArea":"Северо-Западный административный округ","District":"район Южное Тушино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"16d78ae4-6ced-477d-adff-64efe6c49ed6","AmountOfPlaces":10,"global_id":338008143}},"type":"Feature"},{"geometry":{"coordinates":[37.584166887208568,55.504298562288781],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Маршала Савицкого, дом 12","AdmArea":"Юго-Западный административный округ","District":"район Южное Бутово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"32f20339-4a4d-4bdf-8bff-7908d59a79b2","AmountOfPlaces":38,"global_id":435081061}},"type":"Feature"},{"geometry":{"coordinates":[37.858627894418511,55.7369123530041],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Новокосинская улица, дом 14, корпус 1","AdmArea":"Восточный административный округ","District":"район Новокосино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"d222170f-90d9-4cb2-8001-762805652fbf","AmountOfPlaces":54,"global_id":435081062}},"type":"Feature"},{"geometry":{"coordinates":[37.594642537410934,55.690501070994955],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Шверника, дом 19, корпус 1","AdmArea":"Юго-Западный административный округ","District":"Академический район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"9196cf94-8702-4574-8b01-2575894bc84c","AmountOfPlaces":12,"global_id":435081063}},"type":"Feature"},{"geometry":{"coordinates":[37.307672579194268,55.483390928160219],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, город Троицк, Октябрьский проспект, дом 20","AdmArea":"Троицкий административный округ","District":"поселение Троицк","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-19:00"},{"DayOfWeek":"суббота","Hours":"08:00-19:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-19:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"c0863fc5-d308-424f-9e34-6ee66be911e5","AmountOfPlaces":10,"global_id":626075848}},"type":"Feature"},{"geometry":{"coordinates":[37.436349301486331,55.827067128643058],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, проезд Стратонавтов, дом 9, корпус 2","AdmArea":"Северо-Западный административный округ","District":"район Покровское-Стрешнево","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"e79941f2-b401-448b-b7bc-24aee3bb6e4d","AmountOfPlaces":38,"global_id":626075857}},"type":"Feature"},{"geometry":{"coordinates":[37.832695653746178,55.7557214080091],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Молостовых, дом 13, корпус 1","AdmArea":"Восточный административный округ","District":"район Ивановское","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"87c86ddd-d381-445c-b1f9-7099a5b2f145","AmountOfPlaces":10,"global_id":640478844}},"type":"Feature"},{"geometry":{"coordinates":[37.612090144253266,55.673420316146277],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Электролитный проезд, владение 16А","AdmArea":"Южный административный округ","District":"Нагорный район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"0239ce88-242b-474f-a4b7-02b7951f214f","AmountOfPlaces":14,"global_id":640478871}},"type":"Feature"},{"geometry":{"coordinates":[37.65109966080783,55.74216684314613],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, 1-й Гончарный переулок, дом 4, строение 5","AdmArea":"Центральный административный округ","District":"Таганский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"закрыто"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"041de597-9057-43da-a24c-c712308a7879","AmountOfPlaces":12,"global_id":860313905}},"type":"Feature"},{"geometry":{"coordinates":[37.602569514202521,55.76365214341687],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Тверской бульвар, дом 27, строение 1","AdmArea":"Центральный административный округ","District":"Пресненский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"закрыто"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"c867afca-ad95-4962-85e4-b69a04f4a512","AmountOfPlaces":10,"global_id":860313906}},"type":"Feature"},{"geometry":{"coordinates":[37.647185835891968,55.834587787971131],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Сельскохозяйственная улица, дом 8","AdmArea":"Северо-Восточный административный округ","District":"район Ростокино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"cc56dcfc-2ca9-45c4-ad58-a35080052f9b","AmountOfPlaces":14,"global_id":860313907}},"type":"Feature"},{"geometry":{"coordinates":[37.591206,55.887534],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Алтуфьевское шоссе, дом 70, корпус 1","AdmArea":"Северо-Восточный административный округ","District":"район Бибирево","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"c7461608-7a56-4b60-8d76-c3cb0392efe2","AmountOfPlaces":22,"global_id":860313908}},"type":"Feature"},{"geometry":{"coordinates":[37.591858,55.834882],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Ботаническая улица, дом 29, корпус 3","AdmArea":"Северо-Восточный административный округ","District":"район Марфино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"закрыто"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"a5ec9d8c-1086-4766-b10d-6b8c9e8132c8","AmountOfPlaces":26,"global_id":860313909}},"type":"Feature"},{"geometry":{"coordinates":[37.657495,55.887372],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Широкая улица, дом 12А","AdmArea":"Северо-Восточный административный округ","District":"район Северное Медведково","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"58c0ad3c-3987-4488-8bee-4fdf0be54b09","AmountOfPlaces":14,"global_id":860313910}},"type":"Feature"},{"geometry":{"coordinates":[37.824988,55.803071],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Сиреневый бульвар, дом 60","AdmArea":"Восточный административный округ","District":"район Восточное Измайлово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"a151fee3-400f-4815-af3b-8440f93ddf81","AmountOfPlaces":14,"global_id":860313911}},"type":"Feature"},{"geometry":{"coordinates":[37.826784,55.778396],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Челябинская улица, дом 15","AdmArea":"Восточный административный округ","District":"район Ивановское","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"6bbbe6f4-2433-4225-9389-13d0b89a09a1","AmountOfPlaces":16,"global_id":860313912}},"type":"Feature"},{"geometry":{"coordinates":[37.775586,55.745962],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Перовская улица, дом 32","AdmArea":"Восточный административный округ","District":"район Перово","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"d6b0eec7-b887-4de4-940c-bbbd7731a071","AmountOfPlaces":28,"global_id":860313913}},"type":"Feature"},{"geometry":{"coordinates":[37.812614,55.716651],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Рязанский проспект, дом 99, корпус 6","AdmArea":"Юго-Восточный административный округ","District":"район Выхино-Жулебино","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"d8cb7746-749f-442c-a105-d64f2297c298","AmountOfPlaces":18,"global_id":860313914}},"type":"Feature"},{"geometry":{"coordinates":[37.772323,55.730514],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Зарайская улица, дом 35","AdmArea":"Юго-Восточный административный округ","District":"Рязанский район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"3450614c-4980-420b-aac1-3f0e612b8709","AmountOfPlaces":10,"global_id":860313915}},"type":"Feature"},{"geometry":{"coordinates":[37.663405,55.731024],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, 3-й Крутицкий переулок, дом 13","AdmArea":"Юго-Восточный административный округ","District":"Южнопортовый район","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"2df41868-dff9-4d40-9097-54339a89df61","AmountOfPlaces":8,"global_id":860313916}},"type":"Feature"},{"geometry":{"coordinates":[37.738975,55.699084],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, улица Юных Ленинцев, дом 10/15, корпус 1","AdmArea":"Юго-Восточный административный округ","District":"район Текстильщики","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"45e28d37-22d6-4090-b1ec-c2acbb875d2f","AmountOfPlaces":14,"global_id":860313917}},"type":"Feature"},{"geometry":{"coordinates":[37.407299,55.754956],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, Рублёвское шоссе, дом 48/1","AdmArea":"Западный административный округ","District":"район Крылатское","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"5f22f91b-82a7-4850-8548-3d62b20fdd64","AmountOfPlaces":14,"global_id":860313918}},"type":"Feature"},{"geometry":{"coordinates":[37.172412,55.979877],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, город Зеленоград, Привокзальная площадь, дом 1, строение 1","AdmArea":"Зеленоградский административный округ","District":"район Крюково","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"d37ed96a-13b7-4a57-8d61-38e06480b694","AmountOfPlaces":14,"global_id":860313919}},"type":"Feature"},{"geometry":{"coordinates":[37.477446,55.570202],"type":"Point"},"properties":{"DatasetId":620,"VersionNumber":6,"ReleaseNumber":2,"RowId":null,"Attributes":{"Address":"город Москва, поселение Сосенское, посёлок Коммунарка, улица Александры Монаховой, домовладение 21, строение 2","AdmArea":"Новомосковский административный округ","District":"поселение Сосенское","StatusFairs":"открыто","PeriodOfPlacement":"20.04.2018-01.07.2018","WorkingHours":[{"DayOfWeek":"пятница","Hours":"08:00-20:00"},{"DayOfWeek":"суббота","Hours":"08:00-20:00"},{"DayOfWeek":"воскресенье","Hours":"08:00-20:00"}],"GoodsCategory":["сельскохозяйственная продукция"],"SituationalPlan":"1fbb55ca-ee3f-4099-a8ed-d9591bffccd8","AmountOfPlaces":14,"global_id":860954122}},"type":"Feature"}],"type":"FeatureCollection"}
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [37.76671275, 55.747369099578044],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Зелёный проспект, дом 2",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Перово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "4dd76c2b-b205-45d4-935c-f849d3a17dbc",
+          "AmountOfPlaces": 46,
+          "global_id": 1712710
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.683154, 55.7876649999999],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, 2-я Сокольническая улица, дом 3",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Сокольники",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "fe4282eb-c4df-4d6b-85ea-861553434a6a",
+          "AmountOfPlaces": 22,
+          "global_id": 1712711
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.76463585, 55.69987519],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Юных Ленинцев, дом 52",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Кузьминки",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "6e5ad50c-8bb8-4b6c-bc78-ee1fb4b51811",
+          "AmountOfPlaces": 46,
+          "global_id": 1712713
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.760117438648692, 55.664974816143527],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Перерва, дом 51",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Марьино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "7d56585c-ae50-4793-a34a-adca40d95e4f",
+          "AmountOfPlaces": 28,
+          "global_id": 1712717
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.650936, 55.577546], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Булатниковская улица, дом 9, корпус 1",
+          "AdmArea": "Южный административный округ",
+          "District": "район Бирюлёво Западное",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "4db5134c-b94e-4230-bc68-9eb02160bde2",
+          "AmountOfPlaces": 18,
+          "global_id": 1712726
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.76456213, 55.63482987],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Братеевская улица, дом 16, корпус 1",
+          "AdmArea": "Южный административный округ",
+          "District": "район Братеево",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "c9e55232-d871-44d3-a290-7b82ddf40b7e",
+          "AmountOfPlaces": 38,
+          "global_id": 1712727
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.7378402, 55.62170488], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Шипиловская улица, владение 50А",
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "b125874d-ae83-433f-8d09-fddf92fcc0e9",
+          "AmountOfPlaces": 26,
+          "global_id": 1712728
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.66895508, 55.6377977], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Кантемировская улица, дом 14",
+          "AdmArea": "Южный административный округ",
+          "District": "район Москворечье-Сабурово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "263442f7-7932-4ae2-baef-3f4856b3fab1",
+          "AmountOfPlaces": 18,
+          "global_id": 1712729
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.67723772, 55.67587645],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Новинки, дом 31",
+          "AdmArea": "Южный административный округ",
+          "District": "район Нагатинский Затон",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "3fe76959-4145-44c5-befb-ecabfecf891c",
+          "AmountOfPlaces": 38,
+          "global_id": 1712731
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.710202076160762, 55.608644546042619],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Домодедовская улица, дом 15",
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Южное",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "55829b19-9d85-4b43-907f-3616669a16a8",
+          "AmountOfPlaces": 28,
+          "global_id": 1712733
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.63321605448894, 55.771684748377794],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Панкратьевский переулок, дом 2",
+          "AdmArea": "Центральный административный округ",
+          "District": "Красносельский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "c7ed2073-3ff0-4aa1-9d90-0642a8196f67",
+          "AmountOfPlaces": 28,
+          "global_id": 1712735
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.58216538, 55.72819421],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Комсомольский проспект, дом 22",
+          "AdmArea": "Центральный административный округ",
+          "District": "район Хамовники",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "7bc5b32f-ab81-4355-9605-c0d46b17d167",
+          "AmountOfPlaces": 70,
+          "global_id": 1712738
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.518084, 55.824106], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address":
+            "город Москва, улица Зои и Александра Космодемьянских, дом 23",
+          "AdmArea": "Северный административный округ",
+          "District": "район Коптево",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "abfccbf3-0d33-41bd-9fe9-6f077f5e3165",
+          "AmountOfPlaces": 30,
+          "global_id": 1712745
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.65465872, 55.81118698],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Павла Корчагина, дом 2",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "Алексеевский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "a05813e4-eb04-4c09-b3bc-c111c7ed9d87",
+          "AmountOfPlaces": 18,
+          "global_id": 1712750
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.58237442, 55.87950009],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Инженерная улица, дом 1",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "Алтуфьевский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "63a5f411-89aa-42ff-b29f-53b3688d4166",
+          "AmountOfPlaces": 14,
+          "global_id": 1712751
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.58093298, 55.82779236],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Милашенкова, дом 14",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "Бутырский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "738104bb-a6e5-4392-a786-b7d9ab298f26",
+          "AmountOfPlaces": 26,
+          "global_id": 1712753
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.640192, 55.874718], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Полярная улица, дом 10",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Южное Медведково",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "a02f1065-6e67-4879-83ea-f394a798ca34",
+          "AmountOfPlaces": 12,
+          "global_id": 1712760
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.80638, 55.789137], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Измайловский проспект, дом 91А",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Восточное Измайлово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "65c2a235-cab6-4800-a9f5-ec7343fa4913",
+          "AmountOfPlaces": 12,
+          "global_id": 1712762
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.81707846, 55.82377902],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Уссурийская улица, дом 7",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Гольяново",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "9c32cf83-0431-46ab-8b5b-5d03fe744ec1",
+          "AmountOfPlaces": 30,
+          "global_id": 1712764
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.8256508, 55.8226078], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Хабаровская улица, дом 12/23",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Гольяново",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "96c33822-49aa-4fb2-89ae-3d62e77378ab",
+          "AmountOfPlaces": 46,
+          "global_id": 1712765
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.776035, 55.792358], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Измайловская площадь, дом 1",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Измайлово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "710d7641-ccfb-4571-b79c-4678e0bc5fc9",
+          "AmountOfPlaces": 58,
+          "global_id": 1712768
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.451503, 55.723454], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Ватутина, дом 18, корпус 2",
+          "AdmArea": "Западный административный округ",
+          "District": "район Фили-Давыдково",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "70cfd92b-64d6-4466-8510-39cd7aa03c24",
+          "AmountOfPlaces": 18,
+          "global_id": 1712771
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.47263594, 55.78450276],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Маршала Тухачевского, дом 32",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Хорошёво-Мнёвники",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "5f4f8cb1-e20d-4d80-9ec5-5246b5575703",
+          "AmountOfPlaces": 50,
+          "global_id": 1712774
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.188178, 55.994874], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, город Зеленоград, корпус 1104",
+          "AdmArea": "Зеленоградский административный округ",
+          "District": "район Силино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "e9b5d3a7-a3b6-40be-85ad-52725a7f8562",
+          "AmountOfPlaces": 14,
+          "global_id": 1712778
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.153738, 55.977912], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, город Зеленоград, корпус 1550",
+          "AdmArea": "Зеленоградский административный округ",
+          "District": "район Крюково",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "de1edcac-574a-42f8-a86a-a963ea9059a3",
+          "AmountOfPlaces": 18,
+          "global_id": 1712779
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.352192, 55.59806], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, город Московский, 1-й микрорайон, дом 39",
+          "AdmArea": "Новомосковский административный округ",
+          "District": "поселение Московский",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "c06cab78-9a2d-4faa-a0f6-d0c429d3b28b",
+          "AmountOfPlaces": 22,
+          "global_id": 1712782
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.629033543790172, 55.781324990860995],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Щепкина, дом 47, строение 1",
+          "AdmArea": "Центральный административный округ",
+          "District": "Мещанский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "закрыто" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "7940a75f-e17f-4f22-bd8e-78768aea83f2",
+          "AmountOfPlaces": 70,
+          "global_id": 1712785
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.358078717462163, 55.844263516212955],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Дубравная улица, дом 35",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Митино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "6823b8f2-ae82-418f-8027-88878760484d",
+          "AmountOfPlaces": 48,
+          "global_id": 1712786
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.534548510672415, 55.675827820355337],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Гарибальди, дом 4А",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "Ломоносовский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "9271e9b7-ff61-4d0b-b501-a36e4bcce6d2",
+          "AmountOfPlaces": 10,
+          "global_id": 1712789
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.5325267, 55.54128473], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Южнобутовская улица, дом 50, корпус 4",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Южное Бутово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "0dcd1175-bf8b-4f44-9bab-db3e9320e4b8",
+          "AmountOfPlaces": 38,
+          "global_id": 1712790
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.542716, 55.470888], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address":
+            "город Москва, поселение Рязановское, посёлок Знамя Октября, микрорайон \"Родники\", дом 4",
+          "AdmArea": "Новомосковский административный округ",
+          "District": "поселение Рязановское",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "f7084685-2a88-48a2-8797-55c0c6b7ccbf",
+          "AmountOfPlaces": 18,
+          "global_id": 1712791
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.657814760251092, 55.632538511271534],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Пролетарский проспект, дом 24",
+          "AdmArea": "Южный административный округ",
+          "District": "район Царицыно",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "4ad264f0-a234-4176-893b-db30ad74ab35",
+          "AmountOfPlaces": 18,
+          "global_id": 1712794
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.59597167, 55.63669607],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, микрорайон Северное Чертаново, корпус 806",
+          "AdmArea": "Южный административный округ",
+          "District": "район Чертаново Северное",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "62380ab3-2bba-4be8-9b37-85a86efd331f",
+          "AmountOfPlaces": 10,
+          "global_id": 1712795
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.647526488119915, 55.85196320727335],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Снежная улица, дом 18",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Свиблово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "b89a2241-6185-4766-b73b-bdb2ac38815c",
+          "AmountOfPlaces": 10,
+          "global_id": 1712799
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.855096, 55.686497], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Авиаконструктора Миля, дом 7",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Выхино-Жулебино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "4c33b33f-d978-4fe8-934b-17886062bab5",
+          "AmountOfPlaces": 54,
+          "global_id": 1712800
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.727200473096147, 55.691785854442365],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Шоссейная улица, дом 4, корпус 1",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Печатники",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "b9c57a4b-981c-4e33-be8c-74ed05df7c55",
+          "AmountOfPlaces": 18,
+          "global_id": 1712802
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.596181801283052, 55.611473015263535],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Красного Маяка, дом 3",
+          "AdmArea": "Южный административный округ",
+          "District": "район Чертаново Центральное",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "37c2da03-533d-4c2e-a852-8b0f7f7d959a",
+          "AmountOfPlaces": 10,
+          "global_id": 1712806
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.594444878419026, 55.653059229028905],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Малая Юшуньская улица, дом 1, корпус 1",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Зюзино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "07f6d214-9b93-4c8a-a8dc-2df68a70d7cf",
+          "AmountOfPlaces": 68,
+          "global_id": 1712810
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.573914, 55.563421], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, бульвар Дмитрия Донского, дом 17",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Северное Бутово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "828211d2-096f-4c98-9559-0171ed101c50",
+          "AmountOfPlaces": 38,
+          "global_id": 1712812
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.52999096, 55.60645742],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Тарусская улица, дом 14",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Ясенево",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "498ac68a-1827-4fa7-836f-9c2db842884a",
+          "AmountOfPlaces": 48,
+          "global_id": 1712816
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.453118, 55.683625], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Наташи Ковшовой, дом 6",
+          "AdmArea": "Западный административный округ",
+          "District": "район Очаково-Матвеевское",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "63a2f335-3add-4105-b125-f6a77f64b0a4",
+          "AmountOfPlaces": 18,
+          "global_id": 1712820
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.29238863, 55.61128083],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address":
+            "город Москва, Аэрофлотская улица, владение 8А, строение 1",
+          "AdmArea": "Западный административный округ",
+          "District": "район Внуково",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "73c16507-cc5a-45f3-8b20-39d37e66986e",
+          "AmountOfPlaces": 10,
+          "global_id": 1712821
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.36525708, 55.6416001], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Новопеределкинская улица, дом 14",
+          "AdmArea": "Западный административный округ",
+          "District": "район Ново-Переделкино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "9a7f09b6-fc89-4a31-86ca-51c589e58e28",
+          "AmountOfPlaces": 14,
+          "global_id": 1712823
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.41370248, 55.74007444],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Ярцевская улица, дом 21, корпус 1",
+          "AdmArea": "Западный административный округ",
+          "District": "район Кунцево",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "ebc52a1d-6924-4db5-b105-8d5ecfe2912a",
+          "AmountOfPlaces": 74,
+          "global_id": 1712824
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.42264666, 55.85462287],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Туристская улица, дом 16, корпус 2",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Северное Тушино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "8658cb18-121f-49af-b0f8-6631618e737c",
+          "AmountOfPlaces": 18,
+          "global_id": 1712827
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.5623485075056, 55.7645071004225],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "улица 1905 Года, дом 4, строение 2",
+          "AdmArea": "Центральный административный округ",
+          "District": "Пресненский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "e348cd14-f8eb-4d77-828f-821282310152",
+          "AmountOfPlaces": 38,
+          "global_id": 1712830
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.606811, 55.715145], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Шаболовка, дом 44",
+          "AdmArea": "Южный административный округ",
+          "District": "Донской район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "закрыто" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "16933193-b046-43fc-9f6b-099f44c3bfdf",
+          "AmountOfPlaces": 26,
+          "global_id": 1712832
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.573276, 55.818139], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Дмитровское шоссе, дом 13, корпус 1",
+          "AdmArea": "Северный административный округ",
+          "District": "Тимирязевский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "104cdf2a-a2f2-4bcb-bfb0-5f47b81058df",
+          "AmountOfPlaces": 30,
+          "global_id": 14024256
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.706775, 55.866627], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Ярославское шоссе, дом 114",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "Ярославский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "9db2a062-7a80-4292-8ae2-27881cfc45d2",
+          "AmountOfPlaces": 10,
+          "global_id": 14024257
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.40712026, 55.80700605],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Маршала Катукова, дом 18",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Строгино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "520aae42-f037-48a4-8a1c-c7f8cdf2f606",
+          "AmountOfPlaces": 88,
+          "global_id": 14024258
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.576555, 55.760094], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Красная Пресня, дом 1, строение 2",
+          "AdmArea": "Центральный административный округ",
+          "District": "Пресненский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "7e627293-58e7-438e-b3bc-ef125081de8b",
+          "AmountOfPlaces": 14,
+          "global_id": 14024262
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.61340492, 55.79265498],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Октябрьская улица, дом 42",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Марьина Роща",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "20d304d1-cb38-4391-a241-4d9e6a378be3",
+          "AmountOfPlaces": 30,
+          "global_id": 14024269
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.50652393, 55.67635654],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, проспект Вернадского, дом 39",
+          "AdmArea": "Западный административный округ",
+          "District": "район Проспект Вернадского",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "3b0a139e-6130-47a4-8970-94ec77e194b2",
+          "AmountOfPlaces": 10,
+          "global_id": 14024274
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.456639, 55.81], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Авиационная улица, дом 68",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Щукино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "cbc1ef94-55d0-4054-a15f-4243d28e48b9",
+          "AmountOfPlaces": 58,
+          "global_id": 14024275
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.4678399, 55.77568334], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Саляма Адиля, дом 4",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Хорошёво-Мнёвники",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "112ef936-df3d-4f67-be96-e8011fc0855c",
+          "AmountOfPlaces": 14,
+          "global_id": 14024276
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.57228259, 55.54171825],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Синельниковская улица, дом 47",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Южное Бутово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "ad8cf451-9c3b-4118-bd36-ae72bad62937",
+          "AmountOfPlaces": 10,
+          "global_id": 14024283
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.53018702351509, 55.661361127784176],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Академика Челомея, дом 8, корпус 1",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "Обручевский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "e2c44326-756f-4b20-9969-367e83e5f8f7",
+          "AmountOfPlaces": 14,
+          "global_id": 14024284
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.581145678361032, 55.749025986027007],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, 2-й Николощеповский переулок, дом 8",
+          "AdmArea": "Центральный административный округ",
+          "District": "район Арбат",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "221c6823-3da2-4640-ac0c-94ac96ea778b",
+          "AmountOfPlaces": 10,
+          "global_id": 38383285
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.680450081825256, 55.768824427974138],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Старокирочный переулок, дом 5, строение 1",
+          "AdmArea": "Центральный административный округ",
+          "District": "Басманный район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "67b7d999-5d0e-4ce8-8358-55ecf12b74c3",
+          "AmountOfPlaces": 70,
+          "global_id": 140185963
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.53738, 55.803413], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Красноармейская улица, дом 36, строение 2",
+          "AdmArea": "Северный административный округ",
+          "District": "район Аэропорт",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "c6faccde-ab3f-432b-bc93-979b506531fc",
+          "AmountOfPlaces": 30,
+          "global_id": 140186072
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.629655, 55.817653], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Цандера, дом 5, строение 1",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "Останкинский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "2895dea1-638c-4611-9c5f-173638a75b21",
+          "AmountOfPlaces": 22,
+          "global_id": 140186155
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.58614, 55.864965], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Алтуфьевское шоссе, дом 30",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Отрадное",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "9bb1ba5e-66cb-42ce-a6a1-9d4d8323e5ea",
+          "AmountOfPlaces": 14,
+          "global_id": 140186234
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.485861, 55.629094], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Тёплый Стан, дом 10",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Тёплый Стан",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "b08e09bb-9625-4ba1-80cd-9169b01e4c44",
+          "AmountOfPlaces": 18,
+          "global_id": 140186320
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.524586, 55.722033], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Мосфильмовская улица, дом 16",
+          "AdmArea": "Западный административный округ",
+          "District": "район Раменки",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "51002ce8-12e6-462a-a5da-ae00c158c00c",
+          "AmountOfPlaces": 18,
+          "global_id": 170683417
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.495587, 55.693937], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Раменки, дом 3",
+          "AdmArea": "Западный административный округ",
+          "District": "район Раменки",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "6733728d-c49b-4b49-aa89-b8509f66f143",
+          "AmountOfPlaces": 30,
+          "global_id": 170683418
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.66212, 55.582843], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Михневская улица, владение 9, строение 1",
+          "AdmArea": "Южный административный округ",
+          "District": "район Бирюлёво Восточное",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "02c0745b-9bed-4402-92ee-95e211e96fbc",
+          "AmountOfPlaces": 18,
+          "global_id": 171669802
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.546402854452857, 55.499891584820951],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "Школьная улица, дом 36",
+          "AdmArea": "Новомосковский административный округ",
+          "District": "поселение Щербинка",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "1a5fe721-b609-465a-9e5b-90e9a74f0337",
+          "AmountOfPlaces": 34,
+          "global_id": 338008076
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.796442695241254, 55.715598235590726],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Академика Скрябина, дом 4",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "Рязанский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "0b170920-754c-473e-a413-b056f070e9ea",
+          "AmountOfPlaces": 14,
+          "global_id": 338008104
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.603627509382655, 55.596696126310214],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Варшавское шоссе, владение 135",
+          "AdmArea": "Южный административный округ",
+          "District": "район Чертаново Южное",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "7b1ee6cd-71f0-41c1-8eaa-180c4e6a37f6",
+          "AmountOfPlaces": 18,
+          "global_id": 338008114
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.515391894218553, 55.659944737496794],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Обручева, дом 11",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "Обручевский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "059f0006-a4a0-4d37-bc2b-52ec1d6b7ba9",
+          "AmountOfPlaces": 18,
+          "global_id": 338008120
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.525132790232036, 55.643645387896612],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Профсоюзная улица, дом 102А",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Коньково",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "35fe6e1c-a29f-4765-a51a-cb02799552f1",
+          "AmountOfPlaces": 18,
+          "global_id": 338008126
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.483403472683086, 55.738139872828576],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Олеко Дундича, дом 29",
+          "AdmArea": "Западный административный округ",
+          "District": "район Фили-Давыдково",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "e6693c7e-6b92-4bc9-a6c5-10037f59d4fe",
+          "AmountOfPlaces": 10,
+          "global_id": 338008136
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.423685694478664, 55.848418445301832],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Туристская улица, дом 6, строение 1",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Южное Тушино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "16d78ae4-6ced-477d-adff-64efe6c49ed6",
+          "AmountOfPlaces": 10,
+          "global_id": 338008143
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.584166887208568, 55.504298562288781],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Маршала Савицкого, дом 12",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Южное Бутово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "32f20339-4a4d-4bdf-8bff-7908d59a79b2",
+          "AmountOfPlaces": 38,
+          "global_id": 435081061
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.858627894418511, 55.7369123530041],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Новокосинская улица, дом 14, корпус 1",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Новокосино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "d222170f-90d9-4cb2-8001-762805652fbf",
+          "AmountOfPlaces": 54,
+          "global_id": 435081062
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.594642537410934, 55.690501070994955],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Шверника, дом 19, корпус 1",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "Академический район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "9196cf94-8702-4574-8b01-2575894bc84c",
+          "AmountOfPlaces": 12,
+          "global_id": 435081063
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.307672579194268, 55.483390928160219],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, город Троицк, Октябрьский проспект, дом 20",
+          "AdmArea": "Троицкий административный округ",
+          "District": "поселение Троицк",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-19:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-19:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-19:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "c0863fc5-d308-424f-9e34-6ee66be911e5",
+          "AmountOfPlaces": 10,
+          "global_id": 626075848
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.436349301486331, 55.827067128643058],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, проезд Стратонавтов, дом 9, корпус 2",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Покровское-Стрешнево",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "e79941f2-b401-448b-b7bc-24aee3bb6e4d",
+          "AmountOfPlaces": 38,
+          "global_id": 626075857
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.832695653746178, 55.7557214080091],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Молостовых, дом 13, корпус 1",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Ивановское",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "87c86ddd-d381-445c-b1f9-7099a5b2f145",
+          "AmountOfPlaces": 10,
+          "global_id": 640478844
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.612090144253266, 55.673420316146277],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Электролитный проезд, владение 16А",
+          "AdmArea": "Южный административный округ",
+          "District": "Нагорный район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "0239ce88-242b-474f-a4b7-02b7951f214f",
+          "AmountOfPlaces": 14,
+          "global_id": 640478871
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.65109966080783, 55.74216684314613],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, 1-й Гончарный переулок, дом 4, строение 5",
+          "AdmArea": "Центральный административный округ",
+          "District": "Таганский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "закрыто" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "041de597-9057-43da-a24c-c712308a7879",
+          "AmountOfPlaces": 12,
+          "global_id": 860313905
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.602569514202521, 55.76365214341687],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Тверской бульвар, дом 27, строение 1",
+          "AdmArea": "Центральный административный округ",
+          "District": "Пресненский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "закрыто" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "c867afca-ad95-4962-85e4-b69a04f4a512",
+          "AmountOfPlaces": 10,
+          "global_id": 860313906
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.647185835891968, 55.834587787971131],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Сельскохозяйственная улица, дом 8",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Ростокино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "cc56dcfc-2ca9-45c4-ad58-a35080052f9b",
+          "AmountOfPlaces": 14,
+          "global_id": 860313907
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.591206, 55.887534], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Алтуфьевское шоссе, дом 70, корпус 1",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Бибирево",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "c7461608-7a56-4b60-8d76-c3cb0392efe2",
+          "AmountOfPlaces": 22,
+          "global_id": 860313908
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.591858, 55.834882], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Ботаническая улица, дом 29, корпус 3",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Марфино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "закрыто" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "a5ec9d8c-1086-4766-b10d-6b8c9e8132c8",
+          "AmountOfPlaces": 26,
+          "global_id": 860313909
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.657495, 55.887372], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Широкая улица, дом 12А",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Северное Медведково",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "58c0ad3c-3987-4488-8bee-4fdf0be54b09",
+          "AmountOfPlaces": 14,
+          "global_id": 860313910
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.824988, 55.803071], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Сиреневый бульвар, дом 60",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Восточное Измайлово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "a151fee3-400f-4815-af3b-8440f93ddf81",
+          "AmountOfPlaces": 14,
+          "global_id": 860313911
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.826784, 55.778396], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Челябинская улица, дом 15",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Ивановское",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "6bbbe6f4-2433-4225-9389-13d0b89a09a1",
+          "AmountOfPlaces": 16,
+          "global_id": 860313912
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.775586, 55.745962], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Перовская улица, дом 32",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Перово",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "d6b0eec7-b887-4de4-940c-bbbd7731a071",
+          "AmountOfPlaces": 28,
+          "global_id": 860313913
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.812614, 55.716651], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Рязанский проспект, дом 99, корпус 6",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Выхино-Жулебино",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "d8cb7746-749f-442c-a105-d64f2297c298",
+          "AmountOfPlaces": 18,
+          "global_id": 860313914
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.772323, 55.730514], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Зарайская улица, дом 35",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "Рязанский район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "3450614c-4980-420b-aac1-3f0e612b8709",
+          "AmountOfPlaces": 10,
+          "global_id": 860313915
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.663405, 55.731024], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, 3-й Крутицкий переулок, дом 13",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "Южнопортовый район",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "2df41868-dff9-4d40-9097-54339a89df61",
+          "AmountOfPlaces": 8,
+          "global_id": 860313916
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.738975, 55.699084], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, улица Юных Ленинцев, дом 10/15, корпус 1",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Текстильщики",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "45e28d37-22d6-4090-b1ec-c2acbb875d2f",
+          "AmountOfPlaces": 14,
+          "global_id": 860313917
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.407299, 55.754956], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address": "город Москва, Рублёвское шоссе, дом 48/1",
+          "AdmArea": "Западный административный округ",
+          "District": "район Крылатское",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "5f22f91b-82a7-4850-8548-3d62b20fdd64",
+          "AmountOfPlaces": 14,
+          "global_id": 860313918
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.172412, 55.979877], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address":
+            "город Москва, город Зеленоград, Привокзальная площадь, дом 1, строение 1",
+          "AdmArea": "Зеленоградский административный округ",
+          "District": "район Крюково",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "d37ed96a-13b7-4a57-8d61-38e06480b694",
+          "AmountOfPlaces": 14,
+          "global_id": 860313919
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.477446, 55.570202], "type": "Point" },
+      "properties": {
+        "DatasetId": 620,
+        "VersionNumber": 6,
+        "ReleaseNumber": 2,
+        "RowId": null,
+        "Attributes": {
+          "Address":
+            "город Москва, поселение Сосенское, посёлок Коммунарка, улица Александры Монаховой, домовладение 21, строение 2",
+          "AdmArea": "Новомосковский административный округ",
+          "District": "поселение Сосенское",
+          "StatusFairs": "открыто",
+          "PeriodOfPlacement": "20.04.2018-01.07.2018",
+          "WorkingHours": [
+            { "DayOfWeek": "пятница", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "суббота", "Hours": "08:00-20:00" },
+            { "DayOfWeek": "воскресенье", "Hours": "08:00-20:00" }
+          ],
+          "GoodsCategory": ["сельскохозяйственная продукция"],
+          "SituationalPlan": "1fbb55ca-ee3f-4099-a8ed-d9591bffccd8",
+          "AmountOfPlaces": 14,
+          "global_id": 860954122
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

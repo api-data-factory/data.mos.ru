@@ -1,1 +1,1192 @@
-{"features":[{"geometry":{"coordinates":[[37.611125015985,55.734618994342]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Территориальный отдел психологической помощи населению в ЦАО.","FullName":"Территориальный отдел психологической помощи населению в Центральном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Территориальный отдел психологической помощи населению в ЦАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"119049","District":"район Якиманка","Address":"город Москва, улица Большая Якиманка, дом 38","Availability":[],"AdmArea":"Центральный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(499) 238-02-04"}],"ChiefName":"Первышева Елена Вячеславовна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991438}},"type":"Feature"},{"geometry":{"coordinates":[[37.420109106501,55.86086892493]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Территориальный отдел психологической помощи населению в СЗАО.","FullName":"Территориальный отдел психологической помощи населению в Северо-Западном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Территориальный отдел психологической помощи населению в СЗАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"123480","District":"район Северное Тушино","Address":"улица Вилиса Лациса, дом 25, корпус 1","Availability":[],"AdmArea":"Северо-Западный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(495) 944-45-04"}],"ChiefName":"Знакова Тамара Александровна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991538}},"type":"Feature"},{"geometry":{"coordinates":[[37.442856156958,55.720417568235]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Территориальный отдел психологической помощи населению в ЗАО.","FullName":"Территориальный отдел психологической помощи населению в Западном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Территориальный отдел психологической помощи населению в ЗАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"121357","District":"Можайский район","Address":"проезд Загорского, дом 3","Availability":[],"AdmArea":"Западный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(499) 726-53-96"}],"ChiefName":"Бискупская Елена Валентиновна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991546}},"type":"Feature"},{"geometry":{"coordinates":[[37.56209350597,55.821854105234]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"ГБУ «Кризисный центр помощи женщинам и детям»","FullName":"Государственное бюджетное учреждение города Москвы «Кризисный центр помощи женщинам и детям» Департамента социальной защиты населения города Москвы","ShortName":"ГБУ «Кризисный центр помощи женщинам и детям»","OrgInfo":[{"OGRN":"1067746275200","ChiefPosition":"директор","INN":"7713577509","KPP":"771301001","LegalAddress":"127422, город Москва, улица Дубки, дом 9А","FullName":"Государственное бюджетное учреждение города Москвы «Кризисный центр помощи женщинам и детям» Департамента социальной защиты населения города Москвы","ChiefName":"Завьялова Наталья Борисовна","ChiefPhone":[{"ChiefPhone":"(499) 977-17-05"}]}],"ObjectAddress":[{"PostalCode":"127422","District":"Тимирязевский район","Address":"город Москва, улица Дубки, дом 9А","Availability":[{"available_element":[{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"частично","Group_mgn":null},{"available_index":"есть","Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":"нет","Area_mgn":"пути движения и эвакуации","Element_mgn":"наличие лифта","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":"соответствует","Area_mgn":"пути движения и эвакуации","Element_mgn":"ширина полосы движения","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":null,"Area_mgn":"зона оказания услуги","Element_mgn":"места для инвалидов-колясочников в зале","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":null,"Area_mgn":"зона оказания услуги","Element_mgn":"обслуживание через окно/прилавок","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"частично","Group_mgn":null},{"available_index":null,"Area_mgn":"зона оказания услуги","Element_mgn":"ширина полосы движения (при обслуживании с перемещением)","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":null,"Area_mgn":"зона оказания услуги","Element_mgn":"места для инвалидов по слуху в зале","available_degree":"полностью","Group_mgn":"инвалиды по слуху"},{"available_index":"есть","Area_mgn":"пути движения и эвакуации","Element_mgn":"лестницы на пути движения","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":"есть","Area_mgn":"территория объекта","Element_mgn":"указатели направления движения","available_degree":"полностью","Group_mgn":"инвалиды по слуху"},{"available_index":"соответствует","Area_mgn":"зона оказания услуги","Element_mgn":"габариты зоны сидения (глубина)","available_degree":"полностью","Group_mgn":"инвалиды-опорники"},{"available_index":"есть","Area_mgn":"пути движения","Element_mgn":"поручни на имеющейся лестнице","available_degree":null,"Group_mgn":"инвалиды-опорники"},{"available_index":"есть","Area_mgn":null,"Element_mgn":null,"available_degree":null,"Group_mgn":null},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":"есть","Area_mgn":null,"Element_mgn":null,"available_degree":null,"Group_mgn":null},{"available_index":"есть","Area_mgn":"санитарный узел","Element_mgn":"зона у раковины для кресла-коляски","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":null,"Area_mgn":"территория объекта","Element_mgn":"поручни на имеющейся лестнице","available_degree":"полностью","Group_mgn":"инвалиды по зрению"},{"available_index":"есть","Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":"есть","Area_mgn":"санитарный узел","Element_mgn":"поручень у раковины","available_degree":"полностью","Group_mgn":"инвалиды-опорники"},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":null,"Area_mgn":"территория объекта","Element_mgn":"тактильная полоса перед лестницей","available_degree":"полностью","Group_mgn":"инвалиды по зрению"},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":null,"Group_mgn":null},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"частично","Group_mgn":null},{"available_index":"есть","Area_mgn":null,"Element_mgn":null,"available_degree":null,"Group_mgn":null},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"частично","Group_mgn":null},{"available_index":"есть","Area_mgn":"зона оказания услуги","Element_mgn":"визуальные средства информации о предоставлении услуги","available_degree":"полностью","Group_mgn":"инвалиды по слуху"},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"частично","Group_mgn":null},{"available_index":"соответствует","Area_mgn":null,"Element_mgn":null,"available_degree":null,"Group_mgn":null},{"available_index":"есть","Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":"есть","Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":"соответствует","Area_mgn":"зона оказания услуги","Element_mgn":"ширина дверей в кабинеты","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":"соответствует","Area_mgn":"санитарный узел","Element_mgn":"ширина двери","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":"есть","Area_mgn":"территория объекта","Element_mgn":"безбарьерный путь до главного входа","available_degree":"полностью","Group_mgn":"инвалиды по зрению"},{"available_index":null,"Area_mgn":"зона оказания услуги","Element_mgn":"ширина полосы движения (при обслуживании с перемещением)","available_degree":"полностью","Group_mgn":"инвалиды-опорники"},{"available_index":null,"Area_mgn":"территория объекта","Element_mgn":"поручни на имеющейся лестнице","available_degree":"частично","Group_mgn":"инвалиды-опорники"},{"available_index":"есть","Area_mgn":"санитарный узел","Element_mgn":"поручни у унитаза","available_degree":"полностью","Group_mgn":"инвалиды-опорники"},{"available_index":"соответствует","Area_mgn":null,"Element_mgn":null,"available_degree":"частично","Group_mgn":null},{"available_index":"нет","Area_mgn":"пути движения и эвакуации","Element_mgn":"наличие пандуса на пути движения","available_degree":"частично","Group_mgn":"инвалиды-колясочники"},{"available_index":"есть","Area_mgn":null,"Element_mgn":null,"available_degree":"полностью","Group_mgn":null},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"частично","Group_mgn":null},{"available_index":"есть","Area_mgn":"пути движения и эвакуации","Element_mgn":"наличие указателей, пиктограмм","available_degree":"полностью","Group_mgn":"инвалиды по слуху"},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":null,"Group_mgn":null},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"частично","Group_mgn":null},{"available_index":null,"Area_mgn":null,"Element_mgn":null,"available_degree":"частично","Group_mgn":null},{"available_index":"есть","Area_mgn":"территория объекта","Element_mgn":"безбарьерный путь до главного входа","available_degree":"частично","Group_mgn":"инвалиды-опорники"}],"available_o":"частично","available_z":"полностью","available_s":"полностью","available_k":"частично"}],"AdmArea":"Северный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(499) 977-17-05"}],"ChiefName":"Завьялова Наталья Борисовна","WorkingHours":[{"WorkHours":"09:00-20:00","DayWeek":"понедельник"},{"WorkHours":"09:00-20:00","DayWeek":"вторник"},{"WorkHours":"09:00-20:00","DayWeek":"среда"},{"WorkHours":"09:00-20:00","DayWeek":"четверг"},{"WorkHours":"09:00-20:00","DayWeek":"пятница"},{"WorkHours":"10:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":"Стационарное отделение – круглосуточно","WebSite":"www.krizis-centr.ru","global_id":641991550}},"type":"Feature"},{"geometry":{"coordinates":[[37.679292936429,55.872271278468]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Территориальный отдел психологической помощи населению в СВАО.","FullName":"Территориальный отдел психологической помощи населению в Северо-Восточном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Территориальный отдел психологической помощи населению в СВАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"129281","District":"Лосиноостровский район","Address":"улица Лётчика Бабушкина, дом 38, корпус 2","Availability":[],"AdmArea":"Северо-Восточный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(495) 472-83-72"}],"ChiefName":"Ходина Татьяна Константиновна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991551}},"type":"Feature"},{"geometry":{"coordinates":[[37.608209309651,55.652794716429]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Территориальный отдел психологической помощи населению в ЮАО.","FullName":"Территориальный отдел психологической помощи населению в Южном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Территориальный отдел психологической помощи населению в ЮАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"117452","District":"Нагорный район","Address":"Чонгарский бульвар, дом 15","Availability":[],"AdmArea":"Южный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(499) 794-20-09"}],"ChiefName":"Пилипко Наталья Владимировна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991561}},"type":"Feature"},{"geometry":{"coordinates":[[37.739628541554,55.711505006583]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Московская служба психологической помощи населению","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ShortName":"ГБУ МСППН","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"109125","District":"район Текстильщики","Address":"2-й Саратовский проезд, дом 8, корпус 2","Availability":[],"AdmArea":"Юго-Восточный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(499) 173-09-09"}],"ChiefName":"Петроченко Нина Алексеевна","WorkingHours":[{"WorkHours":"09:00-21:00","DayWeek":"понедельник"},{"WorkHours":"09:00-21:00","DayWeek":"вторник"},{"WorkHours":"09:00-21:00","DayWeek":"среда"},{"WorkHours":"09:00-21:00","DayWeek":"четверг"},{"WorkHours":"09:00-21:00","DayWeek":"пятница"},{"WorkHours":"09:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":"www.msph.ru","global_id":641991569}},"type":"Feature"},{"geometry":{"coordinates":[[37.440364017075,55.83864670736]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Филиал «Надежда»","FullName":"Филиал «Надежда» государственного бюджетного учреждения города Москвы «Кризисный центр помощи женщинам и детям»","ShortName":"Филиал «Надежда» ГБУ «Кризисный центр помощи женщинам и детям»","OrgInfo":[{"OGRN":"1027739895699","ChiefPosition":"заведующий филиалом","INN":"7733118831","KPP":"773301001","LegalAddress":"125363,г. Москва, ул. Новопоселковая, д. 3&quot;б&quot","FullName":"Филиал «Надежда» государственного бюджетного учреждения города Москвы «Кризисный центр помощи женщинам и детям»","ChiefName":"Паздникова Наталья Валентиновна","ChiefPhone":[{"ChiefPhone":"(499) 492-22-89"}]}],"ObjectAddress":[{"PostalCode":"125363","District":"район Южное Тушино","Address":"Новопоселковая улица, дом 3Б","Availability":[],"AdmArea":"Северо-Западный административный округ"}],"ChiefPosition":"заведующий филиалом","PublicPhone":[{"PublicPhone":"(499) 492-26-81"},{"PublicPhone":"(499) 729-51-81"}],"ChiefName":"Паздникова Наталья Валентиновна","WorkingHours":[{"WorkHours":"круглосуточно","DayWeek":"понедельник"},{"WorkHours":"круглосуточно","DayWeek":"вторник"},{"WorkHours":"круглосуточно","DayWeek":"среда"},{"WorkHours":"круглосуточно","DayWeek":"четверг"},{"WorkHours":"круглосуточно","DayWeek":"пятница"},{"WorkHours":"круглосуточно","DayWeek":"суббота"},{"WorkHours":"круглосуточно","DayWeek":"воскресенье"}],"ClarificationWorkingHours":"Отделение стационарного обслуживания — круглосуточно\n\nОтделение психологической помощи: ежедневно 09.00-21.00\n\nОтделение социальной реабилитации: понедельник - суббота 09.00-18.00","WebSite":null,"global_id":641991596}},"type":"Feature"},{"geometry":{"coordinates":[[37.579397314856,55.501585551331]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Участковый отдел психологической помощи населения «Щербинка».","FullName":"Участковый отдел психологической помощи населения «Щербинка» Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Участковый отдел психологической помощи населения «Щербинка» ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"117148","District":"район Южное Бутово","Address":"улица Брусилова, дом 13","Availability":[],"AdmArea":"Юго-Западный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(499) 234-12-20"}],"ChiefName":"Еканаева Римма Романовна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991611}},"type":"Feature"},{"geometry":{"coordinates":[[37.51517223102,55.848920932746]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Территориальный отдел психологической помощи населению в САО.","FullName":"Территориальный отдел психологической помощи населению в Северном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Территориальный отдел психологической помощи населению в САО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"125438","District":"Головинский район","Address":"город Москва, 3-й Лихачёвский переулок, дом 1, корпус 1, строение 2","Availability":[],"AdmArea":"Северный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(495) 454-44-08"}],"ChiefName":"Дмуховская Ольга Николаевна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991740}},"type":"Feature"},{"geometry":{"coordinates":[[37.871385157342,55.760694435834]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Отдел психологической помощи молодой семье «Кожухово».","FullName":"Отдел психологической помощи молодой семье «Кожухово» Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Отдел психологической помощи молодой семье «Кожухово» ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"111675","District":"район Косино-Ухтомский","Address":"Лухмановская улица, дом 1","Availability":[],"AdmArea":"Восточный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(499) 721-00-02"}],"ChiefName":"Хамова Татьяна Ивановна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991745}},"type":"Feature"},{"geometry":{"coordinates":[[37.768849163931,55.744896954937]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Территориальный отдел психологической помощи населению в ВАО.","FullName":"Территориальный отдел психологической помощи населению в Восточном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Территориальный отдел психологической помощи населению в ВАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"111398","District":"район Перово","Address":"улица Плеханова, дом 23, корпус 3","Availability":[],"AdmArea":"Восточный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(495) 309-51-28"}],"ChiefName":"Шевченко Ольга Ивановна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991771}},"type":"Feature"},{"geometry":{"coordinates":[[37.20084585233,55.999631760951]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Территориальный отдел психологической помощи населению в Зеленограде.","FullName":"Территориальный отдел психологической помощи населению в Зеленоградском административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Территориальный отдел психологической помощи населению в ЗелАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"124498","District":"район Матушкино","Address":"город Зеленоград, корпус 418","Availability":[],"AdmArea":"Зеленоградский административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(499) 735-22-24"}],"ChiefName":"Назарова Ирина Николаевна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991792}},"type":"Feature"},{"geometry":{"coordinates":[[37.561138074158,55.545756387793]],"type":"MultiPoint"},"properties":{"DatasetId":605,"VersionNumber":2,"ReleaseNumber":7,"RowId":null,"Attributes":{"CommonName":"Территориальный отдел психологической помощи населению в Ю3АО.","FullName":"Территориальный отдел психологической помощи населению в Юго-Западном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы","ShortName":"Территориальный отдел психологической помощи населению в ЮЗАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы","OrgInfo":[{"OGRN":"1037722038078","ChiefPosition":"директор","INN":"7722297307","KPP":"772201001","LegalAddress":"109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2","FullName":"Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы","ChiefName":"Петроченко Нина Алексеевна","ChiefPhone":[{"ChiefPhone":"(499) 177-39-50"}]}],"ObjectAddress":[{"PostalCode":"117624","District":"район Южное Бутово","Address":"Изюмская улица, дом 46","Availability":[],"AdmArea":"Юго-Западный административный округ"}],"ChiefPosition":"директор","PublicPhone":[{"PublicPhone":"(499) 743-51-90"}],"ChiefName":"Успенская Светлана Юрьевна","WorkingHours":[{"WorkHours":"08:00-21:00","DayWeek":"понедельник"},{"WorkHours":"08:00-21:00","DayWeek":"вторник"},{"WorkHours":"08:00-21:00","DayWeek":"среда"},{"WorkHours":"08:00-21:00","DayWeek":"четверг"},{"WorkHours":"08:00-21:00","DayWeek":"пятница"},{"WorkHours":"08:00-18:00","DayWeek":"суббота"},{"WorkHours":"выходной","DayWeek":"воскресенье"}],"ClarificationWorkingHours":null,"WebSite":null,"global_id":641991799}},"type":"Feature"}],"type":"FeatureCollection"}
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [[37.611125015985, 55.734618994342]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Территориальный отдел психологической помощи населению в ЦАО.",
+          "FullName":
+            "Территориальный отдел психологической помощи населению в Центральном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Территориальный отдел психологической помощи населению в ЦАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "119049",
+              "District": "район Якиманка",
+              "Address": "город Москва, улица Большая Якиманка, дом 38",
+              "Availability": [],
+              "AdmArea": "Центральный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(499) 238-02-04" }],
+          "ChiefName": "Первышева Елена Вячеславовна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991438
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.420109106501, 55.86086892493]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Территориальный отдел психологической помощи населению в СЗАО.",
+          "FullName":
+            "Территориальный отдел психологической помощи населению в Северо-Западном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Территориальный отдел психологической помощи населению в СЗАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "123480",
+              "District": "район Северное Тушино",
+              "Address": "улица Вилиса Лациса, дом 25, корпус 1",
+              "Availability": [],
+              "AdmArea": "Северо-Западный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(495) 944-45-04" }],
+          "ChiefName": "Знакова Тамара Александровна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991538
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.442856156958, 55.720417568235]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Территориальный отдел психологической помощи населению в ЗАО.",
+          "FullName":
+            "Территориальный отдел психологической помощи населению в Западном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Территориальный отдел психологической помощи населению в ЗАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "121357",
+              "District": "Можайский район",
+              "Address": "проезд Загорского, дом 3",
+              "Availability": [],
+              "AdmArea": "Западный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(499) 726-53-96" }],
+          "ChiefName": "Бискупская Елена Валентиновна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991546
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.56209350597, 55.821854105234]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName": "ГБУ «Кризисный центр помощи женщинам и детям»",
+          "FullName":
+            "Государственное бюджетное учреждение города Москвы «Кризисный центр помощи женщинам и детям» Департамента социальной защиты населения города Москвы",
+          "ShortName": "ГБУ «Кризисный центр помощи женщинам и детям»",
+          "OrgInfo": [
+            {
+              "OGRN": "1067746275200",
+              "ChiefPosition": "директор",
+              "INN": "7713577509",
+              "KPP": "771301001",
+              "LegalAddress": "127422, город Москва, улица Дубки, дом 9А",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Кризисный центр помощи женщинам и детям» Департамента социальной защиты населения города Москвы",
+              "ChiefName": "Завьялова Наталья Борисовна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 977-17-05" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "127422",
+              "District": "Тимирязевский район",
+              "Address": "город Москва, улица Дубки, дом 9А",
+              "Availability": [
+                {
+                  "available_element": [
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "частично",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "нет",
+                      "Area_mgn": "пути движения и эвакуации",
+                      "Element_mgn": "наличие лифта",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": "соответствует",
+                      "Area_mgn": "пути движения и эвакуации",
+                      "Element_mgn": "ширина полосы движения",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": "зона оказания услуги",
+                      "Element_mgn": "места для инвалидов-колясочников в зале",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": "зона оказания услуги",
+                      "Element_mgn": "обслуживание через окно/прилавок",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "частично",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": "зона оказания услуги",
+                      "Element_mgn":
+                        "ширина полосы движения (при обслуживании с перемещением)",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": "зона оказания услуги",
+                      "Element_mgn": "места для инвалидов по слуху в зале",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды по слуху"
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "пути движения и эвакуации",
+                      "Element_mgn": "лестницы на пути движения",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "территория объекта",
+                      "Element_mgn": "указатели направления движения",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды по слуху"
+                    },
+                    {
+                      "available_index": "соответствует",
+                      "Area_mgn": "зона оказания услуги",
+                      "Element_mgn": "габариты зоны сидения (глубина)",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды-опорники"
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "пути движения",
+                      "Element_mgn": "поручни на имеющейся лестнице",
+                      "available_degree": null,
+                      "Group_mgn": "инвалиды-опорники"
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": null,
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": null,
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "санитарный узел",
+                      "Element_mgn": "зона у раковины для кресла-коляски",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": "территория объекта",
+                      "Element_mgn": "поручни на имеющейся лестнице",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды по зрению"
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "санитарный узел",
+                      "Element_mgn": "поручень у раковины",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды-опорники"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": "территория объекта",
+                      "Element_mgn": "тактильная полоса перед лестницей",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды по зрению"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": null,
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "частично",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": null,
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "частично",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "зона оказания услуги",
+                      "Element_mgn":
+                        "визуальные средства информации о предоставлении услуги",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды по слуху"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "частично",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "соответствует",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": null,
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "соответствует",
+                      "Area_mgn": "зона оказания услуги",
+                      "Element_mgn": "ширина дверей в кабинеты",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": "соответствует",
+                      "Area_mgn": "санитарный узел",
+                      "Element_mgn": "ширина двери",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "территория объекта",
+                      "Element_mgn": "безбарьерный путь до главного входа",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды по зрению"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": "зона оказания услуги",
+                      "Element_mgn":
+                        "ширина полосы движения (при обслуживании с перемещением)",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды-опорники"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": "территория объекта",
+                      "Element_mgn": "поручни на имеющейся лестнице",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-опорники"
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "санитарный узел",
+                      "Element_mgn": "поручни у унитаза",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды-опорники"
+                    },
+                    {
+                      "available_index": "соответствует",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "частично",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "нет",
+                      "Area_mgn": "пути движения и эвакуации",
+                      "Element_mgn": "наличие пандуса на пути движения",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-колясочники"
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "полностью",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "частично",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "пути движения и эвакуации",
+                      "Element_mgn": "наличие указателей, пиктограмм",
+                      "available_degree": "полностью",
+                      "Group_mgn": "инвалиды по слуху"
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": null,
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "частично",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": null,
+                      "Area_mgn": null,
+                      "Element_mgn": null,
+                      "available_degree": "частично",
+                      "Group_mgn": null
+                    },
+                    {
+                      "available_index": "есть",
+                      "Area_mgn": "территория объекта",
+                      "Element_mgn": "безбарьерный путь до главного входа",
+                      "available_degree": "частично",
+                      "Group_mgn": "инвалиды-опорники"
+                    }
+                  ],
+                  "available_o": "частично",
+                  "available_z": "полностью",
+                  "available_s": "полностью",
+                  "available_k": "частично"
+                }
+              ],
+              "AdmArea": "Северный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(499) 977-17-05" }],
+          "ChiefName": "Завьялова Наталья Борисовна",
+          "WorkingHours": [
+            { "WorkHours": "09:00-20:00", "DayWeek": "понедельник" },
+            { "WorkHours": "09:00-20:00", "DayWeek": "вторник" },
+            { "WorkHours": "09:00-20:00", "DayWeek": "среда" },
+            { "WorkHours": "09:00-20:00", "DayWeek": "четверг" },
+            { "WorkHours": "09:00-20:00", "DayWeek": "пятница" },
+            { "WorkHours": "10:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": "Стационарное отделение – круглосуточно",
+          "WebSite": "www.krizis-centr.ru",
+          "global_id": 641991550
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.679292936429, 55.872271278468]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Территориальный отдел психологической помощи населению в СВАО.",
+          "FullName":
+            "Территориальный отдел психологической помощи населению в Северо-Восточном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Территориальный отдел психологической помощи населению в СВАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "129281",
+              "District": "Лосиноостровский район",
+              "Address": "улица Лётчика Бабушкина, дом 38, корпус 2",
+              "Availability": [],
+              "AdmArea": "Северо-Восточный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(495) 472-83-72" }],
+          "ChiefName": "Ходина Татьяна Константиновна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991551
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.608209309651, 55.652794716429]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Территориальный отдел психологической помощи населению в ЮАО.",
+          "FullName":
+            "Территориальный отдел психологической помощи населению в Южном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Территориальный отдел психологической помощи населению в ЮАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "117452",
+              "District": "Нагорный район",
+              "Address": "Чонгарский бульвар, дом 15",
+              "Availability": [],
+              "AdmArea": "Южный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(499) 794-20-09" }],
+          "ChiefName": "Пилипко Наталья Владимировна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991561
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.739628541554, 55.711505006583]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName": "Московская служба психологической помощи населению",
+          "FullName":
+            "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+          "ShortName": "ГБУ МСППН",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "109125",
+              "District": "район Текстильщики",
+              "Address": "2-й Саратовский проезд, дом 8, корпус 2",
+              "Availability": [],
+              "AdmArea": "Юго-Восточный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(499) 173-09-09" }],
+          "ChiefName": "Петроченко Нина Алексеевна",
+          "WorkingHours": [
+            { "WorkHours": "09:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "09:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "09:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "09:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "09:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "09:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": "www.msph.ru",
+          "global_id": 641991569
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.440364017075, 55.83864670736]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName": "Филиал «Надежда»",
+          "FullName":
+            "Филиал «Надежда» государственного бюджетного учреждения города Москвы «Кризисный центр помощи женщинам и детям»",
+          "ShortName":
+            "Филиал «Надежда» ГБУ «Кризисный центр помощи женщинам и детям»",
+          "OrgInfo": [
+            {
+              "OGRN": "1027739895699",
+              "ChiefPosition": "заведующий филиалом",
+              "INN": "7733118831",
+              "KPP": "773301001",
+              "LegalAddress":
+                "125363,г. Москва, ул. Новопоселковая, д. 3&quot;б&quot",
+              "FullName":
+                "Филиал «Надежда» государственного бюджетного учреждения города Москвы «Кризисный центр помощи женщинам и детям»",
+              "ChiefName": "Паздникова Наталья Валентиновна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 492-22-89" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "125363",
+              "District": "район Южное Тушино",
+              "Address": "Новопоселковая улица, дом 3Б",
+              "Availability": [],
+              "AdmArea": "Северо-Западный административный округ"
+            }
+          ],
+          "ChiefPosition": "заведующий филиалом",
+          "PublicPhone": [
+            { "PublicPhone": "(499) 492-26-81" },
+            { "PublicPhone": "(499) 729-51-81" }
+          ],
+          "ChiefName": "Паздникова Наталья Валентиновна",
+          "WorkingHours": [
+            { "WorkHours": "круглосуточно", "DayWeek": "понедельник" },
+            { "WorkHours": "круглосуточно", "DayWeek": "вторник" },
+            { "WorkHours": "круглосуточно", "DayWeek": "среда" },
+            { "WorkHours": "круглосуточно", "DayWeek": "четверг" },
+            { "WorkHours": "круглосуточно", "DayWeek": "пятница" },
+            { "WorkHours": "круглосуточно", "DayWeek": "суббота" },
+            { "WorkHours": "круглосуточно", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours":
+            "Отделение стационарного обслуживания — круглосуточно\n\nОтделение психологической помощи: ежедневно 09.00-21.00\n\nОтделение социальной реабилитации: понедельник - суббота 09.00-18.00",
+          "WebSite": null,
+          "global_id": 641991596
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.579397314856, 55.501585551331]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Участковый отдел психологической помощи населения «Щербинка».",
+          "FullName":
+            "Участковый отдел психологической помощи населения «Щербинка» Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Участковый отдел психологической помощи населения «Щербинка» ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "117148",
+              "District": "район Южное Бутово",
+              "Address": "улица Брусилова, дом 13",
+              "Availability": [],
+              "AdmArea": "Юго-Западный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(499) 234-12-20" }],
+          "ChiefName": "Еканаева Римма Романовна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991611
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.51517223102, 55.848920932746]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Территориальный отдел психологической помощи населению в САО.",
+          "FullName":
+            "Территориальный отдел психологической помощи населению в Северном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Территориальный отдел психологической помощи населению в САО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "125438",
+              "District": "Головинский район",
+              "Address":
+                "город Москва, 3-й Лихачёвский переулок, дом 1, корпус 1, строение 2",
+              "Availability": [],
+              "AdmArea": "Северный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(495) 454-44-08" }],
+          "ChiefName": "Дмуховская Ольга Николаевна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991740
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.871385157342, 55.760694435834]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Отдел психологической помощи молодой семье «Кожухово».",
+          "FullName":
+            "Отдел психологической помощи молодой семье «Кожухово» Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Отдел психологической помощи молодой семье «Кожухово» ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "111675",
+              "District": "район Косино-Ухтомский",
+              "Address": "Лухмановская улица, дом 1",
+              "Availability": [],
+              "AdmArea": "Восточный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(499) 721-00-02" }],
+          "ChiefName": "Хамова Татьяна Ивановна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991745
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.768849163931, 55.744896954937]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Территориальный отдел психологической помощи населению в ВАО.",
+          "FullName":
+            "Территориальный отдел психологической помощи населению в Восточном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Территориальный отдел психологической помощи населению в ВАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "111398",
+              "District": "район Перово",
+              "Address": "улица Плеханова, дом 23, корпус 3",
+              "Availability": [],
+              "AdmArea": "Восточный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(495) 309-51-28" }],
+          "ChiefName": "Шевченко Ольга Ивановна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991771
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.20084585233, 55.999631760951]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Территориальный отдел психологической помощи населению в Зеленограде.",
+          "FullName":
+            "Территориальный отдел психологической помощи населению в Зеленоградском административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Территориальный отдел психологической помощи населению в ЗелАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "124498",
+              "District": "район Матушкино",
+              "Address": "город Зеленоград, корпус 418",
+              "Availability": [],
+              "AdmArea": "Зеленоградский административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(499) 735-22-24" }],
+          "ChiefName": "Назарова Ирина Николаевна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991792
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [[37.561138074158, 55.545756387793]],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "DatasetId": 605,
+        "VersionNumber": 2,
+        "ReleaseNumber": 7,
+        "RowId": null,
+        "Attributes": {
+          "CommonName":
+            "Территориальный отдел психологической помощи населению в Ю3АО.",
+          "FullName":
+            "Территориальный отдел психологической помощи населению в Юго-Западном административном округе Государственного бюджетного учреждения города Москвы «Московская служба психологической помощи населению» Департамента социальной защиты населения города Москвы",
+          "ShortName":
+            "Территориальный отдел психологической помощи населению в ЮЗАО ГБУ г. Москвы «Московская служба психологической помощи населению» ДСЗН г. Москвы",
+          "OrgInfo": [
+            {
+              "OGRN": "1037722038078",
+              "ChiefPosition": "директор",
+              "INN": "7722297307",
+              "KPP": "772201001",
+              "LegalAddress":
+                "109125, Москва, проезд 2-ой Саратовский, дом 8, корпус 2",
+              "FullName":
+                "Государственное бюджетное учреждение города Москвы «Московская служба психологической помощи населению» Департамента труда и социальной защиты населения города Москвы",
+              "ChiefName": "Петроченко Нина Алексеевна",
+              "ChiefPhone": [{ "ChiefPhone": "(499) 177-39-50" }]
+            }
+          ],
+          "ObjectAddress": [
+            {
+              "PostalCode": "117624",
+              "District": "район Южное Бутово",
+              "Address": "Изюмская улица, дом 46",
+              "Availability": [],
+              "AdmArea": "Юго-Западный административный округ"
+            }
+          ],
+          "ChiefPosition": "директор",
+          "PublicPhone": [{ "PublicPhone": "(499) 743-51-90" }],
+          "ChiefName": "Успенская Светлана Юрьевна",
+          "WorkingHours": [
+            { "WorkHours": "08:00-21:00", "DayWeek": "понедельник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "вторник" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "среда" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "четверг" },
+            { "WorkHours": "08:00-21:00", "DayWeek": "пятница" },
+            { "WorkHours": "08:00-18:00", "DayWeek": "суббота" },
+            { "WorkHours": "выходной", "DayWeek": "воскресенье" }
+          ],
+          "ClarificationWorkingHours": null,
+          "WebSite": null,
+          "global_id": 641991799
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

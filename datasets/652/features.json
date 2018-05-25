@@ -1,1 +1,327 @@
-{"features":[{"geometry":{"coordinates":[37.681453079337,55.762718837458],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Центрального административного округа","global_id":4712564,"ShortName":"Подразделение ГБУ «МБМ» ЦАО","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"улица Радио, дом 20","Phone":[{"Phone":"(495) 276-24-18"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.501236173884,55.696805843777],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Западного административного округа","global_id":4712565,"ShortName":"Подразделение ГБУ «МБМ» ЗАО","AdmArea":"Западный административный округ","District":"район Раменки","Address":"Мичуринский проспект, дом 27, корпус 2","Phone":[{"Phone":"(495) 276-24-29"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.665372929158,55.710374576656],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Южного административного округа","global_id":4712566,"ShortName":"Подразделение ГБУ «МБМ» ЮАО","AdmArea":"Южный административный округ","District":"Даниловский район","Address":"Автозаводская улица, дом 1","Phone":[{"Phone":"(495) 276-24-17"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.804036867261,55.795679185763],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Восточного административного округа","global_id":4712567,"ShortName":"Подразделение ГБУ «МБМ» ВАО","AdmArea":"Восточный административный округ","District":"район Измайлово","Address":"Средняя Первомайская улица, дом 3","Phone":[{"Phone":"(495) 276-24-13"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.564517691067,55.808895182534],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Северного административного округа","global_id":4712568,"ShortName":"Подразделение ГБУ «МБМ» САО","AdmArea":"Северный административный округ","District":"Тимирязевский район","Address":"проезд Соломенной Сторожки, дом 5, корпус 1","Phone":[{"Phone":"(495) 276-24-21"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.480385857735,55.786465634058],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Северо-Западного административного округа","global_id":4712569,"ShortName":"Подразделение ГБУ «МБМ» СЗАО","AdmArea":"Северо-Западный административный округ","District":"район Хорошёво-Мнёвники","Address":"улица Народного Ополчения, дом 33, корпус 1","Phone":[{"Phone":"(495) 276-24-19"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.602340325341,55.857808132028],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Северо-Восточного административного округа","global_id":4712570,"ShortName":"Подразделение ГБУ «МБМ» СВАО","AdmArea":"Северо-Восточный административный округ","District":"район Отрадное","Address":"ул. Отрадная, 2Б, стр. 9 ","Phone":[{"Phone":"(495) 276-24-20"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.564121211999,55.658510840117],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Юго-Западного административного округа","global_id":4712571,"ShortName":"Подразделение ГБУ «МБМ» ЮЗАО","AdmArea":"Юго-Западный административный округ","District":"район Черёмушки","Address":"улица Каховка, дом 37, корпус 1","Phone":[{"Phone":"(495) 276-24-15"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.679964356951,55.754736513764],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Юго-Восточного административного округа","global_id":4712572,"ShortName":"Подразделение ГБУ «МБМ» ЮВАО","AdmArea":"Юго-Восточный административный округ","District":"район Лефортово","Address":"улица Волочаевская, дом 18","Phone":[{"Phone":"(495) 276-24-16"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.223842854599,55.999013461574],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Зеленоградского административного округа","global_id":4712573,"ShortName":"Подразделение ГБУ «МБМ» ЗелАО","AdmArea":"Зеленоградский административный округ","District":"район Савёлки","Address":"улица Юности, дом 8","Phone":[{"Phone":"(495) 989-10-31"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.759815549105,55.803072130262],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Троицкого административного округа","global_id":4712574,"ShortName":"Подразделение ГБУ «МБМ» ТАО","AdmArea":"Троицкий административный округ","District":"поселение Троицк","Address":"Сиреневый бульвар, дом 1, корпус 1","Phone":[{"Phone":"(495) 225-14-14"}]}},"type":"Feature"},{"geometry":{"coordinates":[37.536831512451,55.74833164385],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» в МФЦ ЦАО","global_id":837609757,"ShortName":"Подразделение ГБУ «МБМ» в МФЦ ЦАО","AdmArea":"Центральный административный округ","District":"Пресненский район","Address":"Пресненская наб., 2","Phone":[]}},"type":"Feature"},{"geometry":{"coordinates":[37.653971626759,55.76356152335],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» в ЦДП","global_id":837615818,"ShortName":"Подразделение ГБУ «МБМ» в ЦДП","AdmArea":"Центральный административный округ","District":"Басманный район","Address":"ул. Покровка, д. 47","Phone":[]}},"type":"Feature"},{"geometry":{"coordinates":[37.407403298108,55.835088694079],"type":"Point"},"properties":{"DatasetId":652,"VersionNumber":4,"ReleaseNumber":8,"RowId":null,"Attributes":{"FullName":"Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» в МИФНС 46","global_id":837621746,"ShortName":"Подразделение ГБУ «МБМ» в МИФНС 46","AdmArea":"Северо-Западный административный округ","District":"район Южное Тушино","Address":"Походный проезд, домовладение 3, стр.2","Phone":[]}},"type":"Feature"}],"type":"FeatureCollection"}
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [37.681453079337, 55.762718837458],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Центрального административного округа",
+          "global_id": 4712564,
+          "ShortName": "Подразделение ГБУ «МБМ» ЦАО",
+          "AdmArea": "Центральный административный округ",
+          "District": "Басманный район",
+          "Address": "улица Радио, дом 20",
+          "Phone": [{ "Phone": "(495) 276-24-18" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.501236173884, 55.696805843777],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Западного административного округа",
+          "global_id": 4712565,
+          "ShortName": "Подразделение ГБУ «МБМ» ЗАО",
+          "AdmArea": "Западный административный округ",
+          "District": "район Раменки",
+          "Address": "Мичуринский проспект, дом 27, корпус 2",
+          "Phone": [{ "Phone": "(495) 276-24-29" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.665372929158, 55.710374576656],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Южного административного округа",
+          "global_id": 4712566,
+          "ShortName": "Подразделение ГБУ «МБМ» ЮАО",
+          "AdmArea": "Южный административный округ",
+          "District": "Даниловский район",
+          "Address": "Автозаводская улица, дом 1",
+          "Phone": [{ "Phone": "(495) 276-24-17" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.804036867261, 55.795679185763],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Восточного административного округа",
+          "global_id": 4712567,
+          "ShortName": "Подразделение ГБУ «МБМ» ВАО",
+          "AdmArea": "Восточный административный округ",
+          "District": "район Измайлово",
+          "Address": "Средняя Первомайская улица, дом 3",
+          "Phone": [{ "Phone": "(495) 276-24-13" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.564517691067, 55.808895182534],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Северного административного округа",
+          "global_id": 4712568,
+          "ShortName": "Подразделение ГБУ «МБМ» САО",
+          "AdmArea": "Северный административный округ",
+          "District": "Тимирязевский район",
+          "Address": "проезд Соломенной Сторожки, дом 5, корпус 1",
+          "Phone": [{ "Phone": "(495) 276-24-21" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.480385857735, 55.786465634058],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Северо-Западного административного округа",
+          "global_id": 4712569,
+          "ShortName": "Подразделение ГБУ «МБМ» СЗАО",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Хорошёво-Мнёвники",
+          "Address": "улица Народного Ополчения, дом 33, корпус 1",
+          "Phone": [{ "Phone": "(495) 276-24-19" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.602340325341, 55.857808132028],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Северо-Восточного административного округа",
+          "global_id": 4712570,
+          "ShortName": "Подразделение ГБУ «МБМ» СВАО",
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Отрадное",
+          "Address": "ул. Отрадная, 2Б, стр. 9 ",
+          "Phone": [{ "Phone": "(495) 276-24-20" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.564121211999, 55.658510840117],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Юго-Западного административного округа",
+          "global_id": 4712571,
+          "ShortName": "Подразделение ГБУ «МБМ» ЮЗАО",
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Черёмушки",
+          "Address": "улица Каховка, дом 37, корпус 1",
+          "Phone": [{ "Phone": "(495) 276-24-15" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.679964356951, 55.754736513764],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Юго-Восточного административного округа",
+          "global_id": 4712572,
+          "ShortName": "Подразделение ГБУ «МБМ» ЮВАО",
+          "AdmArea": "Юго-Восточный административный округ",
+          "District": "район Лефортово",
+          "Address": "улица Волочаевская, дом 18",
+          "Phone": [{ "Phone": "(495) 276-24-16" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.223842854599, 55.999013461574],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Зеленоградского административного округа",
+          "global_id": 4712573,
+          "ShortName": "Подразделение ГБУ «МБМ» ЗелАО",
+          "AdmArea": "Зеленоградский административный округ",
+          "District": "район Савёлки",
+          "Address": "улица Юности, дом 8",
+          "Phone": [{ "Phone": "(495) 989-10-31" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.759815549105, 55.803072130262],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» Троицкого административного округа",
+          "global_id": 4712574,
+          "ShortName": "Подразделение ГБУ «МБМ» ТАО",
+          "AdmArea": "Троицкий административный округ",
+          "District": "поселение Троицк",
+          "Address": "Сиреневый бульвар, дом 1, корпус 1",
+          "Phone": [{ "Phone": "(495) 225-14-14" }]
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.536831512451, 55.74833164385],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» в МФЦ ЦАО",
+          "global_id": 837609757,
+          "ShortName": "Подразделение ГБУ «МБМ» в МФЦ ЦАО",
+          "AdmArea": "Центральный административный округ",
+          "District": "Пресненский район",
+          "Address": "Пресненская наб., 2",
+          "Phone": []
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.653971626759, 55.76356152335],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» в ЦДП",
+          "global_id": 837615818,
+          "ShortName": "Подразделение ГБУ «МБМ» в ЦДП",
+          "AdmArea": "Центральный административный округ",
+          "District": "Басманный район",
+          "Address": "ул. Покровка, д. 47",
+          "Phone": []
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.407403298108, 55.835088694079],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 652,
+        "VersionNumber": 4,
+        "ReleaseNumber": 8,
+        "RowId": null,
+        "Attributes": {
+          "FullName":
+            "Подразделение Государственного Бюджетного Учреждения «Малый Бизнес Москвы» в МИФНС 46",
+          "global_id": 837621746,
+          "ShortName": "Подразделение ГБУ «МБМ» в МИФНС 46",
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Южное Тушино",
+          "Address": "Походный проезд, домовладение 3, стр.2",
+          "Phone": []
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}

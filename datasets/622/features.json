@@ -1,1 +1,615 @@
-{"features":[{"geometry":{"coordinates":[37.40112300039,55.803527999947],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Строгино»","global_id":1713487,"AdmArea":"Северо-Западный административный округ","District":"район Строгино","LocationDescription":"Строгинский бульвар, владение 14, между вестибюлями станции метро","OrgPhone":"(495) 622-02-04","CarCapacity":100}},"type":"Feature"},{"geometry":{"coordinates":[37.744872999849,55.612121999928],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Зябликово» 2","global_id":1713489,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"на пересечении Ясеневой улицы с Ореховым Бульваром, напротив пустыря с деревьями, через дорогу","OrgPhone":"(495) 622-02-04","CarCapacity":107}},"type":"Feature"},{"geometry":{"coordinates":[37.574279999785,55.566100999852],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Бульвар Дмитрия Донского»","global_id":1713490,"AdmArea":"Юго-Западный административный округ","District":"район Северное Бутово","LocationDescription":"улица Грина, дом 5А, напротив Макдоналдс через дорогу","OrgPhone":"(495) 622-02-04","CarCapacity":91}},"type":"Feature"},{"geometry":{"coordinates":[37.378063,55.838663],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Волоколамская»","global_id":1713491,"AdmArea":"Северо-Западный административный округ","District":"район Митино","LocationDescription":"Новотушинский проезд, владение 8, корпус 1, рядом с магазином «Пятерочка»","OrgPhone":"(495) 622-02-04","CarCapacity":299}},"type":"Feature"},{"geometry":{"coordinates":[37.821031,55.717308],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Выхино»","global_id":1713492,"AdmArea":"Восточный административный округ","District":"район Вешняки","LocationDescription":"Вешняковская улица, владение 24-26, напротив бывшего рынка Выхино","OrgPhone":"(495) 622-02-04","CarCapacity":264}},"type":"Feature"},{"geometry":{"coordinates":[37.745117000247,55.61090099985],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Зябликово» 3","global_id":1713493,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"на пересечении Ясеневой улицы и Воронежской улицы, рядом с вестибюлем станции метро","OrgPhone":"(495) 622-02-04","CarCapacity":110}},"type":"Feature"},{"geometry":{"coordinates":[37.743286000136,55.623108000058],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Шипиловская» 2","global_id":1713494,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"На пересечении улицы Мусы Джалиля и Шипиловской улицы, рядом со зданием Банкетный зал","OrgPhone":"(495) 622-02-04","CarCapacity":68}},"type":"Feature"},{"geometry":{"coordinates":[37.743712999933,55.621276999843],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Шипиловская» 3","global_id":1713495,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"На пересечении улицы Мусы Джалиля и Шипиловской улицы, между вестибюлями станции метро","OrgPhone":"(495) 622-02-04","CarCapacity":115}},"type":"Feature"},{"geometry":{"coordinates":[37.544311,55.546326],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Бульвар Адмирала Ушакова» 1","global_id":1713496,"AdmArea":"Юго-Западный административный округ","District":"район Южное Бутово","LocationDescription":"От станции метро до Веневской улицы, вдоль улицы Адмирала Лазарева, вдоль путей легкого метро","OrgPhone":"(495) 622-02-04","CarCapacity":221}},"type":"Feature"},{"geometry":{"coordinates":[37.778431999925,55.787930000029],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Измайловская»","global_id":1713497,"AdmArea":"Восточный административный округ","District":"район Измайлово","LocationDescription":"Измайловский проспект, владение 49, вдоль путей метро, справа от вестибюля станции метро","OrgPhone":"(495) 622-02-04","CarCapacity":90}},"type":"Feature"},{"geometry":{"coordinates":[37.739685000013,55.6135249998],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Красногвардейская» 1","global_id":1713498,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"Ореховый бульвар, владение 22, на месте бывшего красногвардейского рынка","OrgPhone":"(495) 622-02-04","CarCapacity":528}},"type":"Feature"},{"geometry":{"coordinates":[37.745117000247,55.61230499978],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Зябликово» 1","global_id":1713499,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"на пересечении Ясеневой улицы с Ореховым Бульваром, рядом с отстойно-разворотным кругом автобусов","OrgPhone":"(495) 622-02-04","CarCapacity":32}},"type":"Feature"},{"geometry":{"coordinates":[37.7450500003,55.609762000056],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Зябликово» 4","global_id":1713500,"AdmArea":"Южный административный округ","District":"район Орехово-Борисово Южное","LocationDescription":"на пересечении Ясеневой улицы и Воронежской улицы, напротив дома 44/42, между жилыми домами и дорогой","OrgPhone":"(495) 622-02-04","CarCapacity":289}},"type":"Feature"},{"geometry":{"coordinates":[37.743102999838,55.623717999817],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Шипиловская» 1","global_id":1713501,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"На пересечении улицы Мусы Джалиля и Шипиловской улицы, напротив магазин продукты и кафе через дорогу","OrgPhone":"(495) 622-02-04","CarCapacity":65}},"type":"Feature"},{"geometry":{"coordinates":[37.743896000231,55.620117000145],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Шипиловская» 4","global_id":1713502,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"На пересечении улицы Мусы Джалиля и Шипиловской улицы, рядом с вестибюлем станции метро","OrgPhone":"(495) 622-02-04","CarCapacity":90}},"type":"Feature"},{"geometry":{"coordinates":[37.542896,55.546073],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Бульвар Адмирала Ушакова» 2","global_id":1713503,"AdmArea":"Юго-Западный административный округ","District":"район Южное Бутово","LocationDescription":"От станции метро до Веневской улицы, вдоль улицы Адмирала Лазарева, вдоль путей легкого метро, ближе к вестибюлю станции метро","OrgPhone":"(495) 622-02-04","CarCapacity":42}},"type":"Feature"},{"geometry":{"coordinates":[37.594482000208,55.579285000021],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Аннино»","global_id":1713505,"AdmArea":"Южный административный округ","District":"район Чертаново Южное","LocationDescription":"Варшавское шоссе, владение 170, на пересечении с МКАД по ходу движения из центра","OrgPhone":"(495) 622-02-04","CarCapacity":1048}},"type":"Feature"},{"geometry":{"coordinates":[37.749329,55.614072],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Красногвардейская» 2","global_id":1713506,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"Ореховый бульвар, дом 24-2А, магазин продукты через дорогу","OrgPhone":"(495) 622-02-04","CarCapacity":158}},"type":"Feature"},{"geometry":{"coordinates":[37.856097000352,55.743938999927],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка метрополитена «Новокосино»","global_id":1777274,"AdmArea":"Восточный административный округ","District":"район Новокосино","LocationDescription":"Суздальская улица, дом 24, корпус 1, напротив","OrgPhone":"(495) 622-02-05","CarCapacity":355}},"type":"Feature"},{"geometry":{"coordinates":[37.718838000234,55.61183200006],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка Метрополитена «Домодедовская»","global_id":272663846,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"Ореховый бульвар, владение 13","OrgPhone":"(495) 622-02-04","CarCapacity":182}},"type":"Feature"},{"geometry":{"coordinates":[37.720983999989,55.61121799989],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка Метрополитена «Домодедовская»","global_id":272663847,"AdmArea":"Южный административный округ","District":"район Зябликово","LocationDescription":"Ореховый бульвар, владение 14","OrgPhone":"(495) 622-02-04","CarCapacity":130}},"type":"Feature"},{"geometry":{"coordinates":[37.533664000127,55.606135000005],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка Метрополитена «Ясенево»","global_id":272663853,"AdmArea":"Юго-Западный административный округ","District":"район Ясенево","LocationDescription":"Новоясеневский проспект, владение 9","OrgPhone":"(495) 622-02-04","CarCapacity":83}},"type":"Feature"},{"geometry":{"coordinates":[37.533084999994,55.605472999992],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка Метрополитена «Ясенево»","global_id":272663855,"AdmArea":"Юго-Западный административный округ","District":"район Ясенево","LocationDescription":"Новоясеневский проспект, владение 28","OrgPhone":"(495) 622-02-04","CarCapacity":77}},"type":"Feature"},{"geometry":{"coordinates":[37.661188999558,55.886661999785],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка Метрополитена «Медведково»","global_id":272663856,"AdmArea":"Северо-Восточный административный округ","District":"район Северное Медведково","LocationDescription":"Широкая улица, владение 14","OrgPhone":"(495) 622-02-04","CarCapacity":63}},"type":"Feature"},{"geometry":{"coordinates":[37.603445000244,55.883457999777],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка Метрополитена «Бибирево»","global_id":272663857,"AdmArea":"Северо-Восточный административный округ","District":"район Бибирево","LocationDescription":"улица Плещеева, владение 1","OrgPhone":"(495) 622-02-04","CarCapacity":78}},"type":"Feature"},{"geometry":{"coordinates":[37.57737100027,55.569872999947],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка Метрополитена «Бульвар Дмитрия Донского»","global_id":272663858,"AdmArea":"Юго-Западный административный округ","District":"район Северное Бутово","LocationDescription":"Бульвар Дмитрия Донского, владение 9","OrgPhone":"(495) 622-02-04","CarCapacity":132}},"type":"Feature"},{"geometry":{"coordinates":[37.574576,55.820224],"type":"Point"},"properties":{"DatasetId":622,"VersionNumber":3,"ReleaseNumber":14,"RowId":null,"Attributes":{"ParkingName":"Перехватывающая парковка Метрополитена «Тимирязевская»","global_id":272663859,"AdmArea":"Северный административный округ","District":"Тимирязевский район","LocationDescription":"Дмитровское шоссе, владение 17-21","OrgPhone":"(495) 622-02-04","CarCapacity":423}},"type":"Feature"}],"type":"FeatureCollection"}
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [37.40112300039, 55.803527999947],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка метрополитена «Строгино»",
+          "global_id": 1713487,
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Строгино",
+          "LocationDescription":
+            "Строгинский бульвар, владение 14, между вестибюлями станции метро",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 100
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.744872999849, 55.612121999928],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка метрополитена «Зябликово» 2",
+          "global_id": 1713489,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription":
+            "на пересечении Ясеневой улицы с Ореховым Бульваром, напротив пустыря с деревьями, через дорогу",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 107
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.574279999785, 55.566100999852],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Бульвар Дмитрия Донского»",
+          "global_id": 1713490,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Северное Бутово",
+          "LocationDescription":
+            "улица Грина, дом 5А, напротив Макдоналдс через дорогу",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 91
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.378063, 55.838663], "type": "Point" },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Волоколамская»",
+          "global_id": 1713491,
+          "AdmArea": "Северо-Западный административный округ",
+          "District": "район Митино",
+          "LocationDescription":
+            "Новотушинский проезд, владение 8, корпус 1, рядом с магазином «Пятерочка»",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 299
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.821031, 55.717308], "type": "Point" },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка метрополитена «Выхино»",
+          "global_id": 1713492,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Вешняки",
+          "LocationDescription":
+            "Вешняковская улица, владение 24-26, напротив бывшего рынка Выхино",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 264
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.745117000247, 55.61090099985],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка метрополитена «Зябликово» 3",
+          "global_id": 1713493,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription":
+            "на пересечении Ясеневой улицы и Воронежской улицы, рядом с вестибюлем станции метро",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 110
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.743286000136, 55.623108000058],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Шипиловская» 2",
+          "global_id": 1713494,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription":
+            "На пересечении улицы Мусы Джалиля и Шипиловской улицы, рядом со зданием Банкетный зал",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 68
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.743712999933, 55.621276999843],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Шипиловская» 3",
+          "global_id": 1713495,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription":
+            "На пересечении улицы Мусы Джалиля и Шипиловской улицы, между вестибюлями станции метро",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 115
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.544311, 55.546326], "type": "Point" },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Бульвар Адмирала Ушакова» 1",
+          "global_id": 1713496,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Южное Бутово",
+          "LocationDescription":
+            "От станции метро до Веневской улицы, вдоль улицы Адмирала Лазарева, вдоль путей легкого метро",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 221
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.778431999925, 55.787930000029],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Измайловская»",
+          "global_id": 1713497,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Измайлово",
+          "LocationDescription":
+            "Измайловский проспект, владение 49, вдоль путей метро, справа от вестибюля станции метро",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 90
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.739685000013, 55.6135249998],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Красногвардейская» 1",
+          "global_id": 1713498,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription":
+            "Ореховый бульвар, владение 22, на месте бывшего красногвардейского рынка",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 528
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.745117000247, 55.61230499978],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка метрополитена «Зябликово» 1",
+          "global_id": 1713499,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription":
+            "на пересечении Ясеневой улицы с Ореховым Бульваром, рядом с отстойно-разворотным кругом автобусов",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 32
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.7450500003, 55.609762000056],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка метрополитена «Зябликово» 4",
+          "global_id": 1713500,
+          "AdmArea": "Южный административный округ",
+          "District": "район Орехово-Борисово Южное",
+          "LocationDescription":
+            "на пересечении Ясеневой улицы и Воронежской улицы, напротив дома 44/42, между жилыми домами и дорогой",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 289
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.743102999838, 55.623717999817],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Шипиловская» 1",
+          "global_id": 1713501,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription":
+            "На пересечении улицы Мусы Джалиля и Шипиловской улицы, напротив магазин продукты и кафе через дорогу",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 65
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.743896000231, 55.620117000145],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Шипиловская» 4",
+          "global_id": 1713502,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription":
+            "На пересечении улицы Мусы Джалиля и Шипиловской улицы, рядом с вестибюлем станции метро",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 90
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.542896, 55.546073], "type": "Point" },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Бульвар Адмирала Ушакова» 2",
+          "global_id": 1713503,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Южное Бутово",
+          "LocationDescription":
+            "От станции метро до Веневской улицы, вдоль улицы Адмирала Лазарева, вдоль путей легкого метро, ближе к вестибюлю станции метро",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 42
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.594482000208, 55.579285000021],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка метрополитена «Аннино»",
+          "global_id": 1713505,
+          "AdmArea": "Южный административный округ",
+          "District": "район Чертаново Южное",
+          "LocationDescription":
+            "Варшавское шоссе, владение 170, на пересечении с МКАД по ходу движения из центра",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 1048
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.749329, 55.614072], "type": "Point" },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка метрополитена «Красногвардейская» 2",
+          "global_id": 1713506,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription":
+            "Ореховый бульвар, дом 24-2А, магазин продукты через дорогу",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 158
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.856097000352, 55.743938999927],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка метрополитена «Новокосино»",
+          "global_id": 1777274,
+          "AdmArea": "Восточный административный округ",
+          "District": "район Новокосино",
+          "LocationDescription":
+            "Суздальская улица, дом 24, корпус 1, напротив",
+          "OrgPhone": "(495) 622-02-05",
+          "CarCapacity": 355
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.718838000234, 55.61183200006],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка Метрополитена «Домодедовская»",
+          "global_id": 272663846,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription": "Ореховый бульвар, владение 13",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 182
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.720983999989, 55.61121799989],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка Метрополитена «Домодедовская»",
+          "global_id": 272663847,
+          "AdmArea": "Южный административный округ",
+          "District": "район Зябликово",
+          "LocationDescription": "Ореховый бульвар, владение 14",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 130
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.533664000127, 55.606135000005],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка Метрополитена «Ясенево»",
+          "global_id": 272663853,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Ясенево",
+          "LocationDescription": "Новоясеневский проспект, владение 9",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 83
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.533084999994, 55.605472999992],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка Метрополитена «Ясенево»",
+          "global_id": 272663855,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Ясенево",
+          "LocationDescription": "Новоясеневский проспект, владение 28",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 77
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.661188999558, 55.886661999785],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка Метрополитена «Медведково»",
+          "global_id": 272663856,
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Северное Медведково",
+          "LocationDescription": "Широкая улица, владение 14",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 63
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.603445000244, 55.883457999777],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName": "Перехватывающая парковка Метрополитена «Бибирево»",
+          "global_id": 272663857,
+          "AdmArea": "Северо-Восточный административный округ",
+          "District": "район Бибирево",
+          "LocationDescription": "улица Плещеева, владение 1",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 78
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [37.57737100027, 55.569872999947],
+        "type": "Point"
+      },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка Метрополитена «Бульвар Дмитрия Донского»",
+          "global_id": 272663858,
+          "AdmArea": "Юго-Западный административный округ",
+          "District": "район Северное Бутово",
+          "LocationDescription": "Бульвар Дмитрия Донского, владение 9",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 132
+        }
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": { "coordinates": [37.574576, 55.820224], "type": "Point" },
+      "properties": {
+        "DatasetId": 622,
+        "VersionNumber": 3,
+        "ReleaseNumber": 14,
+        "RowId": null,
+        "Attributes": {
+          "ParkingName":
+            "Перехватывающая парковка Метрополитена «Тимирязевская»",
+          "global_id": 272663859,
+          "AdmArea": "Северный административный округ",
+          "District": "Тимирязевский район",
+          "LocationDescription": "Дмитровское шоссе, владение 17-21",
+          "OrgPhone": "(495) 622-02-04",
+          "CarCapacity": 423
+        }
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
